@@ -261,9 +261,63 @@ ORDER BY signyear;
 
 -- 23. Инструкция SELECT, использующая рекурсивное обобщенное табличное
 -- выражение.
+-- UNION ALL в отличие от UNION выводит в результате объединения результатов нескольких запросов дубли (повторы)
+-- Рекурсивно увеличиваем число голов у футболистов с id < 20
+
+-- Определение ОТВ (Обобщенное табличное выражение)
+WITH RECURSIVE contracts_t(footballerid, goals) as (
+-- Определение закрепленного элемента
+SELECT footballerid, 0 as prev_goals
+FROM footballers as t
+WHERE t.footballerid < 20
+--WHERE t.positionf = 'forward'
+UNION ALL
+-- Определение рекурсивного элемента
+select footballerid, goals + 1
+from contracts_t
+where goals < 5
+)
+-- Инструкция, использующая ОТВ
+select *
+from contracts_t;
 
 -- 24. Оконные функции. Использование конструкций MIN/MAX/AVG OVER().
+-- INNER JOIN (JOIN) позволяет не учитывать клубы без футболистов
+-- LEFT OUTER JOIN будет учитывать клубы без футболистов
+-- DISTINCT удаляет повторы (дубли) в SELECT
+-- OVER PARTITION BY(столбец для группировки) — это свойство для задания размеров окна.
+-- Здесь можно указывать дополнительную информацию, давать служебные команды, например добавить номер строки.
+-- Синтаксис оконной функции вписывается прямо в выборку столбцов.
+-- Средння цена футболистов у клубов
+
+--drop table if exists new_table;
+
+SELECT DISTINCT t.clubid, t.nameclub, t.price,
+       AVG(cf.price) OVER(PARTITION BY t.clubid, t.nameclub) AS AvgPrice
+--INTO new_table
+FROM clubs AS t JOIN footballers AS cf
+ON t.clubid = cf.clubid
+ORDER BY t.clubid;
+
+--SELECT *
+--FROM new_table
+--WHERE AvgPrice is not null;
 
 -- 25. Оконные фнкции для устранения дублей.
-
+-- Устранить дублирующиеся строки с использованием функции ROW_NUMBER() - какой раз встретилась
+-- данная строка в таблице.
+WITH duplicates as (
+    SELECT *
+    FROM leagues
+    WHERE numberclubs < 30
+    UNION ALL
+    SELECT *
+    FROM leagues
+    WHERE numberclubs < 18
+    )
+SELECT *
+FROM (SELECT leaugueid, nameleague, numberclubs, row_number() OVER(PARTITION BY leaugueid) as rn
+FROM duplicates) AS d
+WHERE d.rn = 1
+ORDER BY leaugueid
 
