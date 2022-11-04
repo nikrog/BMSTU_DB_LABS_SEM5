@@ -427,3 +427,49 @@ WHERE leaugueid = 1;
 SELECT *
 FROM leagues_view
 ORDER BY leaugueid;
+
+-- Процедура, удаляющая клубы (у которых есть футболист из США)
+-- Триггер должен проверить, если пытаются удалить клуб с футболистом из США - запретить выполнение
+drop table if exists clubs_copy;
+SELECT *
+INTO clubs_copy
+FROM clubs;
+
+CREATE OR REPLACE PROCEDURE delete_club(cl_id INT)
+AS '
+    BEGIN
+        DELETE FROM clubs_copy
+        WHERE clubid = cl_id;
+    END;
+' LANGUAGE plpgsql;
+
+CREATE OR REPLACE FUNCTION delete_cl_trigger()
+RETURNS TRIGGER
+AS '
+    BEGIN
+        IF EXISTS(SELECT footballerid FROM footballers WHERE clubid = old.clubid AND countryid = 98) THEN
+            raise notice ''gtghtht'';
+            RETURN NULL;
+        END IF;
+        RETURN OLD;
+    END;
+'LANGUAGE plpgsql;
+
+CREATE TRIGGER BeforeDeleteClub
+BEFORE DELETE ON clubs_copy
+FOR EACH ROW
+EXECUTE PROCEDURE delete_cl_trigger();
+
+CALL delete_club(125);
+
+-- клубы с футболистами из США
+SELECT *
+FROM clubs JOIN footballers f on clubs.clubid = f.clubid
+WHERE f.countryid = 98;
+
+SELECT *
+FROM clubs_copy
+WHERE countryid = 98;
+
+SELECT *
+FROM clubs_copy
