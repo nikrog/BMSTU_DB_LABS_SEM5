@@ -18,7 +18,7 @@ AS $$
 $$ LANGUAGE plpython3u;
 
 -- проверка
-SELECT get_club_name(1900) as res;
+SELECT get_club_name(1) as res;
 
 SELECT *
 FROM clubs
@@ -187,4 +187,57 @@ $$ LANGUAGE plpython3u;
 
 -- проверка
 SELECT *
-FROM get_most_expensive(35)
+FROM get_most_expensive(35);
+
+
+-- защита (сравнение времени выполнения табличной функции, написаннной на plpgsql и plpython3u (SQL CLR).
+
+-- табличная функция SQL
+CREATE OR REPLACE FUNCTION get_footballers_club_sql(club varchar(100) = 'FC Levy')
+RETURNS TABLE(
+    footballerid INT,
+    nameclub VARCHAR(100),
+    namefootballer VARCHAR(100),
+    surname VARCHAR(100),
+    countryid INT,
+    positionf VARCHAR(100)
+             )
+AS $$
+    BEGIN
+    RETURN QUERY
+    SELECT f.footballerid, c.nameclub, f.namefootballer, f.surname, f.countryid, f.positionf
+                          FROM footballers f JOIN clubs c on f.clubid = c.clubid
+                          WHERE c.nameclub = club;
+
+    END;
+$$ LANGUAGE plpgsql;
+
+
+
+-- табличная функция SQL CLR (Python)
+CREATE OR REPLACE FUNCTION get_footballers_club_pt(club varchar(100) = 'FC Levy')
+RETURNS TABLE(
+    footballerid INT,
+    nameclub VARCHAR(100),
+    namefootballer VARCHAR(100),
+    surname VARCHAR(100),
+    countryid INT,
+    positionf VARCHAR(100)
+             )
+AS $$
+    tmp = plpy.execute(f" SELECT f.footballerid, c.nameclub, f.namefootballer, f.surname, f.countryid, f.positionf \
+                          FROM footballers f JOIN clubs c on f.clubid = c.clubid;")
+    res = []
+    for f in tmp:
+        if f['nameclub'] == club:
+            res.append(f)
+    return res
+$$ LANGUAGE plpython3u;
+
+-- проверка SQL CLR
+SELECT *
+FROM get_footballers_club_pt('FC Brown');
+
+-- проверка SQL
+SELECT *
+FROM get_footballers_club_sql('FC Brown');
