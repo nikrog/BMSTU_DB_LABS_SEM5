@@ -1,0 +1,3032 @@
+[
+  {
+    "cntr_json": {"contractid":1,"footballerid":862,"agentid":217,"signdate":"2021-07-04","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":2,"footballerid":31,"agentid":218,"signdate":"2022-12-04","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":3,"footballerid":417,"agentid":753,"signdate":"2020-01-17","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":4,"footballerid":757,"agentid":642,"signdate":"2021-04-22","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":5,"footballerid":323,"agentid":57,"signdate":"2022-04-19","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":6,"footballerid":538,"agentid":22,"signdate":"2020-12-05","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":7,"footballerid":961,"agentid":411,"signdate":"2021-11-24","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":8,"footballerid":609,"agentid":788,"signdate":"2021-02-25","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":9,"footballerid":879,"agentid":978,"signdate":"2022-09-08","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":10,"footballerid":114,"agentid":359,"signdate":"2021-06-21","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":11,"footballerid":424,"agentid":251,"signdate":"2022-04-18","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":12,"footballerid":328,"agentid":966,"signdate":"2020-01-26","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":13,"footballerid":402,"agentid":300,"signdate":"2021-11-26","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":14,"footballerid":661,"agentid":528,"signdate":"2022-05-02","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":15,"footballerid":76,"agentid":845,"signdate":"2021-04-30","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":16,"footballerid":387,"agentid":870,"signdate":"2022-12-26","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":17,"footballerid":265,"agentid":154,"signdate":"2020-02-28","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":18,"footballerid":400,"agentid":484,"signdate":"2021-12-07","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":19,"footballerid":447,"agentid":771,"signdate":"2020-07-24","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":20,"footballerid":413,"agentid":471,"signdate":"2020-12-23","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":21,"footballerid":632,"agentid":201,"signdate":"2022-09-16","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":22,"footballerid":514,"agentid":521,"signdate":"2021-10-11","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":23,"footballerid":765,"agentid":604,"signdate":"2022-11-15","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":24,"footballerid":527,"agentid":68,"signdate":"2021-08-10","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":25,"footballerid":856,"agentid":672,"signdate":"2020-01-06","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":26,"footballerid":27,"agentid":259,"signdate":"2021-03-21","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":27,"footballerid":28,"agentid":654,"signdate":"2022-05-04","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":28,"footballerid":189,"agentid":909,"signdate":"2020-07-01","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":29,"footballerid":413,"agentid":799,"signdate":"2022-09-13","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":30,"footballerid":339,"agentid":654,"signdate":"2021-11-30","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":31,"footballerid":422,"agentid":722,"signdate":"2021-08-21","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":32,"footballerid":966,"agentid":454,"signdate":"2022-07-19","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":33,"footballerid":571,"agentid":506,"signdate":"2021-04-04","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":34,"footballerid":7,"agentid":123,"signdate":"2022-07-31","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":35,"footballerid":173,"agentid":632,"signdate":"2022-03-21","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":36,"footballerid":673,"agentid":550,"signdate":"2021-03-14","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":37,"footballerid":677,"agentid":39,"signdate":"2020-07-09","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":38,"footballerid":11,"agentid":144,"signdate":"2022-10-25","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":39,"footballerid":454,"agentid":867,"signdate":"2020-09-08","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":40,"footballerid":905,"agentid":928,"signdate":"2020-05-21","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":41,"footballerid":792,"agentid":97,"signdate":"2022-06-17","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":42,"footballerid":428,"agentid":46,"signdate":"2021-10-19","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":43,"footballerid":554,"agentid":779,"signdate":"2022-07-19","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":44,"footballerid":48,"agentid":374,"signdate":"2021-09-23","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":45,"footballerid":860,"agentid":903,"signdate":"2021-04-11","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":46,"footballerid":60,"agentid":866,"signdate":"2021-11-24","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":47,"footballerid":876,"agentid":4,"signdate":"2021-08-23","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":48,"footballerid":24,"agentid":746,"signdate":"2020-02-25","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":49,"footballerid":299,"agentid":854,"signdate":"2020-07-17","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":50,"footballerid":404,"agentid":63,"signdate":"2021-10-09","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":51,"footballerid":446,"agentid":962,"signdate":"2020-04-10","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":52,"footballerid":670,"agentid":338,"signdate":"2022-09-29","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":53,"footballerid":272,"agentid":691,"signdate":"2021-04-12","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":54,"footballerid":292,"agentid":612,"signdate":"2022-06-23","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":55,"footballerid":483,"agentid":53,"signdate":"2022-06-19","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":56,"footballerid":795,"agentid":549,"signdate":"2022-01-28","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":57,"footballerid":328,"agentid":42,"signdate":"2021-10-27","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":58,"footballerid":180,"agentid":607,"signdate":"2021-04-02","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":59,"footballerid":43,"agentid":245,"signdate":"2021-04-05","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":60,"footballerid":79,"agentid":645,"signdate":"2020-06-30","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":61,"footballerid":911,"agentid":1,"signdate":"2022-08-23","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":62,"footballerid":854,"agentid":415,"signdate":"2020-12-03","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":63,"footballerid":757,"agentid":603,"signdate":"2022-02-17","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":64,"footballerid":106,"agentid":213,"signdate":"2020-11-14","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":65,"footballerid":641,"agentid":413,"signdate":"2020-12-25","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":66,"footballerid":507,"agentid":323,"signdate":"2022-07-13","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":67,"footballerid":542,"agentid":534,"signdate":"2021-12-18","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":68,"footballerid":903,"agentid":727,"signdate":"2021-07-17","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":69,"footballerid":675,"agentid":523,"signdate":"2022-08-17","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":70,"footballerid":192,"agentid":160,"signdate":"2020-12-23","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":71,"footballerid":71,"agentid":698,"signdate":"2020-03-17","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":72,"footballerid":589,"agentid":426,"signdate":"2021-11-04","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":73,"footballerid":769,"agentid":693,"signdate":"2020-10-11","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":74,"footballerid":362,"agentid":420,"signdate":"2021-12-19","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":75,"footballerid":214,"agentid":284,"signdate":"2022-03-21","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":76,"footballerid":13,"agentid":774,"signdate":"2021-07-23","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":77,"footballerid":690,"agentid":606,"signdate":"2021-05-24","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":78,"footballerid":67,"agentid":193,"signdate":"2020-06-04","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":79,"footballerid":913,"agentid":909,"signdate":"2022-03-16","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":80,"footballerid":417,"agentid":648,"signdate":"2021-04-04","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":81,"footballerid":967,"agentid":831,"signdate":"2020-11-17","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":82,"footballerid":461,"agentid":522,"signdate":"2022-02-07","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":83,"footballerid":678,"agentid":700,"signdate":"2021-12-06","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":84,"footballerid":677,"agentid":274,"signdate":"2020-11-22","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":85,"footballerid":257,"agentid":522,"signdate":"2021-10-02","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":86,"footballerid":755,"agentid":541,"signdate":"2021-04-17","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":87,"footballerid":813,"agentid":965,"signdate":"2020-09-19","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":88,"footballerid":476,"agentid":494,"signdate":"2021-09-17","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":89,"footballerid":682,"agentid":330,"signdate":"2020-09-24","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":90,"footballerid":230,"agentid":473,"signdate":"2020-07-27","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":91,"footballerid":520,"agentid":52,"signdate":"2020-05-28","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":92,"footballerid":352,"agentid":856,"signdate":"2020-08-10","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":93,"footballerid":348,"agentid":726,"signdate":"2022-02-23","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":94,"footballerid":505,"agentid":684,"signdate":"2021-08-05","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":95,"footballerid":216,"agentid":621,"signdate":"2022-07-15","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":96,"footballerid":169,"agentid":207,"signdate":"2021-02-25","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":97,"footballerid":673,"agentid":194,"signdate":"2021-11-19","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":98,"footballerid":235,"agentid":941,"signdate":"2022-11-21","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":99,"footballerid":257,"agentid":781,"signdate":"2022-02-01","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":100,"footballerid":83,"agentid":979,"signdate":"2021-08-01","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":101,"footballerid":692,"agentid":324,"signdate":"2022-10-31","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":102,"footballerid":990,"agentid":992,"signdate":"2020-04-30","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":103,"footballerid":333,"agentid":120,"signdate":"2022-04-02","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":104,"footballerid":332,"agentid":563,"signdate":"2021-10-06","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":105,"footballerid":452,"agentid":384,"signdate":"2022-05-20","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":106,"footballerid":854,"agentid":422,"signdate":"2022-08-21","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":107,"footballerid":324,"agentid":280,"signdate":"2021-07-29","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":108,"footballerid":791,"agentid":366,"signdate":"2022-03-02","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":109,"footballerid":735,"agentid":11,"signdate":"2021-11-29","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":110,"footballerid":123,"agentid":872,"signdate":"2020-05-31","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":111,"footballerid":232,"agentid":390,"signdate":"2022-06-04","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":112,"footballerid":960,"agentid":264,"signdate":"2022-09-27","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":113,"footballerid":735,"agentid":96,"signdate":"2022-04-10","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":114,"footballerid":303,"agentid":133,"signdate":"2022-10-16","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":115,"footballerid":633,"agentid":268,"signdate":"2021-01-13","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":116,"footballerid":502,"agentid":407,"signdate":"2020-02-26","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":117,"footballerid":640,"agentid":305,"signdate":"2022-11-21","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":118,"footballerid":919,"agentid":340,"signdate":"2022-03-19","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":119,"footballerid":332,"agentid":49,"signdate":"2021-05-08","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":120,"footballerid":386,"agentid":583,"signdate":"2020-10-08","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":121,"footballerid":401,"agentid":506,"signdate":"2020-04-07","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":122,"footballerid":407,"agentid":942,"signdate":"2020-04-12","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":123,"footballerid":210,"agentid":103,"signdate":"2021-12-29","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":124,"footballerid":261,"agentid":215,"signdate":"2022-05-18","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":125,"footballerid":974,"agentid":691,"signdate":"2020-09-30","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":126,"footballerid":422,"agentid":929,"signdate":"2021-03-03","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":127,"footballerid":635,"agentid":538,"signdate":"2020-11-10","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":128,"footballerid":785,"agentid":417,"signdate":"2020-02-01","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":129,"footballerid":534,"agentid":941,"signdate":"2022-12-04","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":130,"footballerid":386,"agentid":4,"signdate":"2020-04-19","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":131,"footballerid":983,"agentid":133,"signdate":"2020-03-13","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":132,"footballerid":258,"agentid":959,"signdate":"2021-08-01","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":133,"footballerid":188,"agentid":310,"signdate":"2021-08-27","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":134,"footballerid":793,"agentid":329,"signdate":"2022-05-31","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":135,"footballerid":107,"agentid":956,"signdate":"2020-09-14","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":136,"footballerid":417,"agentid":418,"signdate":"2021-12-15","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":137,"footballerid":955,"agentid":271,"signdate":"2022-05-04","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":138,"footballerid":144,"agentid":367,"signdate":"2020-03-04","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":139,"footballerid":404,"agentid":308,"signdate":"2021-11-29","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":140,"footballerid":93,"agentid":949,"signdate":"2022-11-12","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":141,"footballerid":970,"agentid":389,"signdate":"2020-06-21","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":142,"footballerid":272,"agentid":690,"signdate":"2021-08-28","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":143,"footballerid":258,"agentid":511,"signdate":"2022-05-12","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":144,"footballerid":216,"agentid":81,"signdate":"2022-09-09","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":145,"footballerid":306,"agentid":554,"signdate":"2022-05-03","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":146,"footballerid":855,"agentid":822,"signdate":"2022-02-06","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":147,"footballerid":591,"agentid":109,"signdate":"2020-01-22","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":148,"footballerid":292,"agentid":745,"signdate":"2020-06-25","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":149,"footballerid":321,"agentid":401,"signdate":"2022-10-22","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":150,"footballerid":608,"agentid":925,"signdate":"2021-05-08","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":151,"footballerid":151,"agentid":306,"signdate":"2021-09-15","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":152,"footballerid":496,"agentid":720,"signdate":"2022-03-08","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":153,"footballerid":489,"agentid":921,"signdate":"2020-08-15","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":154,"footballerid":672,"agentid":27,"signdate":"2021-10-01","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":155,"footballerid":598,"agentid":753,"signdate":"2020-01-16","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":156,"footballerid":559,"agentid":615,"signdate":"2021-09-06","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":157,"footballerid":981,"agentid":733,"signdate":"2021-11-06","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":158,"footballerid":368,"agentid":606,"signdate":"2021-10-09","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":159,"footballerid":418,"agentid":672,"signdate":"2020-08-14","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":160,"footballerid":265,"agentid":648,"signdate":"2022-08-29","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":161,"footballerid":648,"agentid":593,"signdate":"2021-12-21","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":162,"footballerid":332,"agentid":31,"signdate":"2022-02-20","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":163,"footballerid":738,"agentid":521,"signdate":"2022-01-03","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":164,"footballerid":511,"agentid":62,"signdate":"2020-01-24","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":165,"footballerid":263,"agentid":424,"signdate":"2020-02-29","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":166,"footballerid":670,"agentid":123,"signdate":"2022-10-07","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":167,"footballerid":414,"agentid":57,"signdate":"2021-10-12","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":168,"footballerid":679,"agentid":716,"signdate":"2021-01-27","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":169,"footballerid":281,"agentid":457,"signdate":"2021-10-12","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":170,"footballerid":841,"agentid":548,"signdate":"2021-12-30","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":171,"footballerid":848,"agentid":624,"signdate":"2021-01-23","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":172,"footballerid":710,"agentid":920,"signdate":"2021-08-26","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":173,"footballerid":824,"agentid":775,"signdate":"2022-10-21","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":174,"footballerid":619,"agentid":348,"signdate":"2022-05-08","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":175,"footballerid":453,"agentid":903,"signdate":"2022-03-28","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":176,"footballerid":530,"agentid":405,"signdate":"2020-03-27","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":177,"footballerid":899,"agentid":854,"signdate":"2022-04-22","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":178,"footballerid":440,"agentid":334,"signdate":"2020-07-30","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":179,"footballerid":789,"agentid":136,"signdate":"2020-05-20","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":180,"footballerid":747,"agentid":526,"signdate":"2022-01-08","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":181,"footballerid":364,"agentid":775,"signdate":"2021-08-20","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":182,"footballerid":805,"agentid":208,"signdate":"2020-06-06","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":183,"footballerid":392,"agentid":349,"signdate":"2021-04-28","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":184,"footballerid":225,"agentid":460,"signdate":"2022-09-07","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":185,"footballerid":263,"agentid":566,"signdate":"2020-08-17","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":186,"footballerid":658,"agentid":99,"signdate":"2020-11-15","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":187,"footballerid":963,"agentid":767,"signdate":"2022-02-26","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":188,"footballerid":590,"agentid":871,"signdate":"2021-10-07","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":189,"footballerid":36,"agentid":722,"signdate":"2021-04-10","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":190,"footballerid":988,"agentid":156,"signdate":"2021-03-30","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":191,"footballerid":70,"agentid":690,"signdate":"2020-12-13","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":192,"footballerid":762,"agentid":473,"signdate":"2022-05-18","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":193,"footballerid":617,"agentid":345,"signdate":"2020-02-12","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":194,"footballerid":386,"agentid":901,"signdate":"2020-05-28","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":195,"footballerid":572,"agentid":844,"signdate":"2021-09-03","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":196,"footballerid":850,"agentid":459,"signdate":"2021-05-10","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":197,"footballerid":980,"agentid":207,"signdate":"2020-02-21","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":198,"footballerid":562,"agentid":575,"signdate":"2020-10-29","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":199,"footballerid":197,"agentid":762,"signdate":"2020-01-27","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":200,"footballerid":733,"agentid":13,"signdate":"2022-11-27","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":201,"footballerid":54,"agentid":480,"signdate":"2021-03-14","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":202,"footballerid":150,"agentid":998,"signdate":"2022-01-26","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":203,"footballerid":904,"agentid":704,"signdate":"2021-03-16","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":204,"footballerid":730,"agentid":245,"signdate":"2020-05-11","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":205,"footballerid":571,"agentid":385,"signdate":"2021-07-09","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":206,"footballerid":194,"agentid":963,"signdate":"2022-02-21","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":207,"footballerid":14,"agentid":954,"signdate":"2021-08-28","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":208,"footballerid":486,"agentid":267,"signdate":"2022-09-23","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":209,"footballerid":576,"agentid":555,"signdate":"2020-05-14","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":210,"footballerid":142,"agentid":626,"signdate":"2021-02-05","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":211,"footballerid":305,"agentid":422,"signdate":"2021-06-03","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":212,"footballerid":244,"agentid":128,"signdate":"2022-10-05","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":213,"footballerid":554,"agentid":150,"signdate":"2022-05-01","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":214,"footballerid":582,"agentid":21,"signdate":"2022-01-24","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":215,"footballerid":109,"agentid":582,"signdate":"2020-05-06","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":216,"footballerid":348,"agentid":132,"signdate":"2022-07-28","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":217,"footballerid":666,"agentid":832,"signdate":"2022-06-08","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":218,"footballerid":178,"agentid":366,"signdate":"2022-02-05","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":219,"footballerid":967,"agentid":327,"signdate":"2020-05-19","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":220,"footballerid":923,"agentid":731,"signdate":"2020-11-28","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":221,"footballerid":968,"agentid":785,"signdate":"2020-02-06","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":222,"footballerid":714,"agentid":788,"signdate":"2020-02-13","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":223,"footballerid":615,"agentid":752,"signdate":"2021-11-25","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":224,"footballerid":533,"agentid":205,"signdate":"2022-07-27","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":225,"footballerid":843,"agentid":571,"signdate":"2021-05-11","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":226,"footballerid":405,"agentid":480,"signdate":"2022-06-14","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":227,"footballerid":126,"agentid":765,"signdate":"2022-02-23","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":228,"footballerid":476,"agentid":217,"signdate":"2022-04-06","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":229,"footballerid":501,"agentid":633,"signdate":"2022-08-27","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":230,"footballerid":739,"agentid":87,"signdate":"2020-08-10","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":231,"footballerid":597,"agentid":993,"signdate":"2022-07-22","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":232,"footballerid":419,"agentid":712,"signdate":"2022-11-09","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":233,"footballerid":930,"agentid":729,"signdate":"2022-10-06","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":234,"footballerid":698,"agentid":93,"signdate":"2020-06-20","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":235,"footballerid":422,"agentid":774,"signdate":"2021-01-31","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":236,"footballerid":37,"agentid":62,"signdate":"2022-05-12","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":237,"footballerid":356,"agentid":38,"signdate":"2020-01-06","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":238,"footballerid":747,"agentid":584,"signdate":"2020-03-26","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":239,"footballerid":368,"agentid":742,"signdate":"2022-06-18","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":240,"footballerid":832,"agentid":252,"signdate":"2020-12-06","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":241,"footballerid":738,"agentid":652,"signdate":"2020-12-12","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":242,"footballerid":532,"agentid":803,"signdate":"2020-03-07","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":243,"footballerid":532,"agentid":273,"signdate":"2022-12-25","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":244,"footballerid":856,"agentid":610,"signdate":"2022-04-22","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":245,"footballerid":684,"agentid":872,"signdate":"2021-12-08","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":246,"footballerid":208,"agentid":370,"signdate":"2022-04-02","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":247,"footballerid":497,"agentid":740,"signdate":"2021-01-25","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":248,"footballerid":723,"agentid":914,"signdate":"2021-02-22","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":249,"footballerid":443,"agentid":213,"signdate":"2020-12-11","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":250,"footballerid":994,"agentid":48,"signdate":"2022-09-21","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":251,"footballerid":652,"agentid":605,"signdate":"2022-07-26","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":252,"footballerid":210,"agentid":455,"signdate":"2022-11-12","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":253,"footballerid":286,"agentid":11,"signdate":"2020-12-01","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":254,"footballerid":731,"agentid":244,"signdate":"2020-10-05","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":255,"footballerid":14,"agentid":354,"signdate":"2022-07-23","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":256,"footballerid":68,"agentid":422,"signdate":"2021-10-22","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":257,"footballerid":486,"agentid":520,"signdate":"2022-04-30","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":258,"footballerid":213,"agentid":351,"signdate":"2021-10-03","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":259,"footballerid":752,"agentid":380,"signdate":"2022-09-09","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":260,"footballerid":91,"agentid":65,"signdate":"2021-03-10","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":261,"footballerid":561,"agentid":649,"signdate":"2021-10-21","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":262,"footballerid":69,"agentid":383,"signdate":"2021-07-27","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":263,"footballerid":553,"agentid":545,"signdate":"2021-06-28","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":264,"footballerid":23,"agentid":210,"signdate":"2021-03-14","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":265,"footballerid":627,"agentid":27,"signdate":"2020-06-02","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":266,"footballerid":652,"agentid":445,"signdate":"2022-06-19","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":267,"footballerid":888,"agentid":350,"signdate":"2021-11-29","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":268,"footballerid":307,"agentid":665,"signdate":"2021-03-06","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":269,"footballerid":405,"agentid":853,"signdate":"2021-05-29","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":270,"footballerid":1,"agentid":99,"signdate":"2021-04-02","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":271,"footballerid":355,"agentid":8,"signdate":"2021-03-28","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":272,"footballerid":963,"agentid":380,"signdate":"2021-11-06","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":273,"footballerid":969,"agentid":807,"signdate":"2022-07-20","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":274,"footballerid":4,"agentid":654,"signdate":"2021-03-21","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":275,"footballerid":877,"agentid":4,"signdate":"2021-10-16","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":276,"footballerid":342,"agentid":961,"signdate":"2020-01-09","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":277,"footballerid":577,"agentid":773,"signdate":"2020-05-04","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":278,"footballerid":454,"agentid":815,"signdate":"2022-01-23","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":279,"footballerid":796,"agentid":424,"signdate":"2022-10-20","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":280,"footballerid":179,"agentid":705,"signdate":"2020-08-23","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":281,"footballerid":934,"agentid":474,"signdate":"2022-08-18","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":282,"footballerid":321,"agentid":83,"signdate":"2021-10-17","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":283,"footballerid":209,"agentid":559,"signdate":"2022-11-03","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":284,"footballerid":562,"agentid":987,"signdate":"2021-06-20","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":285,"footballerid":658,"agentid":145,"signdate":"2021-12-20","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":286,"footballerid":490,"agentid":46,"signdate":"2021-11-13","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":287,"footballerid":215,"agentid":438,"signdate":"2022-06-23","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":288,"footballerid":908,"agentid":100,"signdate":"2020-09-18","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":289,"footballerid":825,"agentid":54,"signdate":"2021-12-12","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":290,"footballerid":776,"agentid":467,"signdate":"2021-06-21","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":291,"footballerid":508,"agentid":551,"signdate":"2022-11-21","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":292,"footballerid":638,"agentid":535,"signdate":"2020-02-09","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":293,"footballerid":985,"agentid":432,"signdate":"2022-05-08","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":294,"footballerid":244,"agentid":745,"signdate":"2020-07-04","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":295,"footballerid":491,"agentid":674,"signdate":"2020-09-24","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":296,"footballerid":857,"agentid":99,"signdate":"2020-04-27","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":297,"footballerid":506,"agentid":988,"signdate":"2021-04-18","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":298,"footballerid":44,"agentid":72,"signdate":"2022-08-30","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":299,"footballerid":818,"agentid":324,"signdate":"2021-10-27","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":300,"footballerid":261,"agentid":379,"signdate":"2020-01-07","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":301,"footballerid":245,"agentid":556,"signdate":"2020-03-04","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":302,"footballerid":432,"agentid":316,"signdate":"2021-09-22","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":303,"footballerid":357,"agentid":959,"signdate":"2022-04-29","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":304,"footballerid":614,"agentid":743,"signdate":"2022-01-23","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":305,"footballerid":516,"agentid":756,"signdate":"2020-11-24","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":306,"footballerid":369,"agentid":885,"signdate":"2020-04-10","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":307,"footballerid":174,"agentid":771,"signdate":"2020-06-23","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":308,"footballerid":497,"agentid":454,"signdate":"2022-06-21","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":309,"footballerid":29,"agentid":917,"signdate":"2020-06-17","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":310,"footballerid":661,"agentid":831,"signdate":"2020-12-08","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":311,"footballerid":914,"agentid":455,"signdate":"2020-11-29","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":312,"footballerid":322,"agentid":190,"signdate":"2022-09-12","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":313,"footballerid":634,"agentid":258,"signdate":"2020-07-01","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":314,"footballerid":461,"agentid":969,"signdate":"2021-03-20","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":315,"footballerid":513,"agentid":989,"signdate":"2022-09-12","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":316,"footballerid":354,"agentid":199,"signdate":"2021-01-09","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":317,"footballerid":800,"agentid":287,"signdate":"2022-07-10","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":318,"footballerid":870,"agentid":674,"signdate":"2022-12-26","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":319,"footballerid":644,"agentid":280,"signdate":"2021-07-15","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":320,"footballerid":143,"agentid":204,"signdate":"2021-11-20","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":321,"footballerid":806,"agentid":188,"signdate":"2021-07-28","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":322,"footballerid":180,"agentid":932,"signdate":"2020-05-30","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":323,"footballerid":288,"agentid":331,"signdate":"2020-05-21","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":324,"footballerid":609,"agentid":372,"signdate":"2021-06-30","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":325,"footballerid":158,"agentid":48,"signdate":"2020-08-03","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":326,"footballerid":89,"agentid":947,"signdate":"2020-04-29","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":327,"footballerid":87,"agentid":750,"signdate":"2020-09-20","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":328,"footballerid":349,"agentid":811,"signdate":"2020-04-01","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":329,"footballerid":597,"agentid":983,"signdate":"2020-07-15","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":330,"footballerid":169,"agentid":610,"signdate":"2022-11-16","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":331,"footballerid":256,"agentid":781,"signdate":"2022-04-10","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":332,"footballerid":428,"agentid":247,"signdate":"2022-01-19","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":333,"footballerid":12,"agentid":122,"signdate":"2022-10-08","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":334,"footballerid":194,"agentid":536,"signdate":"2021-02-12","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":335,"footballerid":553,"agentid":732,"signdate":"2022-09-19","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":336,"footballerid":892,"agentid":878,"signdate":"2022-12-13","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":337,"footballerid":449,"agentid":462,"signdate":"2021-05-31","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":338,"footballerid":382,"agentid":922,"signdate":"2022-10-28","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":339,"footballerid":746,"agentid":941,"signdate":"2020-08-18","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":340,"footballerid":741,"agentid":262,"signdate":"2020-10-01","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":341,"footballerid":985,"agentid":42,"signdate":"2020-07-26","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":342,"footballerid":168,"agentid":226,"signdate":"2022-01-19","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":343,"footballerid":99,"agentid":883,"signdate":"2021-09-30","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":344,"footballerid":375,"agentid":414,"signdate":"2021-02-14","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":345,"footballerid":666,"agentid":799,"signdate":"2020-10-18","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":346,"footballerid":469,"agentid":188,"signdate":"2020-08-22","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":347,"footballerid":474,"agentid":732,"signdate":"2021-10-26","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":348,"footballerid":167,"agentid":588,"signdate":"2022-04-01","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":349,"footballerid":814,"agentid":877,"signdate":"2021-03-02","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":350,"footballerid":26,"agentid":217,"signdate":"2022-06-25","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":351,"footballerid":687,"agentid":436,"signdate":"2021-09-07","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":352,"footballerid":107,"agentid":253,"signdate":"2022-08-31","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":353,"footballerid":129,"agentid":864,"signdate":"2020-03-01","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":354,"footballerid":705,"agentid":706,"signdate":"2020-01-26","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":355,"footballerid":220,"agentid":763,"signdate":"2022-08-05","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":356,"footballerid":499,"agentid":391,"signdate":"2020-12-21","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":357,"footballerid":326,"agentid":647,"signdate":"2020-12-17","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":358,"footballerid":65,"agentid":977,"signdate":"2021-09-08","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":359,"footballerid":678,"agentid":596,"signdate":"2021-04-17","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":360,"footballerid":467,"agentid":749,"signdate":"2022-11-26","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":361,"footballerid":437,"agentid":466,"signdate":"2022-01-25","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":362,"footballerid":914,"agentid":910,"signdate":"2022-11-12","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":363,"footballerid":926,"agentid":722,"signdate":"2020-10-10","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":364,"footballerid":900,"agentid":572,"signdate":"2022-03-09","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":365,"footballerid":900,"agentid":668,"signdate":"2020-10-13","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":366,"footballerid":462,"agentid":624,"signdate":"2021-04-12","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":367,"footballerid":443,"agentid":104,"signdate":"2022-03-15","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":368,"footballerid":542,"agentid":894,"signdate":"2020-07-12","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":369,"footballerid":237,"agentid":882,"signdate":"2022-09-04","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":370,"footballerid":168,"agentid":309,"signdate":"2021-06-02","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":371,"footballerid":877,"agentid":178,"signdate":"2020-02-06","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":372,"footballerid":175,"agentid":835,"signdate":"2020-06-22","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":373,"footballerid":427,"agentid":653,"signdate":"2021-01-16","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":374,"footballerid":883,"agentid":160,"signdate":"2022-11-10","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":375,"footballerid":371,"agentid":572,"signdate":"2021-05-09","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":376,"footballerid":70,"agentid":704,"signdate":"2020-08-11","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":377,"footballerid":134,"agentid":382,"signdate":"2020-08-18","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":378,"footballerid":547,"agentid":673,"signdate":"2020-03-14","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":379,"footballerid":982,"agentid":714,"signdate":"2020-07-11","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":380,"footballerid":251,"agentid":333,"signdate":"2021-01-02","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":381,"footballerid":710,"agentid":421,"signdate":"2022-10-04","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":382,"footballerid":780,"agentid":342,"signdate":"2022-03-22","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":383,"footballerid":351,"agentid":66,"signdate":"2020-10-01","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":384,"footballerid":163,"agentid":34,"signdate":"2022-06-22","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":385,"footballerid":528,"agentid":679,"signdate":"2020-10-03","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":386,"footballerid":598,"agentid":112,"signdate":"2021-05-26","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":387,"footballerid":285,"agentid":18,"signdate":"2022-09-03","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":388,"footballerid":226,"agentid":785,"signdate":"2022-10-22","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":389,"footballerid":710,"agentid":754,"signdate":"2022-04-16","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":390,"footballerid":375,"agentid":961,"signdate":"2022-11-26","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":391,"footballerid":466,"agentid":819,"signdate":"2020-06-11","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":392,"footballerid":611,"agentid":145,"signdate":"2021-03-10","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":393,"footballerid":603,"agentid":225,"signdate":"2022-06-02","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":394,"footballerid":917,"agentid":154,"signdate":"2020-05-24","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":395,"footballerid":57,"agentid":407,"signdate":"2022-10-02","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":396,"footballerid":818,"agentid":582,"signdate":"2022-04-08","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":397,"footballerid":580,"agentid":527,"signdate":"2022-03-20","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":398,"footballerid":603,"agentid":929,"signdate":"2022-11-06","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":399,"footballerid":694,"agentid":993,"signdate":"2021-05-08","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":400,"footballerid":749,"agentid":583,"signdate":"2022-08-24","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":401,"footballerid":856,"agentid":864,"signdate":"2021-04-22","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":402,"footballerid":981,"agentid":388,"signdate":"2021-11-17","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":403,"footballerid":567,"agentid":576,"signdate":"2021-11-06","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":404,"footballerid":756,"agentid":787,"signdate":"2020-07-06","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":405,"footballerid":780,"agentid":223,"signdate":"2021-01-22","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":406,"footballerid":599,"agentid":296,"signdate":"2022-06-05","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":407,"footballerid":529,"agentid":763,"signdate":"2021-07-05","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":408,"footballerid":33,"agentid":886,"signdate":"2020-12-26","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":409,"footballerid":343,"agentid":213,"signdate":"2022-08-22","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":410,"footballerid":131,"agentid":212,"signdate":"2022-03-12","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":411,"footballerid":255,"agentid":374,"signdate":"2021-09-30","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":412,"footballerid":957,"agentid":243,"signdate":"2022-08-15","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":413,"footballerid":413,"agentid":961,"signdate":"2020-09-03","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":414,"footballerid":682,"agentid":391,"signdate":"2021-02-10","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":415,"footballerid":860,"agentid":918,"signdate":"2021-11-29","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":416,"footballerid":410,"agentid":593,"signdate":"2021-09-11","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":417,"footballerid":175,"agentid":466,"signdate":"2021-03-08","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":418,"footballerid":955,"agentid":878,"signdate":"2022-10-29","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":419,"footballerid":449,"agentid":122,"signdate":"2020-01-21","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":420,"footballerid":542,"agentid":990,"signdate":"2022-03-30","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":421,"footballerid":42,"agentid":105,"signdate":"2020-07-24","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":422,"footballerid":467,"agentid":65,"signdate":"2021-01-03","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":423,"footballerid":134,"agentid":923,"signdate":"2020-03-19","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":424,"footballerid":691,"agentid":638,"signdate":"2022-03-25","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":425,"footballerid":292,"agentid":255,"signdate":"2021-09-17","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":426,"footballerid":574,"agentid":523,"signdate":"2022-09-15","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":427,"footballerid":752,"agentid":238,"signdate":"2020-10-30","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":428,"footballerid":979,"agentid":300,"signdate":"2022-04-04","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":429,"footballerid":220,"agentid":587,"signdate":"2021-12-13","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":430,"footballerid":656,"agentid":965,"signdate":"2020-08-30","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":431,"footballerid":27,"agentid":137,"signdate":"2022-01-06","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":432,"footballerid":222,"agentid":875,"signdate":"2021-05-30","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":433,"footballerid":7,"agentid":780,"signdate":"2021-09-21","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":434,"footballerid":386,"agentid":639,"signdate":"2021-06-18","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":435,"footballerid":323,"agentid":273,"signdate":"2021-02-07","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":436,"footballerid":8,"agentid":510,"signdate":"2022-03-05","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":437,"footballerid":588,"agentid":716,"signdate":"2021-08-10","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":438,"footballerid":309,"agentid":439,"signdate":"2021-11-29","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":439,"footballerid":904,"agentid":273,"signdate":"2020-09-07","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":440,"footballerid":539,"agentid":830,"signdate":"2021-11-17","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":441,"footballerid":841,"agentid":392,"signdate":"2020-12-21","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":442,"footballerid":959,"agentid":1000,"signdate":"2022-03-02","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":443,"footballerid":729,"agentid":140,"signdate":"2022-09-30","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":444,"footballerid":348,"agentid":919,"signdate":"2021-04-08","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":445,"footballerid":965,"agentid":690,"signdate":"2022-03-03","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":446,"footballerid":121,"agentid":973,"signdate":"2021-11-21","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":447,"footballerid":527,"agentid":42,"signdate":"2021-06-17","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":448,"footballerid":811,"agentid":393,"signdate":"2020-03-15","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":449,"footballerid":957,"agentid":578,"signdate":"2020-03-09","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":450,"footballerid":886,"agentid":585,"signdate":"2022-01-30","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":451,"footballerid":45,"agentid":646,"signdate":"2022-01-19","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":452,"footballerid":890,"agentid":195,"signdate":"2020-03-29","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":453,"footballerid":878,"agentid":27,"signdate":"2020-04-23","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":454,"footballerid":318,"agentid":674,"signdate":"2021-09-21","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":455,"footballerid":581,"agentid":644,"signdate":"2022-02-25","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":456,"footballerid":391,"agentid":722,"signdate":"2022-08-06","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":457,"footballerid":597,"agentid":274,"signdate":"2021-03-02","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":458,"footballerid":759,"agentid":223,"signdate":"2020-02-16","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":459,"footballerid":718,"agentid":167,"signdate":"2020-11-06","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":460,"footballerid":354,"agentid":469,"signdate":"2020-10-08","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":461,"footballerid":750,"agentid":121,"signdate":"2020-05-08","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":462,"footballerid":322,"agentid":859,"signdate":"2020-03-24","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":463,"footballerid":643,"agentid":74,"signdate":"2021-07-29","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":464,"footballerid":257,"agentid":571,"signdate":"2021-12-13","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":465,"footballerid":52,"agentid":632,"signdate":"2022-01-08","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":466,"footballerid":731,"agentid":688,"signdate":"2020-11-09","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":467,"footballerid":915,"agentid":659,"signdate":"2022-06-21","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":468,"footballerid":12,"agentid":546,"signdate":"2020-07-24","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":469,"footballerid":551,"agentid":800,"signdate":"2022-10-15","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":470,"footballerid":303,"agentid":554,"signdate":"2022-07-12","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":471,"footballerid":975,"agentid":957,"signdate":"2020-01-06","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":472,"footballerid":604,"agentid":256,"signdate":"2022-11-16","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":473,"footballerid":382,"agentid":872,"signdate":"2021-08-13","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":474,"footballerid":959,"agentid":453,"signdate":"2022-06-09","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":475,"footballerid":638,"agentid":120,"signdate":"2022-05-30","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":476,"footballerid":476,"agentid":499,"signdate":"2021-05-18","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":477,"footballerid":358,"agentid":507,"signdate":"2022-08-25","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":478,"footballerid":407,"agentid":728,"signdate":"2020-10-22","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":479,"footballerid":442,"agentid":658,"signdate":"2022-10-02","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":480,"footballerid":540,"agentid":308,"signdate":"2020-09-12","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":481,"footballerid":47,"agentid":156,"signdate":"2022-10-13","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":482,"footballerid":73,"agentid":114,"signdate":"2021-02-27","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":483,"footballerid":411,"agentid":842,"signdate":"2022-12-20","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":484,"footballerid":36,"agentid":174,"signdate":"2021-08-20","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":485,"footballerid":401,"agentid":944,"signdate":"2022-01-21","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":486,"footballerid":474,"agentid":777,"signdate":"2021-03-17","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":487,"footballerid":155,"agentid":385,"signdate":"2022-11-18","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":488,"footballerid":859,"agentid":238,"signdate":"2022-04-06","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":489,"footballerid":797,"agentid":469,"signdate":"2021-01-11","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":490,"footballerid":944,"agentid":355,"signdate":"2021-04-01","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":491,"footballerid":57,"agentid":503,"signdate":"2020-12-15","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":492,"footballerid":751,"agentid":951,"signdate":"2021-07-24","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":493,"footballerid":230,"agentid":191,"signdate":"2022-02-17","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":494,"footballerid":764,"agentid":308,"signdate":"2022-09-06","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":495,"footballerid":393,"agentid":952,"signdate":"2021-10-23","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":496,"footballerid":374,"agentid":338,"signdate":"2021-07-09","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":497,"footballerid":719,"agentid":911,"signdate":"2021-06-29","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":498,"footballerid":152,"agentid":703,"signdate":"2021-10-06","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":499,"footballerid":659,"agentid":931,"signdate":"2021-02-19","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":500,"footballerid":416,"agentid":252,"signdate":"2021-08-18","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":501,"footballerid":807,"agentid":974,"signdate":"2021-09-26","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":502,"footballerid":214,"agentid":511,"signdate":"2020-12-03","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":503,"footballerid":81,"agentid":503,"signdate":"2022-05-06","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":504,"footballerid":431,"agentid":631,"signdate":"2021-05-29","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":505,"footballerid":187,"agentid":863,"signdate":"2021-06-21","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":506,"footballerid":511,"agentid":859,"signdate":"2021-03-12","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":507,"footballerid":507,"agentid":715,"signdate":"2021-10-22","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":508,"footballerid":903,"agentid":634,"signdate":"2020-09-14","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":509,"footballerid":264,"agentid":337,"signdate":"2022-04-12","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":510,"footballerid":965,"agentid":258,"signdate":"2020-06-05","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":511,"footballerid":333,"agentid":604,"signdate":"2021-12-14","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":512,"footballerid":311,"agentid":709,"signdate":"2021-11-03","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":513,"footballerid":763,"agentid":500,"signdate":"2020-02-19","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":514,"footballerid":851,"agentid":849,"signdate":"2022-10-17","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":515,"footballerid":306,"agentid":348,"signdate":"2021-04-27","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":516,"footballerid":569,"agentid":941,"signdate":"2021-01-21","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":517,"footballerid":622,"agentid":133,"signdate":"2022-01-27","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":518,"footballerid":54,"agentid":493,"signdate":"2021-01-28","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":519,"footballerid":503,"agentid":365,"signdate":"2021-01-02","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":520,"footballerid":173,"agentid":216,"signdate":"2021-01-17","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":521,"footballerid":946,"agentid":490,"signdate":"2022-01-06","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":522,"footballerid":653,"agentid":555,"signdate":"2022-06-18","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":523,"footballerid":732,"agentid":328,"signdate":"2021-10-21","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":524,"footballerid":262,"agentid":817,"signdate":"2022-09-02","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":525,"footballerid":583,"agentid":836,"signdate":"2020-11-29","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":526,"footballerid":197,"agentid":81,"signdate":"2022-09-20","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":527,"footballerid":428,"agentid":913,"signdate":"2020-01-29","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":528,"footballerid":895,"agentid":959,"signdate":"2022-12-18","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":529,"footballerid":551,"agentid":505,"signdate":"2022-06-08","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":530,"footballerid":742,"agentid":953,"signdate":"2022-08-17","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":531,"footballerid":825,"agentid":801,"signdate":"2021-01-30","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":532,"footballerid":81,"agentid":317,"signdate":"2021-05-17","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":533,"footballerid":236,"agentid":120,"signdate":"2022-06-22","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":534,"footballerid":56,"agentid":755,"signdate":"2020-07-05","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":535,"footballerid":813,"agentid":567,"signdate":"2022-08-26","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":536,"footballerid":814,"agentid":910,"signdate":"2022-06-29","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":537,"footballerid":887,"agentid":916,"signdate":"2022-06-06","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":538,"footballerid":660,"agentid":566,"signdate":"2021-11-20","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":539,"footballerid":386,"agentid":411,"signdate":"2022-01-20","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":540,"footballerid":454,"agentid":934,"signdate":"2022-09-07","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":541,"footballerid":95,"agentid":136,"signdate":"2021-04-28","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":542,"footballerid":62,"agentid":926,"signdate":"2022-02-15","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":543,"footballerid":37,"agentid":949,"signdate":"2021-11-08","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":544,"footballerid":146,"agentid":581,"signdate":"2020-08-27","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":545,"footballerid":779,"agentid":90,"signdate":"2022-04-12","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":546,"footballerid":40,"agentid":337,"signdate":"2021-03-30","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":547,"footballerid":144,"agentid":817,"signdate":"2022-03-04","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":548,"footballerid":529,"agentid":713,"signdate":"2020-09-20","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":549,"footballerid":183,"agentid":875,"signdate":"2020-03-26","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":550,"footballerid":95,"agentid":309,"signdate":"2021-07-14","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":551,"footballerid":596,"agentid":322,"signdate":"2021-09-02","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":552,"footballerid":442,"agentid":745,"signdate":"2021-02-03","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":553,"footballerid":598,"agentid":653,"signdate":"2022-01-25","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":554,"footballerid":939,"agentid":997,"signdate":"2022-09-06","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":555,"footballerid":879,"agentid":198,"signdate":"2020-09-21","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":556,"footballerid":189,"agentid":346,"signdate":"2021-04-21","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":557,"footballerid":646,"agentid":603,"signdate":"2021-02-14","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":558,"footballerid":183,"agentid":193,"signdate":"2020-09-05","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":559,"footballerid":917,"agentid":257,"signdate":"2021-10-03","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":560,"footballerid":863,"agentid":821,"signdate":"2021-08-24","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":561,"footballerid":757,"agentid":394,"signdate":"2021-06-21","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":562,"footballerid":300,"agentid":900,"signdate":"2022-10-17","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":563,"footballerid":918,"agentid":216,"signdate":"2020-05-03","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":564,"footballerid":719,"agentid":838,"signdate":"2020-09-15","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":565,"footballerid":152,"agentid":809,"signdate":"2021-01-05","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":566,"footballerid":928,"agentid":45,"signdate":"2021-03-17","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":567,"footballerid":296,"agentid":766,"signdate":"2020-02-13","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":568,"footballerid":685,"agentid":645,"signdate":"2021-12-08","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":569,"footballerid":103,"agentid":396,"signdate":"2022-03-19","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":570,"footballerid":664,"agentid":986,"signdate":"2020-08-26","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":571,"footballerid":555,"agentid":626,"signdate":"2020-03-18","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":572,"footballerid":223,"agentid":763,"signdate":"2020-02-24","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":573,"footballerid":767,"agentid":938,"signdate":"2022-03-31","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":574,"footballerid":807,"agentid":249,"signdate":"2020-09-14","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":575,"footballerid":520,"agentid":627,"signdate":"2022-01-27","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":576,"footballerid":158,"agentid":29,"signdate":"2020-12-13","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":577,"footballerid":723,"agentid":765,"signdate":"2022-01-30","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":578,"footballerid":88,"agentid":291,"signdate":"2021-02-22","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":579,"footballerid":239,"agentid":56,"signdate":"2021-11-23","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":580,"footballerid":419,"agentid":410,"signdate":"2021-12-14","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":581,"footballerid":304,"agentid":84,"signdate":"2020-04-03","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":582,"footballerid":241,"agentid":323,"signdate":"2022-02-15","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":583,"footballerid":593,"agentid":480,"signdate":"2021-09-12","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":584,"footballerid":278,"agentid":644,"signdate":"2021-08-03","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":585,"footballerid":334,"agentid":42,"signdate":"2020-02-07","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":586,"footballerid":291,"agentid":703,"signdate":"2022-04-25","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":587,"footballerid":652,"agentid":984,"signdate":"2022-03-10","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":588,"footballerid":259,"agentid":799,"signdate":"2020-02-07","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":589,"footballerid":445,"agentid":626,"signdate":"2022-03-09","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":590,"footballerid":188,"agentid":760,"signdate":"2021-07-28","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":591,"footballerid":792,"agentid":283,"signdate":"2021-02-15","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":592,"footballerid":544,"agentid":210,"signdate":"2021-02-09","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":593,"footballerid":647,"agentid":32,"signdate":"2020-06-08","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":594,"footballerid":287,"agentid":393,"signdate":"2021-05-19","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":595,"footballerid":679,"agentid":191,"signdate":"2021-12-29","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":596,"footballerid":403,"agentid":432,"signdate":"2021-04-04","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":597,"footballerid":367,"agentid":18,"signdate":"2020-07-10","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":598,"footballerid":903,"agentid":350,"signdate":"2021-12-23","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":599,"footballerid":142,"agentid":544,"signdate":"2022-11-07","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":600,"footballerid":205,"agentid":226,"signdate":"2020-06-09","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":601,"footballerid":700,"agentid":766,"signdate":"2021-12-12","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":602,"footballerid":70,"agentid":577,"signdate":"2021-08-22","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":603,"footballerid":90,"agentid":687,"signdate":"2022-01-14","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":604,"footballerid":377,"agentid":655,"signdate":"2020-09-04","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":605,"footballerid":425,"agentid":679,"signdate":"2020-12-25","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":606,"footballerid":963,"agentid":302,"signdate":"2022-09-19","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":607,"footballerid":730,"agentid":762,"signdate":"2021-10-21","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":608,"footballerid":611,"agentid":304,"signdate":"2021-12-10","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":609,"footballerid":551,"agentid":793,"signdate":"2021-06-11","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":610,"footballerid":871,"agentid":773,"signdate":"2021-08-12","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":611,"footballerid":24,"agentid":194,"signdate":"2021-09-17","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":612,"footballerid":161,"agentid":447,"signdate":"2020-04-08","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":613,"footballerid":745,"agentid":880,"signdate":"2022-10-24","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":614,"footballerid":359,"agentid":530,"signdate":"2020-05-24","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":615,"footballerid":482,"agentid":975,"signdate":"2020-11-06","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":616,"footballerid":965,"agentid":616,"signdate":"2022-10-06","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":617,"footballerid":901,"agentid":747,"signdate":"2020-02-17","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":618,"footballerid":395,"agentid":609,"signdate":"2022-08-31","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":619,"footballerid":279,"agentid":600,"signdate":"2022-01-03","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":620,"footballerid":400,"agentid":731,"signdate":"2021-01-31","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":621,"footballerid":405,"agentid":22,"signdate":"2020-01-15","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":622,"footballerid":512,"agentid":348,"signdate":"2022-01-09","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":623,"footballerid":581,"agentid":922,"signdate":"2021-04-27","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":624,"footballerid":623,"agentid":774,"signdate":"2021-05-21","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":625,"footballerid":298,"agentid":623,"signdate":"2021-12-30","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":626,"footballerid":454,"agentid":826,"signdate":"2020-10-09","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":627,"footballerid":702,"agentid":826,"signdate":"2020-01-14","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":628,"footballerid":78,"agentid":76,"signdate":"2021-12-11","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":629,"footballerid":771,"agentid":509,"signdate":"2022-03-27","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":630,"footballerid":857,"agentid":840,"signdate":"2020-08-08","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":631,"footballerid":859,"agentid":555,"signdate":"2022-05-16","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":632,"footballerid":722,"agentid":476,"signdate":"2020-05-28","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":633,"footballerid":985,"agentid":166,"signdate":"2020-04-17","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":634,"footballerid":849,"agentid":715,"signdate":"2022-08-19","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":635,"footballerid":305,"agentid":727,"signdate":"2022-05-25","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":636,"footballerid":716,"agentid":1000,"signdate":"2022-09-21","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":637,"footballerid":667,"agentid":229,"signdate":"2021-04-11","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":638,"footballerid":96,"agentid":630,"signdate":"2021-04-30","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":639,"footballerid":164,"agentid":832,"signdate":"2021-03-22","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":640,"footballerid":592,"agentid":947,"signdate":"2020-08-22","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":641,"footballerid":18,"agentid":932,"signdate":"2021-10-30","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":642,"footballerid":440,"agentid":375,"signdate":"2021-02-19","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":643,"footballerid":217,"agentid":890,"signdate":"2021-01-05","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":644,"footballerid":479,"agentid":715,"signdate":"2022-10-08","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":645,"footballerid":926,"agentid":382,"signdate":"2022-02-20","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":646,"footballerid":348,"agentid":738,"signdate":"2021-06-09","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":647,"footballerid":28,"agentid":40,"signdate":"2020-11-17","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":648,"footballerid":247,"agentid":294,"signdate":"2021-06-09","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":649,"footballerid":182,"agentid":140,"signdate":"2022-05-11","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":650,"footballerid":476,"agentid":157,"signdate":"2021-05-11","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":651,"footballerid":972,"agentid":472,"signdate":"2021-09-20","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":652,"footballerid":358,"agentid":216,"signdate":"2022-01-09","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":653,"footballerid":451,"agentid":993,"signdate":"2022-07-10","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":654,"footballerid":792,"agentid":220,"signdate":"2022-11-06","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":655,"footballerid":683,"agentid":417,"signdate":"2021-06-21","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":656,"footballerid":165,"agentid":786,"signdate":"2021-05-27","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":657,"footballerid":258,"agentid":882,"signdate":"2022-03-31","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":658,"footballerid":841,"agentid":330,"signdate":"2022-08-17","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":659,"footballerid":942,"agentid":995,"signdate":"2021-11-20","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":660,"footballerid":250,"agentid":593,"signdate":"2021-03-26","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":661,"footballerid":99,"agentid":199,"signdate":"2021-09-12","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":662,"footballerid":98,"agentid":703,"signdate":"2021-04-18","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":663,"footballerid":340,"agentid":473,"signdate":"2022-07-16","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":664,"footballerid":45,"agentid":393,"signdate":"2020-10-28","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":665,"footballerid":7,"agentid":277,"signdate":"2022-05-26","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":666,"footballerid":778,"agentid":611,"signdate":"2021-02-11","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":667,"footballerid":368,"agentid":508,"signdate":"2020-12-05","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":668,"footballerid":656,"agentid":896,"signdate":"2021-06-30","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":669,"footballerid":809,"agentid":473,"signdate":"2022-12-30","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":670,"footballerid":8,"agentid":692,"signdate":"2021-09-29","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":671,"footballerid":86,"agentid":288,"signdate":"2021-03-27","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":672,"footballerid":151,"agentid":794,"signdate":"2022-06-09","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":673,"footballerid":792,"agentid":255,"signdate":"2020-05-15","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":674,"footballerid":710,"agentid":867,"signdate":"2021-12-04","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":675,"footballerid":988,"agentid":275,"signdate":"2021-05-06","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":676,"footballerid":588,"agentid":54,"signdate":"2020-07-28","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":677,"footballerid":70,"agentid":897,"signdate":"2022-11-14","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":678,"footballerid":818,"agentid":360,"signdate":"2020-11-01","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":679,"footballerid":55,"agentid":316,"signdate":"2022-03-28","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":680,"footballerid":944,"agentid":921,"signdate":"2022-02-04","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":681,"footballerid":294,"agentid":131,"signdate":"2021-05-11","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":682,"footballerid":526,"agentid":674,"signdate":"2021-12-15","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":683,"footballerid":469,"agentid":532,"signdate":"2021-06-30","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":684,"footballerid":396,"agentid":809,"signdate":"2022-05-20","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":685,"footballerid":358,"agentid":681,"signdate":"2020-04-18","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":686,"footballerid":424,"agentid":228,"signdate":"2021-11-13","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":687,"footballerid":226,"agentid":89,"signdate":"2020-11-27","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":688,"footballerid":425,"agentid":642,"signdate":"2020-05-21","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":689,"footballerid":634,"agentid":714,"signdate":"2020-09-28","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":690,"footballerid":802,"agentid":81,"signdate":"2021-07-14","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":691,"footballerid":895,"agentid":755,"signdate":"2022-07-07","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":692,"footballerid":121,"agentid":863,"signdate":"2020-02-01","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":693,"footballerid":354,"agentid":252,"signdate":"2021-08-17","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":694,"footballerid":326,"agentid":50,"signdate":"2022-02-21","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":695,"footballerid":272,"agentid":293,"signdate":"2021-02-07","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":696,"footballerid":279,"agentid":945,"signdate":"2021-04-10","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":697,"footballerid":678,"agentid":651,"signdate":"2022-03-09","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":698,"footballerid":842,"agentid":25,"signdate":"2021-02-23","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":699,"footballerid":846,"agentid":594,"signdate":"2020-04-01","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":700,"footballerid":208,"agentid":370,"signdate":"2022-10-25","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":701,"footballerid":201,"agentid":729,"signdate":"2020-04-30","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":702,"footballerid":874,"agentid":478,"signdate":"2020-08-13","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":703,"footballerid":333,"agentid":132,"signdate":"2022-02-19","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":704,"footballerid":390,"agentid":381,"signdate":"2021-12-30","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":705,"footballerid":667,"agentid":24,"signdate":"2020-03-10","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":706,"footballerid":48,"agentid":957,"signdate":"2022-06-04","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":707,"footballerid":942,"agentid":726,"signdate":"2022-02-26","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":708,"footballerid":32,"agentid":848,"signdate":"2022-07-28","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":709,"footballerid":674,"agentid":456,"signdate":"2020-07-15","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":710,"footballerid":930,"agentid":119,"signdate":"2022-04-22","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":711,"footballerid":999,"agentid":854,"signdate":"2022-12-13","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":712,"footballerid":123,"agentid":766,"signdate":"2021-02-02","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":713,"footballerid":888,"agentid":731,"signdate":"2022-08-25","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":714,"footballerid":710,"agentid":593,"signdate":"2022-09-01","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":715,"footballerid":671,"agentid":577,"signdate":"2021-07-05","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":716,"footballerid":390,"agentid":280,"signdate":"2020-05-11","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":717,"footballerid":803,"agentid":146,"signdate":"2020-01-07","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":718,"footballerid":742,"agentid":223,"signdate":"2020-01-17","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":719,"footballerid":949,"agentid":209,"signdate":"2021-10-27","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":720,"footballerid":854,"agentid":327,"signdate":"2021-05-05","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":721,"footballerid":166,"agentid":407,"signdate":"2022-07-31","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":722,"footballerid":216,"agentid":627,"signdate":"2020-10-05","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":723,"footballerid":763,"agentid":174,"signdate":"2021-06-28","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":724,"footballerid":2,"agentid":87,"signdate":"2020-07-22","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":725,"footballerid":364,"agentid":18,"signdate":"2021-10-01","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":726,"footballerid":420,"agentid":8,"signdate":"2021-12-07","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":727,"footballerid":81,"agentid":483,"signdate":"2020-01-09","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":728,"footballerid":998,"agentid":405,"signdate":"2022-03-13","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":729,"footballerid":419,"agentid":814,"signdate":"2021-07-20","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":730,"footballerid":935,"agentid":837,"signdate":"2020-02-08","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":731,"footballerid":44,"agentid":756,"signdate":"2022-12-06","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":732,"footballerid":224,"agentid":463,"signdate":"2020-03-20","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":733,"footballerid":880,"agentid":6,"signdate":"2021-02-01","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":734,"footballerid":204,"agentid":180,"signdate":"2022-08-11","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":735,"footballerid":823,"agentid":524,"signdate":"2022-12-22","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":736,"footballerid":61,"agentid":241,"signdate":"2020-02-23","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":737,"footballerid":562,"agentid":679,"signdate":"2020-05-23","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":738,"footballerid":771,"agentid":985,"signdate":"2022-08-10","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":739,"footballerid":738,"agentid":730,"signdate":"2021-01-12","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":740,"footballerid":172,"agentid":352,"signdate":"2022-10-01","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":741,"footballerid":935,"agentid":718,"signdate":"2021-12-16","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":742,"footballerid":60,"agentid":870,"signdate":"2020-10-07","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":743,"footballerid":231,"agentid":342,"signdate":"2021-09-10","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":744,"footballerid":874,"agentid":586,"signdate":"2021-08-09","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":745,"footballerid":625,"agentid":343,"signdate":"2020-01-19","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":746,"footballerid":581,"agentid":19,"signdate":"2020-06-04","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":747,"footballerid":598,"agentid":339,"signdate":"2020-05-17","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":748,"footballerid":839,"agentid":517,"signdate":"2021-03-26","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":749,"footballerid":645,"agentid":203,"signdate":"2022-12-09","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":750,"footballerid":447,"agentid":61,"signdate":"2020-02-25","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":751,"footballerid":583,"agentid":609,"signdate":"2021-01-09","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":752,"footballerid":896,"agentid":501,"signdate":"2022-09-27","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":753,"footballerid":374,"agentid":278,"signdate":"2022-01-18","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":754,"footballerid":68,"agentid":432,"signdate":"2022-03-17","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":755,"footballerid":184,"agentid":608,"signdate":"2022-06-01","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":756,"footballerid":650,"agentid":444,"signdate":"2022-01-02","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":757,"footballerid":741,"agentid":278,"signdate":"2020-11-20","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":758,"footballerid":108,"agentid":525,"signdate":"2020-02-15","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":759,"footballerid":950,"agentid":239,"signdate":"2022-11-04","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":760,"footballerid":951,"agentid":952,"signdate":"2020-04-15","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":761,"footballerid":936,"agentid":951,"signdate":"2020-09-29","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":762,"footballerid":710,"agentid":570,"signdate":"2022-04-23","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":763,"footballerid":892,"agentid":435,"signdate":"2021-10-05","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":764,"footballerid":763,"agentid":534,"signdate":"2022-02-12","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":765,"footballerid":165,"agentid":370,"signdate":"2021-02-20","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":766,"footballerid":363,"agentid":786,"signdate":"2021-01-17","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":767,"footballerid":371,"agentid":64,"signdate":"2020-05-08","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":768,"footballerid":440,"agentid":331,"signdate":"2021-08-17","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":769,"footballerid":882,"agentid":699,"signdate":"2021-07-01","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":770,"footballerid":886,"agentid":957,"signdate":"2022-08-17","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":771,"footballerid":653,"agentid":463,"signdate":"2022-03-28","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":772,"footballerid":422,"agentid":963,"signdate":"2021-05-17","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":773,"footballerid":835,"agentid":39,"signdate":"2022-08-28","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":774,"footballerid":803,"agentid":177,"signdate":"2021-01-27","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":775,"footballerid":60,"agentid":12,"signdate":"2022-10-26","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":776,"footballerid":35,"agentid":240,"signdate":"2021-07-10","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":777,"footballerid":508,"agentid":974,"signdate":"2020-10-02","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":778,"footballerid":510,"agentid":375,"signdate":"2020-02-07","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":779,"footballerid":23,"agentid":770,"signdate":"2021-03-06","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":780,"footballerid":316,"agentid":982,"signdate":"2021-06-17","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":781,"footballerid":328,"agentid":943,"signdate":"2020-03-06","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":782,"footballerid":255,"agentid":914,"signdate":"2021-08-15","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":783,"footballerid":270,"agentid":984,"signdate":"2020-04-15","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":784,"footballerid":507,"agentid":566,"signdate":"2021-08-27","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":785,"footballerid":72,"agentid":479,"signdate":"2022-07-14","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":786,"footballerid":34,"agentid":926,"signdate":"2020-06-25","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":787,"footballerid":376,"agentid":956,"signdate":"2021-08-14","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":788,"footballerid":548,"agentid":722,"signdate":"2021-06-11","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":789,"footballerid":142,"agentid":189,"signdate":"2020-06-29","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":790,"footballerid":753,"agentid":156,"signdate":"2020-09-11","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":791,"footballerid":395,"agentid":650,"signdate":"2020-10-16","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":792,"footballerid":410,"agentid":149,"signdate":"2021-11-16","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":793,"footballerid":788,"agentid":343,"signdate":"2020-05-09","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":794,"footballerid":845,"agentid":918,"signdate":"2022-04-30","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":795,"footballerid":674,"agentid":775,"signdate":"2022-12-25","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":796,"footballerid":450,"agentid":419,"signdate":"2021-05-28","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":797,"footballerid":296,"agentid":225,"signdate":"2020-02-17","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":798,"footballerid":170,"agentid":114,"signdate":"2021-02-13","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":799,"footballerid":362,"agentid":469,"signdate":"2021-04-11","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":800,"footballerid":140,"agentid":760,"signdate":"2021-05-17","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":801,"footballerid":952,"agentid":807,"signdate":"2022-09-23","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":802,"footballerid":835,"agentid":871,"signdate":"2022-08-03","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":803,"footballerid":223,"agentid":595,"signdate":"2020-08-01","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":804,"footballerid":596,"agentid":278,"signdate":"2021-09-26","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":805,"footballerid":265,"agentid":638,"signdate":"2022-01-07","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":806,"footballerid":899,"agentid":178,"signdate":"2022-11-10","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":807,"footballerid":601,"agentid":80,"signdate":"2021-01-23","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":808,"footballerid":162,"agentid":762,"signdate":"2020-09-25","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":809,"footballerid":494,"agentid":897,"signdate":"2020-11-08","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":810,"footballerid":352,"agentid":911,"signdate":"2022-04-30","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":811,"footballerid":115,"agentid":202,"signdate":"2020-11-15","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":812,"footballerid":988,"agentid":276,"signdate":"2021-06-28","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":813,"footballerid":341,"agentid":518,"signdate":"2020-11-04","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":814,"footballerid":915,"agentid":45,"signdate":"2021-04-30","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":815,"footballerid":428,"agentid":687,"signdate":"2020-02-20","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":816,"footballerid":944,"agentid":345,"signdate":"2022-07-25","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":817,"footballerid":164,"agentid":806,"signdate":"2022-05-03","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":818,"footballerid":848,"agentid":142,"signdate":"2021-09-20","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":819,"footballerid":5,"agentid":603,"signdate":"2020-11-05","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":820,"footballerid":295,"agentid":481,"signdate":"2021-10-11","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":821,"footballerid":911,"agentid":112,"signdate":"2020-12-01","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":822,"footballerid":82,"agentid":526,"signdate":"2020-10-11","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":823,"footballerid":671,"agentid":542,"signdate":"2020-01-24","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":824,"footballerid":567,"agentid":579,"signdate":"2021-09-20","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":825,"footballerid":739,"agentid":264,"signdate":"2022-09-05","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":826,"footballerid":457,"agentid":790,"signdate":"2022-08-17","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":827,"footballerid":888,"agentid":738,"signdate":"2021-03-24","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":828,"footballerid":547,"agentid":226,"signdate":"2022-07-21","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":829,"footballerid":691,"agentid":932,"signdate":"2020-03-18","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":830,"footballerid":658,"agentid":700,"signdate":"2020-08-07","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":831,"footballerid":829,"agentid":589,"signdate":"2022-07-05","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":832,"footballerid":297,"agentid":816,"signdate":"2021-06-21","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":833,"footballerid":473,"agentid":422,"signdate":"2022-03-24","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":834,"footballerid":976,"agentid":903,"signdate":"2020-02-14","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":835,"footballerid":355,"agentid":867,"signdate":"2022-03-08","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":836,"footballerid":269,"agentid":594,"signdate":"2022-05-10","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":837,"footballerid":311,"agentid":423,"signdate":"2022-07-07","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":838,"footballerid":886,"agentid":562,"signdate":"2022-06-03","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":839,"footballerid":592,"agentid":728,"signdate":"2020-09-16","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":840,"footballerid":773,"agentid":344,"signdate":"2020-09-21","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":841,"footballerid":444,"agentid":267,"signdate":"2020-04-21","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":842,"footballerid":88,"agentid":952,"signdate":"2020-04-03","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":843,"footballerid":371,"agentid":168,"signdate":"2021-12-10","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":844,"footballerid":454,"agentid":684,"signdate":"2021-10-11","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":845,"footballerid":989,"agentid":620,"signdate":"2020-01-12","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":846,"footballerid":68,"agentid":743,"signdate":"2020-07-26","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":847,"footballerid":2,"agentid":509,"signdate":"2020-10-13","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":848,"footballerid":1000,"agentid":20,"signdate":"2020-09-28","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":849,"footballerid":52,"agentid":130,"signdate":"2020-04-14","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":850,"footballerid":555,"agentid":918,"signdate":"2022-04-28","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":851,"footballerid":73,"agentid":11,"signdate":"2021-09-04","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":852,"footballerid":34,"agentid":527,"signdate":"2020-07-07","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":853,"footballerid":643,"agentid":354,"signdate":"2020-07-10","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":854,"footballerid":1,"agentid":818,"signdate":"2022-11-25","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":855,"footballerid":852,"agentid":773,"signdate":"2020-09-20","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":856,"footballerid":899,"agentid":374,"signdate":"2022-05-31","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":857,"footballerid":785,"agentid":509,"signdate":"2021-10-08","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":858,"footballerid":374,"agentid":524,"signdate":"2022-07-19","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":859,"footballerid":366,"agentid":61,"signdate":"2020-12-29","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":860,"footballerid":786,"agentid":779,"signdate":"2022-12-28","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":861,"footballerid":723,"agentid":92,"signdate":"2021-03-03","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":862,"footballerid":780,"agentid":291,"signdate":"2021-07-09","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":863,"footballerid":950,"agentid":65,"signdate":"2021-09-13","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":864,"footballerid":774,"agentid":52,"signdate":"2021-02-07","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":865,"footballerid":472,"agentid":809,"signdate":"2020-12-20","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":866,"footballerid":456,"agentid":759,"signdate":"2020-11-17","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":867,"footballerid":939,"agentid":264,"signdate":"2021-07-17","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":868,"footballerid":578,"agentid":664,"signdate":"2021-01-01","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":869,"footballerid":417,"agentid":613,"signdate":"2021-09-16","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":870,"footballerid":929,"agentid":161,"signdate":"2022-10-03","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":871,"footballerid":628,"agentid":341,"signdate":"2020-11-11","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":872,"footballerid":196,"agentid":501,"signdate":"2021-10-27","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":873,"footballerid":453,"agentid":176,"signdate":"2020-02-02","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":874,"footballerid":919,"agentid":653,"signdate":"2021-05-22","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":875,"footballerid":516,"agentid":374,"signdate":"2020-09-22","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":876,"footballerid":949,"agentid":835,"signdate":"2020-12-20","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":877,"footballerid":800,"agentid":242,"signdate":"2021-08-06","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":878,"footballerid":348,"agentid":349,"signdate":"2022-05-25","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":879,"footballerid":747,"agentid":331,"signdate":"2021-05-24","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":880,"footballerid":116,"agentid":648,"signdate":"2021-02-06","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":881,"footballerid":333,"agentid":317,"signdate":"2021-12-25","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":882,"footballerid":811,"agentid":722,"signdate":"2022-11-26","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":883,"footballerid":70,"agentid":591,"signdate":"2021-06-28","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":884,"footballerid":729,"agentid":341,"signdate":"2020-03-20","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":885,"footballerid":691,"agentid":250,"signdate":"2021-06-29","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":886,"footballerid":592,"agentid":917,"signdate":"2020-03-20","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":887,"footballerid":311,"agentid":511,"signdate":"2022-10-20","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":888,"footballerid":202,"agentid":922,"signdate":"2020-06-27","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":889,"footballerid":420,"agentid":533,"signdate":"2022-12-20","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":890,"footballerid":591,"agentid":40,"signdate":"2021-08-01","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":891,"footballerid":376,"agentid":286,"signdate":"2022-11-05","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":892,"footballerid":462,"agentid":634,"signdate":"2021-06-22","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":893,"footballerid":120,"agentid":862,"signdate":"2022-08-26","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":894,"footballerid":680,"agentid":240,"signdate":"2020-12-13","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":895,"footballerid":318,"agentid":805,"signdate":"2021-12-11","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":896,"footballerid":600,"agentid":802,"signdate":"2020-02-29","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":897,"footballerid":383,"agentid":883,"signdate":"2020-10-31","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":898,"footballerid":734,"agentid":390,"signdate":"2020-10-30","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":899,"footballerid":678,"agentid":320,"signdate":"2021-09-02","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":900,"footballerid":887,"agentid":802,"signdate":"2021-01-11","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":901,"footballerid":200,"agentid":949,"signdate":"2021-11-07","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":902,"footballerid":222,"agentid":411,"signdate":"2020-11-19","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":903,"footballerid":487,"agentid":815,"signdate":"2020-04-21","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":904,"footballerid":341,"agentid":156,"signdate":"2020-07-27","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":905,"footballerid":243,"agentid":461,"signdate":"2022-02-13","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":906,"footballerid":968,"agentid":786,"signdate":"2020-04-30","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":907,"footballerid":689,"agentid":93,"signdate":"2020-05-07","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":908,"footballerid":261,"agentid":918,"signdate":"2021-12-25","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":909,"footballerid":816,"agentid":695,"signdate":"2022-06-26","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":910,"footballerid":150,"agentid":22,"signdate":"2021-07-15","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":911,"footballerid":87,"agentid":987,"signdate":"2020-12-11","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":912,"footballerid":95,"agentid":877,"signdate":"2021-12-08","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":913,"footballerid":976,"agentid":507,"signdate":"2020-06-30","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":914,"footballerid":490,"agentid":189,"signdate":"2022-08-24","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":915,"footballerid":271,"agentid":147,"signdate":"2020-01-21","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":916,"footballerid":22,"agentid":412,"signdate":"2020-10-09","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":917,"footballerid":268,"agentid":168,"signdate":"2020-10-05","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":918,"footballerid":274,"agentid":952,"signdate":"2020-06-24","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":919,"footballerid":162,"agentid":664,"signdate":"2020-04-19","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":920,"footballerid":44,"agentid":291,"signdate":"2022-10-21","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":921,"footballerid":440,"agentid":67,"signdate":"2020-01-23","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":922,"footballerid":874,"agentid":628,"signdate":"2022-06-28","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":923,"footballerid":816,"agentid":666,"signdate":"2020-03-12","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":924,"footballerid":220,"agentid":605,"signdate":"2020-10-16","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":925,"footballerid":161,"agentid":130,"signdate":"2021-06-08","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":926,"footballerid":223,"agentid":422,"signdate":"2020-12-29","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":927,"footballerid":126,"agentid":468,"signdate":"2021-02-17","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":928,"footballerid":778,"agentid":989,"signdate":"2020-05-25","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":929,"footballerid":289,"agentid":547,"signdate":"2020-08-26","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":930,"footballerid":363,"agentid":136,"signdate":"2021-07-18","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":931,"footballerid":161,"agentid":549,"signdate":"2020-08-18","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":932,"footballerid":43,"agentid":773,"signdate":"2020-07-31","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":933,"footballerid":169,"agentid":533,"signdate":"2022-04-28","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":934,"footballerid":14,"agentid":238,"signdate":"2021-05-05","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":935,"footballerid":377,"agentid":481,"signdate":"2022-06-17","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":936,"footballerid":525,"agentid":631,"signdate":"2020-09-12","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":937,"footballerid":346,"agentid":633,"signdate":"2020-02-25","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":938,"footballerid":577,"agentid":945,"signdate":"2020-01-17","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":939,"footballerid":905,"agentid":553,"signdate":"2021-06-15","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":940,"footballerid":615,"agentid":423,"signdate":"2021-10-27","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":941,"footballerid":976,"agentid":658,"signdate":"2022-11-15","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":942,"footballerid":179,"agentid":356,"signdate":"2021-03-18","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":943,"footballerid":51,"agentid":2,"signdate":"2022-07-21","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":944,"footballerid":778,"agentid":939,"signdate":"2020-04-22","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":945,"footballerid":694,"agentid":313,"signdate":"2021-03-26","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":946,"footballerid":646,"agentid":787,"signdate":"2020-02-22","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":947,"footballerid":829,"agentid":513,"signdate":"2020-02-27","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":948,"footballerid":565,"agentid":113,"signdate":"2020-04-25","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":949,"footballerid":249,"agentid":521,"signdate":"2021-08-30","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":950,"footballerid":110,"agentid":973,"signdate":"2020-03-16","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":951,"footballerid":699,"agentid":816,"signdate":"2022-03-05","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":952,"footballerid":358,"agentid":14,"signdate":"2022-03-05","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":953,"footballerid":163,"agentid":897,"signdate":"2021-04-19","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":954,"footballerid":78,"agentid":708,"signdate":"2021-09-23","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":955,"footballerid":256,"agentid":183,"signdate":"2021-04-10","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":956,"footballerid":732,"agentid":349,"signdate":"2021-07-19","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":957,"footballerid":747,"agentid":250,"signdate":"2021-09-26","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":958,"footballerid":545,"agentid":4,"signdate":"2022-09-24","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":959,"footballerid":222,"agentid":802,"signdate":"2022-01-23","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":960,"footballerid":285,"agentid":667,"signdate":"2020-12-15","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":961,"footballerid":256,"agentid":689,"signdate":"2020-07-27","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":962,"footballerid":738,"agentid":513,"signdate":"2021-08-29","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":963,"footballerid":837,"agentid":191,"signdate":"2022-08-03","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":964,"footballerid":909,"agentid":155,"signdate":"2020-08-07","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":965,"footballerid":586,"agentid":56,"signdate":"2022-01-27","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":966,"footballerid":459,"agentid":801,"signdate":"2021-09-02","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":967,"footballerid":36,"agentid":44,"signdate":"2020-03-07","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":968,"footballerid":452,"agentid":354,"signdate":"2021-03-17","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":969,"footballerid":708,"agentid":519,"signdate":"2021-05-14","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":970,"footballerid":127,"agentid":789,"signdate":"2020-05-09","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":971,"footballerid":815,"agentid":566,"signdate":"2020-05-21","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":972,"footballerid":609,"agentid":181,"signdate":"2021-10-19","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":973,"footballerid":829,"agentid":81,"signdate":"2022-12-22","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":974,"footballerid":903,"agentid":316,"signdate":"2020-08-13","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":975,"footballerid":101,"agentid":25,"signdate":"2022-04-19","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":976,"footballerid":479,"agentid":327,"signdate":"2020-11-12","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":977,"footballerid":314,"agentid":984,"signdate":"2021-09-06","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":978,"footballerid":687,"agentid":151,"signdate":"2020-12-22","duration":4}
+  },
+  {
+    "cntr_json": {"contractid":979,"footballerid":904,"agentid":529,"signdate":"2021-01-17","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":980,"footballerid":850,"agentid":664,"signdate":"2022-11-11","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":981,"footballerid":678,"agentid":284,"signdate":"2020-06-09","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":982,"footballerid":528,"agentid":463,"signdate":"2021-04-11","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":983,"footballerid":463,"agentid":38,"signdate":"2020-12-06","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":984,"footballerid":936,"agentid":120,"signdate":"2022-05-11","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":985,"footballerid":611,"agentid":389,"signdate":"2020-03-27","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":986,"footballerid":568,"agentid":860,"signdate":"2022-11-15","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":987,"footballerid":733,"agentid":840,"signdate":"2021-01-26","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":988,"footballerid":656,"agentid":735,"signdate":"2021-10-19","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":989,"footballerid":333,"agentid":976,"signdate":"2020-11-11","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":990,"footballerid":639,"agentid":795,"signdate":"2020-06-07","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":991,"footballerid":986,"agentid":265,"signdate":"2020-08-17","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":992,"footballerid":223,"agentid":811,"signdate":"2020-11-15","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":993,"footballerid":686,"agentid":702,"signdate":"2020-09-04","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":994,"footballerid":268,"agentid":974,"signdate":"2021-09-25","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":995,"footballerid":101,"agentid":586,"signdate":"2021-11-28","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":996,"footballerid":923,"agentid":199,"signdate":"2021-07-02","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":997,"footballerid":862,"agentid":641,"signdate":"2020-05-14","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":998,"footballerid":864,"agentid":506,"signdate":"2022-03-02","duration":3}
+  },
+  {
+    "cntr_json": {"contractid":999,"footballerid":23,"agentid":286,"signdate":"2020-07-30","duration":1}
+  },
+  {
+    "cntr_json": {"contractid":1000,"footballerid":571,"agentid":544,"signdate":"2021-04-08","duration":5}
+  },
+  {
+    "cntr_json": {"contractid":1001,"footballerid":1000,"agentid":278,"signdate":"2022-09-27","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":1002,"footballerid":1000,"agentid":532,"signdate":"2022-09-27","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":1003,"footballerid":1000,"agentid":625,"signdate":"2022-09-27","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":1004,"footballerid":1000,"agentid":789,"signdate":"2022-09-27","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":1005,"footballerid":1000,"agentid":795,"signdate":"2022-09-27","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":1006,"footballerid":1000,"agentid":278,"signdate":"2022-09-27","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":1007,"footballerid":1000,"agentid":532,"signdate":"2022-09-27","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":1008,"footballerid":1000,"agentid":625,"signdate":"2022-09-27","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":1009,"footballerid":1000,"agentid":789,"signdate":"2022-09-27","duration":2}
+  },
+  {
+    "cntr_json": {"contractid":1010,"footballerid":1000,"agentid":795,"signdate":"2022-09-27","duration":2}
+  }
+]

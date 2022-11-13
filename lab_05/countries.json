@@ -1,0 +1,602 @@
+[
+  {
+    "cns_json": {"countryid":1,"namecountry":"Bangladesh","capital":"Robertton","square":13513793.11,"population":801056555.96}
+  },
+  {
+    "cns_json": {"countryid":2,"namecountry":"Isle of Man","capital":"Tinaborough","square":11616619.64,"population":42061807.88}
+  },
+  {
+    "cns_json": {"countryid":3,"namecountry":"Antarctica (the territory South of 60 deg S)","capital":"North Paulport","square":4688508.51,"population":999795005.41}
+  },
+  {
+    "cns_json": {"countryid":4,"namecountry":"Sweden","capital":"Lake Christopherburgh","square":7427506.25,"population":861100423.23}
+  },
+  {
+    "cns_json": {"countryid":5,"namecountry":"Suriname","capital":"East George","square":6923859.75,"population":917840577.44}
+  },
+  {
+    "cns_json": {"countryid":6,"namecountry":"Kenya","capital":"North Anthonymouth","square":9048794.49,"population":460044671.89}
+  },
+  {
+    "cns_json": {"countryid":7,"namecountry":"Papua New Guinea","capital":"Lake Diana","square":10306587.65,"population":471556994.25}
+  },
+  {
+    "cns_json": {"countryid":8,"namecountry":"Central African Republic","capital":"Lake Raymond","square":3132621.77,"population":127852986.03}
+  },
+  {
+    "cns_json": {"countryid":9,"namecountry":"Uruguay","capital":"Lindaville","square":5068285.27,"population":52852132.73}
+  },
+  {
+    "cns_json": {"countryid":10,"namecountry":"Djibouti","capital":"New Zachary","square":11982977.32,"population":1212813345.89}
+  },
+  {
+    "cns_json": {"countryid":11,"namecountry":"Saint Lucia","capital":"Carterburgh","square":11357219.92,"population":147058540.00}
+  },
+  {
+    "cns_json": {"countryid":12,"namecountry":"Ethiopia","capital":"Hutchinsonfort","square":12355962.55,"population":634743203.64}
+  },
+  {
+    "cns_json": {"countryid":13,"namecountry":"Japan","capital":"New Stephanie","square":13943469.34,"population":1385028144.39}
+  },
+  {
+    "cns_json": {"countryid":14,"namecountry":"Maldives","capital":"Smithview","square":19730987.54,"population":467981026.44}
+  },
+  {
+    "cns_json": {"countryid":15,"namecountry":"Switzerland","capital":"Kimberlystad","square":12398788.88,"population":190797319.95}
+  },
+  {
+    "cns_json": {"countryid":16,"namecountry":"Korea","capital":"South William","square":1972012.79,"population":222871189.11}
+  },
+  {
+    "cns_json": {"countryid":17,"namecountry":"Madagascar","capital":"Boydmouth","square":14970073.43,"population":1157360203.62}
+  },
+  {
+    "cns_json": {"countryid":18,"namecountry":"Slovakia (Slovak Republic)","capital":"East Erika","square":6692032.59,"population":53330822.70}
+  },
+  {
+    "cns_json": {"countryid":19,"namecountry":"Turks and Caicos Islands","capital":"Sarahstad","square":4329674.97,"population":705702320.92}
+  },
+  {
+    "cns_json": {"countryid":20,"namecountry":"Western Sahara","capital":"East Vincent","square":8994297.87,"population":1375599439.54}
+  },
+  {
+    "cns_json": {"countryid":21,"namecountry":"Algeria","capital":"West Jillside","square":631663.12,"population":1130139149.80}
+  },
+  {
+    "cns_json": {"countryid":22,"namecountry":"Cyprus","capital":"Harrismouth","square":14531522.43,"population":373259328.36}
+  },
+  {
+    "cns_json": {"countryid":23,"namecountry":"Cameroon","capital":"Christinahaven","square":8382086.06,"population":1352236936.38}
+  },
+  {
+    "cns_json": {"countryid":24,"namecountry":"Congo","capital":"Mccannton","square":19980941.89,"population":896379313.18}
+  },
+  {
+    "cns_json": {"countryid":25,"namecountry":"Lao People's Democratic Republic","capital":"Janetport","square":6837133.70,"population":776963882.02}
+  },
+  {
+    "cns_json": {"countryid":26,"namecountry":"Tanzania","capital":"West Kendra","square":3768904.24,"population":775326896.57}
+  },
+  {
+    "cns_json": {"countryid":27,"namecountry":"Namibia","capital":"Saraland","square":13123842.90,"population":757666331.12}
+  },
+  {
+    "cns_json": {"countryid":28,"namecountry":"Somalia","capital":"Reedfort","square":19152118.42,"population":1011786558.75}
+  },
+  {
+    "cns_json": {"countryid":29,"namecountry":"Aruba","capital":"Kingfort","square":752133.17,"population":342577903.15}
+  },
+  {
+    "cns_json": {"countryid":30,"namecountry":"Tonga","capital":"Howardport","square":737213.88,"population":1417734785.51}
+  },
+  {
+    "cns_json": {"countryid":31,"namecountry":"Nicaragua","capital":"New Carlyshire","square":14988338.49,"population":511418334.79}
+  },
+  {
+    "cns_json": {"countryid":32,"namecountry":"Mexico","capital":"Youngberg","square":4181977.79,"population":1089673437.56}
+  },
+  {
+    "cns_json": {"countryid":33,"namecountry":"Chad","capital":"Elaineport","square":14726613.95,"population":1477592372.93}
+  },
+  {
+    "cns_json": {"countryid":34,"namecountry":"Equatorial Guinea","capital":"Kathyberg","square":1195089.46,"population":598664392.98}
+  },
+  {
+    "cns_json": {"countryid":35,"namecountry":"Guernsey","capital":"Pittmantown","square":16817721.98,"population":1452136367.84}
+  },
+  {
+    "cns_json": {"countryid":36,"namecountry":"Oman","capital":"Port Scott","square":17677044.58,"population":705389211.07}
+  },
+  {
+    "cns_json": {"countryid":37,"namecountry":"French Southern Territories","capital":"Michelleshire","square":2462359.63,"population":582360515.49}
+  },
+  {
+    "cns_json": {"countryid":38,"namecountry":"Guam","capital":"South Ryan","square":1593666.53,"population":1240911087.55}
+  },
+  {
+    "cns_json": {"countryid":39,"namecountry":"Gambia","capital":"North Toddmouth","square":2283869.05,"population":709836167.78}
+  },
+  {
+    "cns_json": {"countryid":40,"namecountry":"Portugal","capital":"Lake Brookeport","square":5949031.58,"population":1158260552.82}
+  },
+  {
+    "cns_json": {"countryid":41,"namecountry":"Bolivia","capital":"South Meganmouth","square":11231111.94,"population":256126027.40}
+  },
+  {
+    "cns_json": {"countryid":42,"namecountry":"Bahrain","capital":"South Dustinfort","square":10200693.75,"population":114418434.52}
+  },
+  {
+    "cns_json": {"countryid":43,"namecountry":"Singapore","capital":"New Leemouth","square":14145150.88,"population":843919716.06}
+  },
+  {
+    "cns_json": {"countryid":44,"namecountry":"Ecuador","capital":"Smithton","square":9107281.60,"population":1087583720.28}
+  },
+  {
+    "cns_json": {"countryid":45,"namecountry":"Montserrat","capital":"Lake Stephanie","square":11783550.01,"population":274307028.00}
+  },
+  {
+    "cns_json": {"countryid":46,"namecountry":"Belgium","capital":"Chelseyfort","square":16463139.00,"population":275817668.95}
+  },
+  {
+    "cns_json": {"countryid":47,"namecountry":"Luxembourg","capital":"Washingtonmouth","square":8828719.26,"population":937063451.66}
+  },
+  {
+    "cns_json": {"countryid":48,"namecountry":"Hong Kong","capital":"Wilsonborough","square":11321607.94,"population":723784993.31}
+  },
+  {
+    "cns_json": {"countryid":49,"namecountry":"Burundi","capital":"New Joseph","square":9029419.16,"population":328383724.70}
+  },
+  {
+    "cns_json": {"countryid":50,"namecountry":"Pitcairn Islands","capital":"West Kathy","square":18852314.03,"population":574566587.62}
+  },
+  {
+    "cns_json": {"countryid":51,"namecountry":"San Marino","capital":"Catherinetown","square":19560162.38,"population":45653290.01}
+  },
+  {
+    "cns_json": {"countryid":52,"namecountry":"Sudan","capital":"East Juantown","square":4804933.79,"population":1106333105.34}
+  },
+  {
+    "cns_json": {"countryid":53,"namecountry":"United States Minor Outlying Islands","capital":"East Kathryn","square":1970345.83,"population":556882770.27}
+  },
+  {
+    "cns_json": {"countryid":54,"namecountry":"Cocos (Keeling) Islands","capital":"North Marciaton","square":2760598.17,"population":1174633144.25}
+  },
+  {
+    "cns_json": {"countryid":55,"namecountry":"Sri Lanka","capital":"South Taylor","square":13002720.82,"population":212618650.58}
+  },
+  {
+    "cns_json": {"countryid":56,"namecountry":"Cook Islands","capital":"Port Michael","square":11931137.73,"population":426423402.80}
+  },
+  {
+    "cns_json": {"countryid":57,"namecountry":"Faroe Islands","capital":"New Alicia","square":7058718.48,"population":47159254.74}
+  },
+  {
+    "cns_json": {"countryid":58,"namecountry":"Guatemala","capital":"Perezmouth","square":10300917.95,"population":998098455.52}
+  },
+  {
+    "cns_json": {"countryid":59,"namecountry":"Burkina Faso","capital":"Josephtown","square":6830485.00,"population":287354927.46}
+  },
+  {
+    "cns_json": {"countryid":60,"namecountry":"Heard Island and McDonald Islands","capital":"South Mary","square":6594519.46,"population":126401065.87}
+  },
+  {
+    "cns_json": {"countryid":61,"namecountry":"Bahamas","capital":"Port Ana","square":9394313.14,"population":1387658006.47}
+  },
+  {
+    "cns_json": {"countryid":62,"namecountry":"British Indian Ocean Territory (Chagos Archipelago)","capital":"Port Justinmouth","square":13274839.51,"population":26451483.84}
+  },
+  {
+    "cns_json": {"countryid":63,"namecountry":"Poland","capital":"Joshuachester","square":18314425.08,"population":1262370219.50}
+  },
+  {
+    "cns_json": {"countryid":64,"namecountry":"Greece","capital":"New Shaunmouth","square":17397430.23,"population":238498725.45}
+  },
+  {
+    "cns_json": {"countryid":65,"namecountry":"Wallis and Futuna","capital":"Craigbury","square":14064086.16,"population":1444152793.65}
+  },
+  {
+    "cns_json": {"countryid":66,"namecountry":"Liberia","capital":"Millerfort","square":16686908.69,"population":706720828.53}
+  },
+  {
+    "cns_json": {"countryid":67,"namecountry":"Cote d'Ivoire","capital":"Collinston","square":12944316.02,"population":616355783.63}
+  },
+  {
+    "cns_json": {"countryid":68,"namecountry":"Malta","capital":"New Samantha","square":15984397.55,"population":1023571848.57}
+  },
+  {
+    "cns_json": {"countryid":69,"namecountry":"Cape Verde","capital":"Martineztown","square":16284512.24,"population":328199959.68}
+  },
+  {
+    "cns_json": {"countryid":70,"namecountry":"Argentina","capital":"Lake Brookeville","square":19795380.06,"population":408049258.32}
+  },
+  {
+    "cns_json": {"countryid":71,"namecountry":"Saint Barthelemy","capital":"North Roy","square":10004714.68,"population":16815933.89}
+  },
+  {
+    "cns_json": {"countryid":72,"namecountry":"Bouvet Island (Bouvetoya)","capital":"Samuelburgh","square":14399368.89,"population":512811095.71}
+  },
+  {
+    "cns_json": {"countryid":73,"namecountry":"Malaysia","capital":"East Joseph","square":4271070.37,"population":1003686524.05}
+  },
+  {
+    "cns_json": {"countryid":74,"namecountry":"Gibraltar","capital":"Martinfort","square":15510557.55,"population":295839437.40}
+  },
+  {
+    "cns_json": {"countryid":75,"namecountry":"Israel","capital":"Lake Cynthiafurt","square":14964928.99,"population":53321726.09}
+  },
+  {
+    "cns_json": {"countryid":76,"namecountry":"Solomon Islands","capital":"South Alexandra","square":2906718.24,"population":448632187.17}
+  },
+  {
+    "cns_json": {"countryid":77,"namecountry":"Belize","capital":"South Hunterborough","square":13368891.85,"population":1254054857.03}
+  },
+  {
+    "cns_json": {"countryid":78,"namecountry":"Mauritius","capital":"East Jeremiahborough","square":2708229.46,"population":354316138.61}
+  },
+  {
+    "cns_json": {"countryid":79,"namecountry":"Netherlands Antilles","capital":"Tranton","square":18506868.70,"population":864475344.67}
+  },
+  {
+    "cns_json": {"countryid":80,"namecountry":"Finland","capital":"Port Adrienneborough","square":7569364.44,"population":1090757600.23}
+  },
+  {
+    "cns_json": {"countryid":81,"namecountry":"Kyrgyz Republic","capital":"Port Vincent","square":1310512.29,"population":886961187.00}
+  },
+  {
+    "cns_json": {"countryid":82,"namecountry":"Iraq","capital":"Jonathanshire","square":17608345.91,"population":946377458.70}
+  },
+  {
+    "cns_json": {"countryid":83,"namecountry":"Mayotte","capital":"Jenniferhaven","square":11697396.79,"population":401553147.37}
+  },
+  {
+    "cns_json": {"countryid":84,"namecountry":"Slovenia","capital":"West Jessica","square":4687933.76,"population":443271227.65}
+  },
+  {
+    "cns_json": {"countryid":85,"namecountry":"Macao","capital":"Masonmouth","square":6548537.87,"population":1270869798.00}
+  },
+  {
+    "cns_json": {"countryid":86,"namecountry":"China","capital":"Martinhaven","square":19096438.08,"population":82298759.27}
+  },
+  {
+    "cns_json": {"countryid":87,"namecountry":"Saint Kitts and Nevis","capital":"South Monica","square":4935079.21,"population":1031984680.65}
+  },
+  {
+    "cns_json": {"countryid":88,"namecountry":"Senegal","capital":"Horneside","square":17733682.59,"population":715577655.09}
+  },
+  {
+    "cns_json": {"countryid":89,"namecountry":"Netherlands","capital":"Port Jose","square":6826244.53,"population":382963327.14}
+  },
+  {
+    "cns_json": {"countryid":90,"namecountry":"Russian Federation","capital":"Taraburgh","square":10218861.67,"population":42520990.97}
+  },
+  {
+    "cns_json": {"countryid":91,"namecountry":"Liechtenstein","capital":"North Michelleborough","square":11789065.82,"population":492709834.73}
+  },
+  {
+    "cns_json": {"countryid":92,"namecountry":"France","capital":"East Barryborough","square":14619109.76,"population":498309588.69}
+  },
+  {
+    "cns_json": {"countryid":93,"namecountry":"Mali","capital":"Chaseland","square":4851846.04,"population":41929495.47}
+  },
+  {
+    "cns_json": {"countryid":94,"namecountry":"Estonia","capital":"East Johnside","square":16786196.05,"population":176288283.54}
+  },
+  {
+    "cns_json": {"countryid":95,"namecountry":"Venezuela","capital":"Jamesshire","square":9333423.54,"population":620673108.47}
+  },
+  {
+    "cns_json": {"countryid":96,"namecountry":"Libyan Arab Jamahiriya","capital":"East Sharonport","square":14039277.58,"population":1286898067.72}
+  },
+  {
+    "cns_json": {"countryid":97,"namecountry":"Guadeloupe","capital":"New Patriciaside","square":19220747.88,"population":964194050.51}
+  },
+  {
+    "cns_json": {"countryid":98,"namecountry":"United States of America","capital":"Robertobury","square":19479267.48,"population":1408278951.13}
+  },
+  {
+    "cns_json": {"countryid":99,"namecountry":"Peru","capital":"Port Jorgefort","square":9942053.68,"population":1314602077.77}
+  },
+  {
+    "cns_json": {"countryid":100,"namecountry":"Palestinian Territory","capital":"West Samanthaborough","square":17370194.52,"population":1166015561.16}
+  },
+  {
+    "cns_json": {"countryid":101,"namecountry":"Botswana","capital":"Port Marcville","square":12467619.32,"population":441480410.09}
+  },
+  {
+    "cns_json": {"countryid":102,"namecountry":"Seychelles","capital":"Byrdport","square":19768823.88,"population":215540721.19}
+  },
+  {
+    "cns_json": {"countryid":103,"namecountry":"Monaco","capital":"West Alexandermouth","square":7916485.12,"population":1329101251.70}
+  },
+  {
+    "cns_json": {"countryid":104,"namecountry":"Bermuda","capital":"West Thomaschester","square":16334155.14,"population":281785218.84}
+  },
+  {
+    "cns_json": {"countryid":105,"namecountry":"Kiribati","capital":"North Emily","square":14616292.03,"population":1076491754.34}
+  },
+  {
+    "cns_json": {"countryid":106,"namecountry":"Vanuatu","capital":"East Bobby","square":607942.20,"population":377379635.00}
+  },
+  {
+    "cns_json": {"countryid":107,"namecountry":"Falkland Islands (Malvinas)","capital":"Port Jeffreyborough","square":6992009.30,"population":550109484.91}
+  },
+  {
+    "cns_json": {"countryid":108,"namecountry":"Montenegro","capital":"New Robertbury","square":19984656.12,"population":1184266010.69}
+  },
+  {
+    "cns_json": {"countryid":109,"namecountry":"Marshall Islands","capital":"West Michellebury","square":10500556.87,"population":133739573.75}
+  },
+  {
+    "cns_json": {"countryid":110,"namecountry":"Guinea","capital":"Port Michaelfort","square":13114352.23,"population":321586270.76}
+  },
+  {
+    "cns_json": {"countryid":111,"namecountry":"Norfolk Island","capital":"New Johnborough","square":377927.79,"population":827799417.01}
+  },
+  {
+    "cns_json": {"countryid":112,"namecountry":"Togo","capital":"West Sarahville","square":19753876.26,"population":972897087.64}
+  },
+  {
+    "cns_json": {"countryid":113,"namecountry":"Bhutan","capital":"Port Christopherstad","square":5956063.42,"population":1232303195.58}
+  },
+  {
+    "cns_json": {"countryid":114,"namecountry":"Holy See (Vatican City State)","capital":"Brianside","square":11150015.98,"population":1387127980.29}
+  },
+  {
+    "cns_json": {"countryid":115,"namecountry":"Costa Rica","capital":"Hernandezland","square":14266748.16,"population":1297901402.92}
+  },
+  {
+    "cns_json": {"countryid":116,"namecountry":"Samoa","capital":"Greentown","square":140311.17,"population":337911776.08}
+  },
+  {
+    "cns_json": {"countryid":117,"namecountry":"Saudi Arabia","capital":"Cassandrabury","square":14583702.53,"population":1156048795.05}
+  },
+  {
+    "cns_json": {"countryid":118,"namecountry":"Trinidad and Tobago","capital":"Joyland","square":9496355.80,"population":455339766.07}
+  },
+  {
+    "cns_json": {"countryid":119,"namecountry":"Kazakhstan","capital":"New Robert","square":5753575.05,"population":1135822460.75}
+  },
+  {
+    "cns_json": {"countryid":120,"namecountry":"Colombia","capital":"Port Robert","square":13166021.67,"population":3312051.32}
+  },
+  {
+    "cns_json": {"countryid":121,"namecountry":"French Guiana","capital":"Drakebury","square":19095357.35,"population":426492331.85}
+  },
+  {
+    "cns_json": {"countryid":122,"namecountry":"Albania","capital":"New Dylanside","square":10372983.92,"population":882702827.53}
+  },
+  {
+    "cns_json": {"countryid":123,"namecountry":"Barbados","capital":"Huffside","square":3146992.54,"population":176745320.14}
+  },
+  {
+    "cns_json": {"countryid":124,"namecountry":"Turkey","capital":"Daltonberg","square":9307945.73,"population":126173672.93}
+  },
+  {
+    "cns_json": {"countryid":125,"namecountry":"Malawi","capital":"Michaelland","square":9432173.68,"population":1030324345.40}
+  },
+  {
+    "cns_json": {"countryid":126,"namecountry":"Palau","capital":"Richardstad","square":7095954.40,"population":1065429431.03}
+  },
+  {
+    "cns_json": {"countryid":127,"namecountry":"Syrian Arab Republic","capital":"Olsenland","square":16188373.76,"population":386773933.25}
+  },
+  {
+    "cns_json": {"countryid":128,"namecountry":"Saint Martin","capital":"Jessicashire","square":13401135.22,"population":369944161.41}
+  },
+  {
+    "cns_json": {"countryid":129,"namecountry":"Italy","capital":"South Cheryl","square":6232071.83,"population":280194618.52}
+  },
+  {
+    "cns_json": {"countryid":130,"namecountry":"Jamaica","capital":"Rochashire","square":2584218.17,"population":816894263.43}
+  },
+  {
+    "cns_json": {"countryid":131,"namecountry":"Angola","capital":"Port Diana","square":14635613.09,"population":504275455.83}
+  },
+  {
+    "cns_json": {"countryid":132,"namecountry":"Lesotho","capital":"Brucefort","square":1066660.41,"population":1132357163.06}
+  },
+  {
+    "cns_json": {"countryid":133,"namecountry":"Micronesia","capital":"Amyland","square":8571780.18,"population":803503054.10}
+  },
+  {
+    "cns_json": {"countryid":134,"namecountry":"Dominica","capital":"South Kathryn","square":11706191.64,"population":1417514615.71}
+  },
+  {
+    "cns_json": {"countryid":135,"namecountry":"New Zealand","capital":"Port Morganshire","square":3019225.93,"population":117438437.98}
+  },
+  {
+    "cns_json": {"countryid":136,"namecountry":"Bosnia and Herzegovina","capital":"South Katrinaton","square":6360262.47,"population":378810381.35}
+  },
+  {
+    "cns_json": {"countryid":137,"namecountry":"Kuwait","capital":"West Aliceport","square":9893038.51,"population":561817558.64}
+  },
+  {
+    "cns_json": {"countryid":138,"namecountry":"Eritrea","capital":"Kendramouth","square":32393.78,"population":914386666.25}
+  },
+  {
+    "cns_json": {"countryid":139,"namecountry":"Serbia","capital":"New Nancy","square":886345.28,"population":599728590.12}
+  },
+  {
+    "cns_json": {"countryid":140,"namecountry":"South Africa","capital":"Michaelfurt","square":6166369.84,"population":673101989.72}
+  },
+  {
+    "cns_json": {"countryid":141,"namecountry":"Yemen","capital":"Stephensland","square":10874120.27,"population":422256433.69}
+  },
+  {
+    "cns_json": {"countryid":142,"namecountry":"Myanmar","capital":"Clarencestad","square":1185531.72,"population":1286664582.35}
+  },
+  {
+    "cns_json": {"countryid":143,"namecountry":"Guyana","capital":"Bentleyburgh","square":19348224.28,"population":820288301.20}
+  },
+  {
+    "cns_json": {"countryid":144,"namecountry":"Cambodia","capital":"North Fred","square":5601264.89,"population":1250763.77}
+  },
+  {
+    "cns_json": {"countryid":145,"namecountry":"Gabon","capital":"Mcmillanton","square":14918846.27,"population":636401714.20}
+  },
+  {
+    "cns_json": {"countryid":146,"namecountry":"United States Virgin Islands","capital":"Zacharyborough","square":11320293.60,"population":703784708.14}
+  },
+  {
+    "cns_json": {"countryid":147,"namecountry":"Niue","capital":"Perezhaven","square":12749409.15,"population":89250725.43}
+  },
+  {
+    "cns_json": {"countryid":148,"namecountry":"Timor-Leste","capital":"Leahchester","square":18324213.18,"population":782146511.25}
+  },
+  {
+    "cns_json": {"countryid":149,"namecountry":"Azerbaijan","capital":"East Jeffreyville","square":8459363.98,"population":785427012.58}
+  },
+  {
+    "cns_json": {"countryid":150,"namecountry":"Czech Republic","capital":"Cassandrahaven","square":2138203.68,"population":294818511.79}
+  },
+  {
+    "cns_json": {"countryid":151,"namecountry":"Bulgaria","capital":"Careyberg","square":18427339.98,"population":182343486.57}
+  },
+  {
+    "cns_json": {"countryid":152,"namecountry":"Indonesia","capital":"West Vicki","square":8603136.35,"population":647083311.05}
+  },
+  {
+    "cns_json": {"countryid":153,"namecountry":"Saint Pierre and Miquelon","capital":"Valdezbury","square":15658047.66,"population":1234160004.73}
+  },
+  {
+    "cns_json": {"countryid":154,"namecountry":"Mozambique","capital":"East Corey","square":9203554.97,"population":942569757.88}
+  },
+  {
+    "cns_json": {"countryid":155,"namecountry":"Ukraine","capital":"North Jose","square":9110248.23,"population":861696369.70}
+  },
+  {
+    "cns_json": {"countryid":156,"namecountry":"Tokelau","capital":"West Alan","square":5713498.86,"population":47845397.94}
+  },
+  {
+    "cns_json": {"countryid":157,"namecountry":"Croatia","capital":"Allenton","square":1456833.29,"population":789464273.59}
+  },
+  {
+    "cns_json": {"countryid":158,"namecountry":"Guinea-Bissau","capital":"Fishertown","square":1745515.34,"population":1215189097.15}
+  },
+  {
+    "cns_json": {"countryid":159,"namecountry":"Sao Tome and Principe","capital":"Elizabethland","square":6647419.01,"population":554736445.21}
+  },
+  {
+    "cns_json": {"countryid":160,"namecountry":"Turkmenistan","capital":"West Glenn","square":9738110.60,"population":1371535857.91}
+  },
+  {
+    "cns_json": {"countryid":161,"namecountry":"Fiji","capital":"Clarkchester","square":14592064.47,"population":384355120.87}
+  },
+  {
+    "cns_json": {"countryid":162,"namecountry":"South Georgia and the South Sandwich Islands","capital":"Smithfurt","square":450585.52,"population":1079881752.27}
+  },
+  {
+    "cns_json": {"countryid":163,"namecountry":"Egypt","capital":"Martinezville","square":12264711.29,"population":321135567.30}
+  },
+  {
+    "cns_json": {"countryid":164,"namecountry":"Nigeria","capital":"North Joshuahaven","square":3124470.80,"population":368568692.56}
+  },
+  {
+    "cns_json": {"countryid":165,"namecountry":"Saint Vincent and the Grenadines","capital":"Lake Abigail","square":3406678.67,"population":932261083.39}
+  },
+  {
+    "cns_json": {"countryid":166,"namecountry":"Honduras","capital":"South Stephaniefort","square":8510821.22,"population":1459357447.57}
+  },
+  {
+    "cns_json": {"countryid":167,"namecountry":"Lebanon","capital":"North Haleyfurt","square":6609238.46,"population":489099077.43}
+  },
+  {
+    "cns_json": {"countryid":168,"namecountry":"Svalbard & Jan Mayen Islands","capital":"Reneeview","square":17384898.14,"population":733965633.53}
+  },
+  {
+    "cns_json": {"countryid":169,"namecountry":"Qatar","capital":"Port Tracy","square":13390311.70,"population":197227932.71}
+  },
+  {
+    "cns_json": {"countryid":170,"namecountry":"Germany","capital":"Adamfort","square":4463603.51,"population":355458191.02}
+  },
+  {
+    "cns_json": {"countryid":171,"namecountry":"Reunion","capital":"Stevensonbury","square":9166051.37,"population":643718982.89}
+  },
+  {
+    "cns_json": {"countryid":172,"namecountry":"Uzbekistan","capital":"Davidmouth","square":4260612.44,"population":1040501212.92}
+  },
+  {
+    "cns_json": {"countryid":173,"namecountry":"Ireland","capital":"Port Chadmouth","square":4062254.05,"population":1355569963.16}
+  },
+  {
+    "cns_json": {"countryid":174,"namecountry":"British Virgin Islands","capital":"East Donnabury","square":14838870.30,"population":1272982947.65}
+  },
+  {
+    "cns_json": {"countryid":175,"namecountry":"Iran","capital":"East Diana","square":1260906.60,"population":429136191.04}
+  },
+  {
+    "cns_json": {"countryid":176,"namecountry":"Puerto Rico","capital":"East Evan","square":118798.35,"population":753776021.28}
+  },
+  {
+    "cns_json": {"countryid":177,"namecountry":"Romania","capital":"West Biancatown","square":4251505.88,"population":1488699188.13}
+  },
+  {
+    "cns_json": {"countryid":178,"namecountry":"Mongolia","capital":"Greenburgh","square":12902309.08,"population":1104593047.32}
+  },
+  {
+    "cns_json": {"countryid":179,"namecountry":"American Samoa","capital":"East Catherineton","square":17686234.14,"population":1470849364.40}
+  },
+  {
+    "cns_json": {"countryid":180,"namecountry":"Lithuania","capital":"New Bonnieland","square":14048924.39,"population":544934285.04}
+  },
+  {
+    "cns_json": {"countryid":181,"namecountry":"Andorra","capital":"Allenfort","square":275228.39,"population":586335332.84}
+  },
+  {
+    "cns_json": {"countryid":182,"namecountry":"Brazil","capital":"Timothyborough","square":18949952.57,"population":1023565835.81}
+  },
+  {
+    "cns_json": {"countryid":183,"namecountry":"French Polynesia","capital":"Hernandeztown","square":13104264.87,"population":616712645.45}
+  },
+  {
+    "cns_json": {"countryid":184,"namecountry":"Macedonia","capital":"West Corey","square":12739676.62,"population":403710789.53}
+  },
+  {
+    "cns_json": {"countryid":185,"namecountry":"Tunisia","capital":"Pereztown","square":15723623.16,"population":803927928.08}
+  },
+  {
+    "cns_json": {"countryid":186,"namecountry":"Denmark","capital":"Lake Ronnieton","square":16262019.02,"population":642103275.42}
+  },
+  {
+    "cns_json": {"countryid":187,"namecountry":"Zimbabwe","capital":"Port Richardberg","square":3489834.45,"population":1021906416.94}
+  },
+  {
+    "cns_json": {"countryid":188,"namecountry":"Anguilla","capital":"New Jeremy","square":3301185.17,"population":630509768.59}
+  },
+  {
+    "cns_json": {"countryid":189,"namecountry":"Australia","capital":"Robinsonton","square":9310291.99,"population":230485844.36}
+  },
+  {
+    "cns_json": {"countryid":190,"namecountry":"Tajikistan","capital":"New Ernestberg","square":892906.22,"population":907925136.55}
+  },
+  {
+    "cns_json": {"countryid":191,"namecountry":"Nepal","capital":"South Jillianville","square":5028366.26,"population":1144830019.92}
+  },
+  {
+    "cns_json": {"countryid":192,"namecountry":"United Kingdom","capital":"North Charles","square":18684004.32,"population":1096888552.40}
+  },
+  {
+    "cns_json": {"countryid":193,"namecountry":"Jordan","capital":"Mendozatown","square":15378259.83,"population":814059910.69}
+  },
+  {
+    "cns_json": {"countryid":194,"namecountry":"Spain","capital":"New Meghan","square":10323522.60,"population":562290208.97}
+  },
+  {
+    "cns_json": {"countryid":195,"namecountry":"Antigua and Barbuda","capital":"New Dominiqueshire","square":16225153.28,"population":956429613.25}
+  },
+  {
+    "cns_json": {"countryid":196,"namecountry":"Latvia","capital":"Port Lindsay","square":5937701.91,"population":1128593770.14}
+  },
+  {
+    "cns_json": {"countryid":197,"namecountry":"Saint Helena","capital":"Lake Holly","square":14187364.83,"population":20191141.94}
+  },
+  {
+    "cns_json": {"countryid":198,"namecountry":"Chile","capital":"New Angela","square":13825905.66,"population":302531802.16}
+  },
+  {
+    "cns_json": {"countryid":199,"namecountry":"Comoros","capital":"Lake Samantha","square":12098489.77,"population":1372261827.23}
+  },
+  {
+    "cns_json": {"countryid":200,"namecountry":"Northern Mariana Islands","capital":"Michaelberg","square":17216053.89,"population":791230502.94}
+  }
+]

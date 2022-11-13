@@ -1,0 +1,3002 @@
+[
+  {
+    "clb_json": {"clubid":1,"nameclub":"FC Levy","countryid":24,"leagueid":292,"foundationyear":1951,"price":84000000.00}
+  },
+  {
+    "clb_json": {"clubid":2,"nameclub":"FC Hood","countryid":109,"leagueid":128,"foundationyear":1914,"price":970000000.00}
+  },
+  {
+    "clb_json": {"clubid":3,"nameclub":"FC Little","countryid":182,"leagueid":15,"foundationyear":1855,"price":211000000.00}
+  },
+  {
+    "clb_json": {"clubid":4,"nameclub":"FC Hancock","countryid":54,"leagueid":929,"foundationyear":1963,"price":413000000.00}
+  },
+  {
+    "clb_json": {"clubid":5,"nameclub":"FC Bernard","countryid":174,"leagueid":571,"foundationyear":1981,"price":596000000.00}
+  },
+  {
+    "clb_json": {"clubid":6,"nameclub":"FC Abbott","countryid":108,"leagueid":326,"foundationyear":1907,"price":717000000.00}
+  },
+  {
+    "clb_json": {"clubid":7,"nameclub":"FC Parker","countryid":67,"leagueid":368,"foundationyear":1899,"price":109000000.00}
+  },
+  {
+    "clb_json": {"clubid":8,"nameclub":"FC Lawson","countryid":175,"leagueid":22,"foundationyear":1855,"price":865000000.00}
+  },
+  {
+    "clb_json": {"clubid":9,"nameclub":"FC Gomez","countryid":162,"leagueid":823,"foundationyear":1918,"price":806000000.00}
+  },
+  {
+    "clb_json": {"clubid":10,"nameclub":"FC Contreras","countryid":181,"leagueid":89,"foundationyear":1958,"price":369000000.00}
+  },
+  {
+    "clb_json": {"clubid":11,"nameclub":"FC Marks","countryid":109,"leagueid":813,"foundationyear":2003,"price":883000000.00}
+  },
+  {
+    "clb_json": {"clubid":12,"nameclub":"FC Stephenson","countryid":99,"leagueid":390,"foundationyear":1976,"price":684000000.00}
+  },
+  {
+    "clb_json": {"clubid":13,"nameclub":"FC Wolfe","countryid":35,"leagueid":682,"foundationyear":1850,"price":191000000.00}
+  },
+  {
+    "clb_json": {"clubid":14,"nameclub":"FC Jones","countryid":161,"leagueid":251,"foundationyear":1852,"price":860000000.00}
+  },
+  {
+    "clb_json": {"clubid":15,"nameclub":"FC Rodriguez","countryid":24,"leagueid":645,"foundationyear":1912,"price":759000000.00}
+  },
+  {
+    "clb_json": {"clubid":16,"nameclub":"FC Woods","countryid":141,"leagueid":837,"foundationyear":1985,"price":399000000.00}
+  },
+  {
+    "clb_json": {"clubid":17,"nameclub":"FC Black","countryid":20,"leagueid":907,"foundationyear":1997,"price":505000000.00}
+  },
+  {
+    "clb_json": {"clubid":18,"nameclub":"FC Carter","countryid":165,"leagueid":453,"foundationyear":1887,"price":281000000.00}
+  },
+  {
+    "clb_json": {"clubid":19,"nameclub":"FC Flores","countryid":94,"leagueid":752,"foundationyear":1991,"price":982000000.00}
+  },
+  {
+    "clb_json": {"clubid":20,"nameclub":"FC Fox","countryid":54,"leagueid":873,"foundationyear":1893,"price":944000000.00}
+  },
+  {
+    "clb_json": {"clubid":21,"nameclub":"FC Neal","countryid":135,"leagueid":204,"foundationyear":1919,"price":829000000.00}
+  },
+  {
+    "clb_json": {"clubid":22,"nameclub":"FC Bradley","countryid":121,"leagueid":823,"foundationyear":1952,"price":330000000.00}
+  },
+  {
+    "clb_json": {"clubid":23,"nameclub":"FC Castillo","countryid":194,"leagueid":948,"foundationyear":1898,"price":226000000.00}
+  },
+  {
+    "clb_json": {"clubid":24,"nameclub":"FC Johnson","countryid":30,"leagueid":452,"foundationyear":1983,"price":814000000.00}
+  },
+  {
+    "clb_json": {"clubid":25,"nameclub":"FC Sanchez","countryid":152,"leagueid":109,"foundationyear":1981,"price":728000000.00}
+  },
+  {
+    "clb_json": {"clubid":26,"nameclub":"FC Payne","countryid":162,"leagueid":511,"foundationyear":2005,"price":533000000.00}
+  },
+  {
+    "clb_json": {"clubid":27,"nameclub":"FC Faulkner","countryid":194,"leagueid":575,"foundationyear":1903,"price":154000000.00}
+  },
+  {
+    "clb_json": {"clubid":28,"nameclub":"FC Snyder","countryid":61,"leagueid":984,"foundationyear":1965,"price":732000000.00}
+  },
+  {
+    "clb_json": {"clubid":29,"nameclub":"FC Bishop","countryid":58,"leagueid":45,"foundationyear":1924,"price":396000000.00}
+  },
+  {
+    "clb_json": {"clubid":30,"nameclub":"FC Collins","countryid":61,"leagueid":452,"foundationyear":1956,"price":942000000.00}
+  },
+  {
+    "clb_json": {"clubid":31,"nameclub":"FC Compton","countryid":114,"leagueid":923,"foundationyear":2017,"price":364000000.00}
+  },
+  {
+    "clb_json": {"clubid":32,"nameclub":"FC Robbins","countryid":135,"leagueid":449,"foundationyear":1946,"price":750000000.00}
+  },
+  {
+    "clb_json": {"clubid":33,"nameclub":"FC Taylor","countryid":199,"leagueid":612,"foundationyear":1899,"price":607000000.00}
+  },
+  {
+    "clb_json": {"clubid":34,"nameclub":"FC Ramirez","countryid":113,"leagueid":988,"foundationyear":1940,"price":492000000.00}
+  },
+  {
+    "clb_json": {"clubid":35,"nameclub":"FC Jackson","countryid":128,"leagueid":262,"foundationyear":1987,"price":263000000.00}
+  },
+  {
+    "clb_json": {"clubid":36,"nameclub":"FC Miller","countryid":132,"leagueid":825,"foundationyear":2001,"price":630000000.00}
+  },
+  {
+    "clb_json": {"clubid":37,"nameclub":"FC Ortega","countryid":27,"leagueid":877,"foundationyear":1850,"price":851000000.00}
+  },
+  {
+    "clb_json": {"clubid":38,"nameclub":"FC Jones","countryid":75,"leagueid":333,"foundationyear":1863,"price":898000000.00}
+  },
+  {
+    "clb_json": {"clubid":39,"nameclub":"FC Christian","countryid":57,"leagueid":576,"foundationyear":1927,"price":157000000.00}
+  },
+  {
+    "clb_json": {"clubid":40,"nameclub":"FC Chase","countryid":47,"leagueid":277,"foundationyear":1928,"price":625000000.00}
+  },
+  {
+    "clb_json": {"clubid":41,"nameclub":"FC Boyd","countryid":88,"leagueid":806,"foundationyear":1974,"price":342000000.00}
+  },
+  {
+    "clb_json": {"clubid":42,"nameclub":"FC Sanders","countryid":180,"leagueid":152,"foundationyear":1934,"price":518000000.00}
+  },
+  {
+    "clb_json": {"clubid":43,"nameclub":"FC Jones","countryid":127,"leagueid":484,"foundationyear":1916,"price":419000000.00}
+  },
+  {
+    "clb_json": {"clubid":44,"nameclub":"FC Cervantes","countryid":136,"leagueid":711,"foundationyear":1886,"price":223000000.00}
+  },
+  {
+    "clb_json": {"clubid":45,"nameclub":"FC Davis","countryid":71,"leagueid":310,"foundationyear":1970,"price":203000000.00}
+  },
+  {
+    "clb_json": {"clubid":46,"nameclub":"FC Cox","countryid":53,"leagueid":245,"foundationyear":1878,"price":877000000.00}
+  },
+  {
+    "clb_json": {"clubid":47,"nameclub":"FC Craig","countryid":157,"leagueid":357,"foundationyear":1952,"price":668000000.00}
+  },
+  {
+    "clb_json": {"clubid":48,"nameclub":"FC Anderson","countryid":157,"leagueid":454,"foundationyear":1949,"price":941000000.00}
+  },
+  {
+    "clb_json": {"clubid":49,"nameclub":"FC Webb","countryid":159,"leagueid":850,"foundationyear":1868,"price":345000000.00}
+  },
+  {
+    "clb_json": {"clubid":50,"nameclub":"FC Davis","countryid":195,"leagueid":827,"foundationyear":1893,"price":253000000.00}
+  },
+  {
+    "clb_json": {"clubid":51,"nameclub":"FC Rosales","countryid":62,"leagueid":953,"foundationyear":1855,"price":557000000.00}
+  },
+  {
+    "clb_json": {"clubid":52,"nameclub":"FC Carter","countryid":191,"leagueid":728,"foundationyear":1892,"price":172000000.00}
+  },
+  {
+    "clb_json": {"clubid":53,"nameclub":"FC Barnett","countryid":83,"leagueid":368,"foundationyear":1913,"price":749000000.00}
+  },
+  {
+    "clb_json": {"clubid":54,"nameclub":"FC Johnson","countryid":183,"leagueid":30,"foundationyear":1911,"price":260000000.00}
+  },
+  {
+    "clb_json": {"clubid":55,"nameclub":"FC Hernandez","countryid":118,"leagueid":30,"foundationyear":1905,"price":273000000.00}
+  },
+  {
+    "clb_json": {"clubid":56,"nameclub":"FC Gonzalez","countryid":143,"leagueid":547,"foundationyear":1874,"price":338000000.00}
+  },
+  {
+    "clb_json": {"clubid":57,"nameclub":"FC Morrison","countryid":55,"leagueid":52,"foundationyear":1912,"price":100000000.00}
+  },
+  {
+    "clb_json": {"clubid":58,"nameclub":"FC Mcdaniel","countryid":163,"leagueid":240,"foundationyear":1876,"price":624000000.00}
+  },
+  {
+    "clb_json": {"clubid":59,"nameclub":"FC Bradley","countryid":14,"leagueid":972,"foundationyear":2005,"price":707000000.00}
+  },
+  {
+    "clb_json": {"clubid":60,"nameclub":"FC Randolph","countryid":158,"leagueid":623,"foundationyear":1998,"price":575000000.00}
+  },
+  {
+    "clb_json": {"clubid":61,"nameclub":"FC David","countryid":91,"leagueid":120,"foundationyear":1958,"price":750000000.00}
+  },
+  {
+    "clb_json": {"clubid":62,"nameclub":"FC Rosales","countryid":115,"leagueid":740,"foundationyear":1905,"price":155000000.00}
+  },
+  {
+    "clb_json": {"clubid":63,"nameclub":"FC Vaughn","countryid":97,"leagueid":816,"foundationyear":1981,"price":995000000.00}
+  },
+  {
+    "clb_json": {"clubid":64,"nameclub":"FC Hanson","countryid":80,"leagueid":231,"foundationyear":2001,"price":224000000.00}
+  },
+  {
+    "clb_json": {"clubid":65,"nameclub":"FC Moore","countryid":100,"leagueid":990,"foundationyear":2022,"price":753000000.00}
+  },
+  {
+    "clb_json": {"clubid":66,"nameclub":"FC Parsons","countryid":100,"leagueid":765,"foundationyear":1920,"price":702000000.00}
+  },
+  {
+    "clb_json": {"clubid":67,"nameclub":"FC Vargas","countryid":123,"leagueid":708,"foundationyear":1891,"price":795000000.00}
+  },
+  {
+    "clb_json": {"clubid":68,"nameclub":"FC Kennedy","countryid":96,"leagueid":616,"foundationyear":1910,"price":619000000.00}
+  },
+  {
+    "clb_json": {"clubid":69,"nameclub":"FC Cooper","countryid":143,"leagueid":435,"foundationyear":1965,"price":218000000.00}
+  },
+  {
+    "clb_json": {"clubid":70,"nameclub":"FC Chapman","countryid":110,"leagueid":891,"foundationyear":1930,"price":21000000.00}
+  },
+  {
+    "clb_json": {"clubid":71,"nameclub":"FC Jimenez","countryid":44,"leagueid":214,"foundationyear":1883,"price":662000000.00}
+  },
+  {
+    "clb_json": {"clubid":72,"nameclub":"FC Thompson","countryid":14,"leagueid":2,"foundationyear":1877,"price":395000000.00}
+  },
+  {
+    "clb_json": {"clubid":73,"nameclub":"FC King","countryid":146,"leagueid":300,"foundationyear":1882,"price":330000000.00}
+  },
+  {
+    "clb_json": {"clubid":74,"nameclub":"FC Frey","countryid":103,"leagueid":374,"foundationyear":1964,"price":244000000.00}
+  },
+  {
+    "clb_json": {"clubid":75,"nameclub":"FC Torres","countryid":24,"leagueid":988,"foundationyear":1875,"price":513000000.00}
+  },
+  {
+    "clb_json": {"clubid":76,"nameclub":"FC Miller","countryid":76,"leagueid":722,"foundationyear":1985,"price":273000000.00}
+  },
+  {
+    "clb_json": {"clubid":77,"nameclub":"FC Aguirre","countryid":200,"leagueid":978,"foundationyear":1976,"price":909000000.00}
+  },
+  {
+    "clb_json": {"clubid":78,"nameclub":"FC Kelly","countryid":177,"leagueid":837,"foundationyear":1874,"price":509000000.00}
+  },
+  {
+    "clb_json": {"clubid":79,"nameclub":"FC Watson","countryid":177,"leagueid":426,"foundationyear":1951,"price":362000000.00}
+  },
+  {
+    "clb_json": {"clubid":80,"nameclub":"FC Lewis","countryid":128,"leagueid":886,"foundationyear":1990,"price":806000000.00}
+  },
+  {
+    "clb_json": {"clubid":81,"nameclub":"FC Davis","countryid":36,"leagueid":465,"foundationyear":1952,"price":28000000.00}
+  },
+  {
+    "clb_json": {"clubid":82,"nameclub":"FC Lopez","countryid":76,"leagueid":604,"foundationyear":1889,"price":586000000.00}
+  },
+  {
+    "clb_json": {"clubid":83,"nameclub":"FC Graves","countryid":95,"leagueid":398,"foundationyear":1874,"price":586000000.00}
+  },
+  {
+    "clb_json": {"clubid":84,"nameclub":"FC Lynch","countryid":120,"leagueid":27,"foundationyear":1917,"price":530000000.00}
+  },
+  {
+    "clb_json": {"clubid":85,"nameclub":"FC Rhodes","countryid":12,"leagueid":814,"foundationyear":1971,"price":874000000.00}
+  },
+  {
+    "clb_json": {"clubid":86,"nameclub":"FC Wright","countryid":44,"leagueid":519,"foundationyear":1852,"price":885000000.00}
+  },
+  {
+    "clb_json": {"clubid":87,"nameclub":"FC Cruz","countryid":67,"leagueid":805,"foundationyear":1964,"price":541000000.00}
+  },
+  {
+    "clb_json": {"clubid":88,"nameclub":"FC Washington","countryid":81,"leagueid":82,"foundationyear":2020,"price":55000000.00}
+  },
+  {
+    "clb_json": {"clubid":89,"nameclub":"FC Lee","countryid":189,"leagueid":551,"foundationyear":1869,"price":211000000.00}
+  },
+  {
+    "clb_json": {"clubid":90,"nameclub":"FC Yang","countryid":108,"leagueid":56,"foundationyear":1884,"price":170000000.00}
+  },
+  {
+    "clb_json": {"clubid":91,"nameclub":"FC Holland","countryid":88,"leagueid":291,"foundationyear":1930,"price":769000000.00}
+  },
+  {
+    "clb_json": {"clubid":92,"nameclub":"FC Meza","countryid":179,"leagueid":615,"foundationyear":1991,"price":469000000.00}
+  },
+  {
+    "clb_json": {"clubid":93,"nameclub":"FC Wilkerson","countryid":63,"leagueid":833,"foundationyear":2016,"price":890000000.00}
+  },
+  {
+    "clb_json": {"clubid":94,"nameclub":"FC Campbell","countryid":164,"leagueid":767,"foundationyear":2003,"price":787000000.00}
+  },
+  {
+    "clb_json": {"clubid":95,"nameclub":"FC Valentine","countryid":58,"leagueid":630,"foundationyear":1860,"price":561000000.00}
+  },
+  {
+    "clb_json": {"clubid":96,"nameclub":"FC Villarreal","countryid":115,"leagueid":418,"foundationyear":1976,"price":466000000.00}
+  },
+  {
+    "clb_json": {"clubid":97,"nameclub":"FC Brooks","countryid":101,"leagueid":107,"foundationyear":1972,"price":184000000.00}
+  },
+  {
+    "clb_json": {"clubid":98,"nameclub":"FC Case","countryid":135,"leagueid":459,"foundationyear":1943,"price":904000000.00}
+  },
+  {
+    "clb_json": {"clubid":99,"nameclub":"FC Williams","countryid":94,"leagueid":101,"foundationyear":1918,"price":717000000.00}
+  },
+  {
+    "clb_json": {"clubid":100,"nameclub":"FC Watkins","countryid":114,"leagueid":379,"foundationyear":1923,"price":987000000.00}
+  },
+  {
+    "clb_json": {"clubid":101,"nameclub":"FC Lee","countryid":147,"leagueid":389,"foundationyear":1966,"price":377000000.00}
+  },
+  {
+    "clb_json": {"clubid":102,"nameclub":"FC Taylor","countryid":82,"leagueid":796,"foundationyear":2009,"price":597000000.00}
+  },
+  {
+    "clb_json": {"clubid":103,"nameclub":"FC Clark","countryid":179,"leagueid":466,"foundationyear":2013,"price":894000000.00}
+  },
+  {
+    "clb_json": {"clubid":104,"nameclub":"FC Grant","countryid":51,"leagueid":964,"foundationyear":1923,"price":652000000.00}
+  },
+  {
+    "clb_json": {"clubid":105,"nameclub":"FC Cruz","countryid":118,"leagueid":756,"foundationyear":1946,"price":100000000.00}
+  },
+  {
+    "clb_json": {"clubid":106,"nameclub":"FC Pena","countryid":5,"leagueid":477,"foundationyear":1930,"price":130000000.00}
+  },
+  {
+    "clb_json": {"clubid":107,"nameclub":"FC Thompson","countryid":141,"leagueid":366,"foundationyear":1928,"price":145000000.00}
+  },
+  {
+    "clb_json": {"clubid":108,"nameclub":"FC Newton","countryid":42,"leagueid":609,"foundationyear":1976,"price":560000000.00}
+  },
+  {
+    "clb_json": {"clubid":109,"nameclub":"FC Sosa","countryid":64,"leagueid":867,"foundationyear":2021,"price":976000000.00}
+  },
+  {
+    "clb_json": {"clubid":110,"nameclub":"FC Meza","countryid":158,"leagueid":379,"foundationyear":1972,"price":764000000.00}
+  },
+  {
+    "clb_json": {"clubid":111,"nameclub":"FC Mcbride","countryid":196,"leagueid":394,"foundationyear":2003,"price":106000000.00}
+  },
+  {
+    "clb_json": {"clubid":112,"nameclub":"FC Spence","countryid":65,"leagueid":517,"foundationyear":1912,"price":105000000.00}
+  },
+  {
+    "clb_json": {"clubid":113,"nameclub":"FC Perez","countryid":25,"leagueid":511,"foundationyear":1855,"price":423000000.00}
+  },
+  {
+    "clb_json": {"clubid":114,"nameclub":"FC Kramer","countryid":14,"leagueid":296,"foundationyear":1900,"price":358000000.00}
+  },
+  {
+    "clb_json": {"clubid":115,"nameclub":"FC Brown","countryid":138,"leagueid":244,"foundationyear":1984,"price":550000000.00}
+  },
+  {
+    "clb_json": {"clubid":116,"nameclub":"FC Jennifer","countryid":194,"leagueid":69,"foundationyear":1853,"price":31000000.00}
+  },
+  {
+    "clb_json": {"clubid":117,"nameclub":"FC Wright","countryid":193,"leagueid":985,"foundationyear":1852,"price":269000000.00}
+  },
+  {
+    "clb_json": {"clubid":118,"nameclub":"FC Dean","countryid":165,"leagueid":184,"foundationyear":2018,"price":46000000.00}
+  },
+  {
+    "clb_json": {"clubid":119,"nameclub":"FC Harper","countryid":195,"leagueid":250,"foundationyear":1872,"price":215000000.00}
+  },
+  {
+    "clb_json": {"clubid":120,"nameclub":"FC Lauren","countryid":118,"leagueid":510,"foundationyear":2011,"price":191000000.00}
+  },
+  {
+    "clb_json": {"clubid":121,"nameclub":"FC Brady","countryid":147,"leagueid":110,"foundationyear":1945,"price":576000000.00}
+  },
+  {
+    "clb_json": {"clubid":122,"nameclub":"FC Martin","countryid":179,"leagueid":9,"foundationyear":1962,"price":691000000.00}
+  },
+  {
+    "clb_json": {"clubid":123,"nameclub":"FC Shannon","countryid":143,"leagueid":338,"foundationyear":1898,"price":793000000.00}
+  },
+  {
+    "clb_json": {"clubid":124,"nameclub":"FC Gillespie","countryid":192,"leagueid":570,"foundationyear":1861,"price":992000000.00}
+  },
+  {
+    "clb_json": {"clubid":125,"nameclub":"FC Barton","countryid":111,"leagueid":675,"foundationyear":1964,"price":799000000.00}
+  },
+  {
+    "clb_json": {"clubid":126,"nameclub":"FC Daniel","countryid":15,"leagueid":610,"foundationyear":1981,"price":699000000.00}
+  },
+  {
+    "clb_json": {"clubid":127,"nameclub":"FC Terry","countryid":10,"leagueid":143,"foundationyear":1978,"price":147000000.00}
+  },
+  {
+    "clb_json": {"clubid":128,"nameclub":"FC Brown","countryid":148,"leagueid":581,"foundationyear":2001,"price":473000000.00}
+  },
+  {
+    "clb_json": {"clubid":129,"nameclub":"FC Marsh","countryid":192,"leagueid":900,"foundationyear":1856,"price":774000000.00}
+  },
+  {
+    "clb_json": {"clubid":130,"nameclub":"FC Allen","countryid":59,"leagueid":23,"foundationyear":2012,"price":346000000.00}
+  },
+  {
+    "clb_json": {"clubid":131,"nameclub":"FC Cooper","countryid":87,"leagueid":302,"foundationyear":2012,"price":783000000.00}
+  },
+  {
+    "clb_json": {"clubid":132,"nameclub":"FC Lam","countryid":10,"leagueid":653,"foundationyear":1898,"price":99000000.00}
+  },
+  {
+    "clb_json": {"clubid":133,"nameclub":"FC Edwards","countryid":196,"leagueid":311,"foundationyear":2020,"price":892000000.00}
+  },
+  {
+    "clb_json": {"clubid":134,"nameclub":"FC Swanson","countryid":118,"leagueid":402,"foundationyear":1872,"price":874000000.00}
+  },
+  {
+    "clb_json": {"clubid":135,"nameclub":"FC Kaiser","countryid":82,"leagueid":54,"foundationyear":1960,"price":532000000.00}
+  },
+  {
+    "clb_json": {"clubid":136,"nameclub":"FC Obrien","countryid":56,"leagueid":408,"foundationyear":1862,"price":438000000.00}
+  },
+  {
+    "clb_json": {"clubid":137,"nameclub":"FC Estrada","countryid":111,"leagueid":814,"foundationyear":1911,"price":418000000.00}
+  },
+  {
+    "clb_json": {"clubid":138,"nameclub":"FC Hopkins","countryid":41,"leagueid":433,"foundationyear":1905,"price":950000000.00}
+  },
+  {
+    "clb_json": {"clubid":139,"nameclub":"FC Ramirez","countryid":104,"leagueid":596,"foundationyear":1905,"price":404000000.00}
+  },
+  {
+    "clb_json": {"clubid":140,"nameclub":"FC Mcmillan","countryid":158,"leagueid":944,"foundationyear":1855,"price":590000000.00}
+  },
+  {
+    "clb_json": {"clubid":141,"nameclub":"FC Robbins","countryid":118,"leagueid":576,"foundationyear":1997,"price":617000000.00}
+  },
+  {
+    "clb_json": {"clubid":142,"nameclub":"FC Tucker","countryid":109,"leagueid":541,"foundationyear":1902,"price":157000000.00}
+  },
+  {
+    "clb_json": {"clubid":143,"nameclub":"FC Kramer","countryid":103,"leagueid":232,"foundationyear":1979,"price":859000000.00}
+  },
+  {
+    "clb_json": {"clubid":144,"nameclub":"FC Calderon","countryid":154,"leagueid":100,"foundationyear":2022,"price":42000000.00}
+  },
+  {
+    "clb_json": {"clubid":145,"nameclub":"FC Alexander","countryid":126,"leagueid":509,"foundationyear":1874,"price":45000000.00}
+  },
+  {
+    "clb_json": {"clubid":146,"nameclub":"FC Scott","countryid":82,"leagueid":950,"foundationyear":2022,"price":934000000.00}
+  },
+  {
+    "clb_json": {"clubid":147,"nameclub":"FC Rosales","countryid":169,"leagueid":439,"foundationyear":1907,"price":338000000.00}
+  },
+  {
+    "clb_json": {"clubid":148,"nameclub":"FC Murray","countryid":20,"leagueid":194,"foundationyear":1968,"price":251000000.00}
+  },
+  {
+    "clb_json": {"clubid":149,"nameclub":"FC Martinez","countryid":173,"leagueid":281,"foundationyear":1939,"price":541000000.00}
+  },
+  {
+    "clb_json": {"clubid":150,"nameclub":"FC Yang","countryid":136,"leagueid":730,"foundationyear":2004,"price":882000000.00}
+  },
+  {
+    "clb_json": {"clubid":151,"nameclub":"FC Gross","countryid":155,"leagueid":741,"foundationyear":1876,"price":63000000.00}
+  },
+  {
+    "clb_json": {"clubid":152,"nameclub":"FC West","countryid":106,"leagueid":959,"foundationyear":1940,"price":423000000.00}
+  },
+  {
+    "clb_json": {"clubid":153,"nameclub":"FC Taylor","countryid":90,"leagueid":436,"foundationyear":2015,"price":625000000.00}
+  },
+  {
+    "clb_json": {"clubid":154,"nameclub":"FC Cannon","countryid":109,"leagueid":797,"foundationyear":2022,"price":225000000.00}
+  },
+  {
+    "clb_json": {"clubid":155,"nameclub":"FC Brown","countryid":101,"leagueid":228,"foundationyear":1938,"price":817000000.00}
+  },
+  {
+    "clb_json": {"clubid":156,"nameclub":"FC Johnson","countryid":49,"leagueid":233,"foundationyear":1945,"price":243000000.00}
+  },
+  {
+    "clb_json": {"clubid":157,"nameclub":"FC Ramirez","countryid":187,"leagueid":826,"foundationyear":2011,"price":470000000.00}
+  },
+  {
+    "clb_json": {"clubid":158,"nameclub":"FC Phillips","countryid":70,"leagueid":941,"foundationyear":1939,"price":41000000.00}
+  },
+  {
+    "clb_json": {"clubid":159,"nameclub":"FC Serrano","countryid":66,"leagueid":310,"foundationyear":1851,"price":482000000.00}
+  },
+  {
+    "clb_json": {"clubid":160,"nameclub":"FC Williams","countryid":119,"leagueid":622,"foundationyear":1935,"price":403000000.00}
+  },
+  {
+    "clb_json": {"clubid":161,"nameclub":"FC Liu","countryid":9,"leagueid":729,"foundationyear":1912,"price":201000000.00}
+  },
+  {
+    "clb_json": {"clubid":162,"nameclub":"FC Lee","countryid":119,"leagueid":545,"foundationyear":1912,"price":944000000.00}
+  },
+  {
+    "clb_json": {"clubid":163,"nameclub":"FC Robinson","countryid":32,"leagueid":683,"foundationyear":1942,"price":423000000.00}
+  },
+  {
+    "clb_json": {"clubid":164,"nameclub":"FC Scott","countryid":162,"leagueid":466,"foundationyear":1931,"price":77000000.00}
+  },
+  {
+    "clb_json": {"clubid":165,"nameclub":"FC Webster","countryid":58,"leagueid":673,"foundationyear":1889,"price":238000000.00}
+  },
+  {
+    "clb_json": {"clubid":166,"nameclub":"FC Joyce","countryid":170,"leagueid":883,"foundationyear":2004,"price":673000000.00}
+  },
+  {
+    "clb_json": {"clubid":167,"nameclub":"FC Anderson","countryid":56,"leagueid":804,"foundationyear":1972,"price":969000000.00}
+  },
+  {
+    "clb_json": {"clubid":168,"nameclub":"FC Gonzales","countryid":33,"leagueid":456,"foundationyear":1921,"price":865000000.00}
+  },
+  {
+    "clb_json": {"clubid":169,"nameclub":"FC Mclean","countryid":140,"leagueid":684,"foundationyear":1976,"price":345000000.00}
+  },
+  {
+    "clb_json": {"clubid":170,"nameclub":"FC Williamson","countryid":68,"leagueid":535,"foundationyear":1951,"price":729000000.00}
+  },
+  {
+    "clb_json": {"clubid":171,"nameclub":"FC Mcmahon","countryid":184,"leagueid":994,"foundationyear":1936,"price":773000000.00}
+  },
+  {
+    "clb_json": {"clubid":172,"nameclub":"FC Perez","countryid":141,"leagueid":764,"foundationyear":1972,"price":211000000.00}
+  },
+  {
+    "clb_json": {"clubid":173,"nameclub":"FC Perez","countryid":104,"leagueid":946,"foundationyear":1918,"price":852000000.00}
+  },
+  {
+    "clb_json": {"clubid":174,"nameclub":"FC Johnson","countryid":159,"leagueid":39,"foundationyear":1954,"price":558000000.00}
+  },
+  {
+    "clb_json": {"clubid":175,"nameclub":"FC Edwards","countryid":133,"leagueid":801,"foundationyear":1948,"price":153000000.00}
+  },
+  {
+    "clb_json": {"clubid":176,"nameclub":"FC Edwards","countryid":134,"leagueid":139,"foundationyear":1880,"price":308000000.00}
+  },
+  {
+    "clb_json": {"clubid":177,"nameclub":"FC Hayes","countryid":156,"leagueid":213,"foundationyear":1899,"price":644000000.00}
+  },
+  {
+    "clb_json": {"clubid":178,"nameclub":"FC Chang","countryid":165,"leagueid":863,"foundationyear":1903,"price":704000000.00}
+  },
+  {
+    "clb_json": {"clubid":179,"nameclub":"FC Nelson","countryid":140,"leagueid":858,"foundationyear":1862,"price":174000000.00}
+  },
+  {
+    "clb_json": {"clubid":180,"nameclub":"FC Gill","countryid":170,"leagueid":871,"foundationyear":1859,"price":392000000.00}
+  },
+  {
+    "clb_json": {"clubid":181,"nameclub":"FC Rangel","countryid":2,"leagueid":849,"foundationyear":1946,"price":846000000.00}
+  },
+  {
+    "clb_json": {"clubid":182,"nameclub":"FC Richardson","countryid":184,"leagueid":680,"foundationyear":1900,"price":667000000.00}
+  },
+  {
+    "clb_json": {"clubid":183,"nameclub":"FC Faulkner","countryid":164,"leagueid":398,"foundationyear":1913,"price":216000000.00}
+  },
+  {
+    "clb_json": {"clubid":184,"nameclub":"FC Mullins","countryid":7,"leagueid":966,"foundationyear":1865,"price":932000000.00}
+  },
+  {
+    "clb_json": {"clubid":185,"nameclub":"FC Villarreal","countryid":37,"leagueid":503,"foundationyear":1871,"price":672000000.00}
+  },
+  {
+    "clb_json": {"clubid":186,"nameclub":"FC Soto","countryid":10,"leagueid":299,"foundationyear":1947,"price":877000000.00}
+  },
+  {
+    "clb_json": {"clubid":187,"nameclub":"FC Kennedy","countryid":184,"leagueid":521,"foundationyear":1970,"price":347000000.00}
+  },
+  {
+    "clb_json": {"clubid":188,"nameclub":"FC Davis","countryid":11,"leagueid":540,"foundationyear":2021,"price":127000000.00}
+  },
+  {
+    "clb_json": {"clubid":189,"nameclub":"FC Stevens","countryid":12,"leagueid":599,"foundationyear":1900,"price":510000000.00}
+  },
+  {
+    "clb_json": {"clubid":190,"nameclub":"FC Proctor","countryid":19,"leagueid":455,"foundationyear":1985,"price":96000000.00}
+  },
+  {
+    "clb_json": {"clubid":191,"nameclub":"FC Long","countryid":153,"leagueid":63,"foundationyear":1974,"price":58000000.00}
+  },
+  {
+    "clb_json": {"clubid":192,"nameclub":"FC Mccullough","countryid":133,"leagueid":346,"foundationyear":1905,"price":459000000.00}
+  },
+  {
+    "clb_json": {"clubid":193,"nameclub":"FC Oneal","countryid":18,"leagueid":230,"foundationyear":1882,"price":140000000.00}
+  },
+  {
+    "clb_json": {"clubid":194,"nameclub":"FC Smith","countryid":172,"leagueid":780,"foundationyear":2003,"price":572000000.00}
+  },
+  {
+    "clb_json": {"clubid":195,"nameclub":"FC Mullins","countryid":21,"leagueid":46,"foundationyear":1971,"price":999000000.00}
+  },
+  {
+    "clb_json": {"clubid":196,"nameclub":"FC Bruce","countryid":86,"leagueid":136,"foundationyear":1921,"price":28000000.00}
+  },
+  {
+    "clb_json": {"clubid":197,"nameclub":"FC Mendez","countryid":194,"leagueid":982,"foundationyear":1999,"price":162000000.00}
+  },
+  {
+    "clb_json": {"clubid":198,"nameclub":"FC Perez","countryid":40,"leagueid":483,"foundationyear":1883,"price":214000000.00}
+  },
+  {
+    "clb_json": {"clubid":199,"nameclub":"FC Patterson","countryid":81,"leagueid":650,"foundationyear":1967,"price":18000000.00}
+  },
+  {
+    "clb_json": {"clubid":200,"nameclub":"FC Lopez","countryid":128,"leagueid":361,"foundationyear":1859,"price":503000000.00}
+  },
+  {
+    "clb_json": {"clubid":201,"nameclub":"FC Fletcher","countryid":153,"leagueid":55,"foundationyear":1991,"price":236000000.00}
+  },
+  {
+    "clb_json": {"clubid":202,"nameclub":"FC Jackson","countryid":87,"leagueid":570,"foundationyear":1855,"price":327000000.00}
+  },
+  {
+    "clb_json": {"clubid":203,"nameclub":"FC Arellano","countryid":8,"leagueid":888,"foundationyear":2018,"price":239000000.00}
+  },
+  {
+    "clb_json": {"clubid":204,"nameclub":"FC Stafford","countryid":57,"leagueid":868,"foundationyear":1859,"price":670000000.00}
+  },
+  {
+    "clb_json": {"clubid":205,"nameclub":"FC Turner","countryid":142,"leagueid":34,"foundationyear":1870,"price":644000000.00}
+  },
+  {
+    "clb_json": {"clubid":206,"nameclub":"FC Ewing","countryid":140,"leagueid":564,"foundationyear":1949,"price":379000000.00}
+  },
+  {
+    "clb_json": {"clubid":207,"nameclub":"FC May","countryid":150,"leagueid":448,"foundationyear":1912,"price":585000000.00}
+  },
+  {
+    "clb_json": {"clubid":208,"nameclub":"FC Black","countryid":164,"leagueid":736,"foundationyear":1931,"price":304000000.00}
+  },
+  {
+    "clb_json": {"clubid":209,"nameclub":"FC Bell","countryid":186,"leagueid":171,"foundationyear":1973,"price":773000000.00}
+  },
+  {
+    "clb_json": {"clubid":210,"nameclub":"FC Carrillo","countryid":168,"leagueid":145,"foundationyear":1926,"price":63000000.00}
+  },
+  {
+    "clb_json": {"clubid":211,"nameclub":"FC Shaw","countryid":28,"leagueid":426,"foundationyear":1944,"price":243000000.00}
+  },
+  {
+    "clb_json": {"clubid":212,"nameclub":"FC Miller","countryid":14,"leagueid":858,"foundationyear":1903,"price":424000000.00}
+  },
+  {
+    "clb_json": {"clubid":213,"nameclub":"FC Perez","countryid":192,"leagueid":391,"foundationyear":2022,"price":57000000.00}
+  },
+  {
+    "clb_json": {"clubid":214,"nameclub":"FC Gonzalez","countryid":140,"leagueid":902,"foundationyear":2011,"price":931000000.00}
+  },
+  {
+    "clb_json": {"clubid":215,"nameclub":"FC Adams","countryid":59,"leagueid":39,"foundationyear":1958,"price":11000000.00}
+  },
+  {
+    "clb_json": {"clubid":216,"nameclub":"FC Phillips","countryid":77,"leagueid":133,"foundationyear":1860,"price":722000000.00}
+  },
+  {
+    "clb_json": {"clubid":217,"nameclub":"FC Johnston","countryid":122,"leagueid":573,"foundationyear":1861,"price":140000000.00}
+  },
+  {
+    "clb_json": {"clubid":218,"nameclub":"FC Hines","countryid":97,"leagueid":516,"foundationyear":1899,"price":136000000.00}
+  },
+  {
+    "clb_json": {"clubid":219,"nameclub":"FC Diaz","countryid":6,"leagueid":881,"foundationyear":1909,"price":778000000.00}
+  },
+  {
+    "clb_json": {"clubid":220,"nameclub":"FC Thompson","countryid":182,"leagueid":68,"foundationyear":1902,"price":811000000.00}
+  },
+  {
+    "clb_json": {"clubid":221,"nameclub":"FC Woods","countryid":92,"leagueid":798,"foundationyear":1998,"price":59000000.00}
+  },
+  {
+    "clb_json": {"clubid":222,"nameclub":"FC Rivera","countryid":13,"leagueid":801,"foundationyear":1855,"price":46000000.00}
+  },
+  {
+    "clb_json": {"clubid":223,"nameclub":"FC Barton","countryid":31,"leagueid":281,"foundationyear":1935,"price":990000000.00}
+  },
+  {
+    "clb_json": {"clubid":224,"nameclub":"FC Gates","countryid":196,"leagueid":813,"foundationyear":1875,"price":517000000.00}
+  },
+  {
+    "clb_json": {"clubid":225,"nameclub":"FC Ferguson","countryid":38,"leagueid":683,"foundationyear":2002,"price":717000000.00}
+  },
+  {
+    "clb_json": {"clubid":226,"nameclub":"FC Brown","countryid":83,"leagueid":749,"foundationyear":1855,"price":784000000.00}
+  },
+  {
+    "clb_json": {"clubid":227,"nameclub":"FC Smith","countryid":25,"leagueid":159,"foundationyear":1933,"price":632000000.00}
+  },
+  {
+    "clb_json": {"clubid":228,"nameclub":"FC Nielsen","countryid":182,"leagueid":555,"foundationyear":1950,"price":117000000.00}
+  },
+  {
+    "clb_json": {"clubid":229,"nameclub":"FC Sanchez","countryid":5,"leagueid":395,"foundationyear":1976,"price":192000000.00}
+  },
+  {
+    "clb_json": {"clubid":230,"nameclub":"FC Lopez","countryid":117,"leagueid":75,"foundationyear":1966,"price":402000000.00}
+  },
+  {
+    "clb_json": {"clubid":231,"nameclub":"FC Jackson","countryid":27,"leagueid":498,"foundationyear":2002,"price":274000000.00}
+  },
+  {
+    "clb_json": {"clubid":232,"nameclub":"FC Alexander","countryid":121,"leagueid":134,"foundationyear":1996,"price":109000000.00}
+  },
+  {
+    "clb_json": {"clubid":233,"nameclub":"FC Hall","countryid":133,"leagueid":759,"foundationyear":2003,"price":773000000.00}
+  },
+  {
+    "clb_json": {"clubid":234,"nameclub":"FC Collins","countryid":153,"leagueid":371,"foundationyear":1923,"price":736000000.00}
+  },
+  {
+    "clb_json": {"clubid":235,"nameclub":"FC Anderson","countryid":190,"leagueid":114,"foundationyear":1938,"price":607000000.00}
+  },
+  {
+    "clb_json": {"clubid":236,"nameclub":"FC Lucero","countryid":56,"leagueid":560,"foundationyear":1973,"price":662000000.00}
+  },
+  {
+    "clb_json": {"clubid":237,"nameclub":"FC Hood","countryid":135,"leagueid":695,"foundationyear":1855,"price":527000000.00}
+  },
+  {
+    "clb_json": {"clubid":238,"nameclub":"FC Fernandez","countryid":133,"leagueid":777,"foundationyear":1857,"price":102000000.00}
+  },
+  {
+    "clb_json": {"clubid":239,"nameclub":"FC Castaneda","countryid":172,"leagueid":102,"foundationyear":1971,"price":334000000.00}
+  },
+  {
+    "clb_json": {"clubid":240,"nameclub":"FC Walker","countryid":144,"leagueid":812,"foundationyear":1907,"price":229000000.00}
+  },
+  {
+    "clb_json": {"clubid":241,"nameclub":"FC Sparks","countryid":119,"leagueid":57,"foundationyear":1960,"price":217000000.00}
+  },
+  {
+    "clb_json": {"clubid":242,"nameclub":"FC Rogers","countryid":98,"leagueid":715,"foundationyear":1861,"price":703000000.00}
+  },
+  {
+    "clb_json": {"clubid":243,"nameclub":"FC Rodriguez","countryid":197,"leagueid":928,"foundationyear":1962,"price":208000000.00}
+  },
+  {
+    "clb_json": {"clubid":244,"nameclub":"FC Jones","countryid":82,"leagueid":79,"foundationyear":1871,"price":705000000.00}
+  },
+  {
+    "clb_json": {"clubid":245,"nameclub":"FC Watson","countryid":120,"leagueid":187,"foundationyear":1953,"price":878000000.00}
+  },
+  {
+    "clb_json": {"clubid":246,"nameclub":"FC Gregory","countryid":112,"leagueid":630,"foundationyear":2005,"price":962000000.00}
+  },
+  {
+    "clb_json": {"clubid":247,"nameclub":"FC Edwards","countryid":196,"leagueid":840,"foundationyear":1985,"price":504000000.00}
+  },
+  {
+    "clb_json": {"clubid":248,"nameclub":"FC Valdez","countryid":124,"leagueid":93,"foundationyear":1851,"price":872000000.00}
+  },
+  {
+    "clb_json": {"clubid":249,"nameclub":"FC Mitchell","countryid":18,"leagueid":838,"foundationyear":1952,"price":31000000.00}
+  },
+  {
+    "clb_json": {"clubid":250,"nameclub":"FC Castillo","countryid":143,"leagueid":436,"foundationyear":1992,"price":431000000.00}
+  },
+  {
+    "clb_json": {"clubid":251,"nameclub":"FC Jensen","countryid":115,"leagueid":979,"foundationyear":1964,"price":741000000.00}
+  },
+  {
+    "clb_json": {"clubid":252,"nameclub":"FC Padilla","countryid":26,"leagueid":276,"foundationyear":1898,"price":546000000.00}
+  },
+  {
+    "clb_json": {"clubid":253,"nameclub":"FC Anderson","countryid":6,"leagueid":606,"foundationyear":1947,"price":998000000.00}
+  },
+  {
+    "clb_json": {"clubid":254,"nameclub":"FC Warren","countryid":75,"leagueid":77,"foundationyear":1923,"price":346000000.00}
+  },
+  {
+    "clb_json": {"clubid":255,"nameclub":"FC White","countryid":132,"leagueid":40,"foundationyear":1869,"price":938000000.00}
+  },
+  {
+    "clb_json": {"clubid":256,"nameclub":"FC Moss","countryid":8,"leagueid":92,"foundationyear":1865,"price":876000000.00}
+  },
+  {
+    "clb_json": {"clubid":257,"nameclub":"FC Rose","countryid":120,"leagueid":662,"foundationyear":1952,"price":196000000.00}
+  },
+  {
+    "clb_json": {"clubid":258,"nameclub":"FC Welch","countryid":135,"leagueid":594,"foundationyear":1926,"price":695000000.00}
+  },
+  {
+    "clb_json": {"clubid":259,"nameclub":"FC Sellers","countryid":90,"leagueid":678,"foundationyear":1926,"price":722000000.00}
+  },
+  {
+    "clb_json": {"clubid":260,"nameclub":"FC Ewing","countryid":71,"leagueid":251,"foundationyear":1880,"price":557000000.00}
+  },
+  {
+    "clb_json": {"clubid":261,"nameclub":"FC Baldwin","countryid":77,"leagueid":593,"foundationyear":1991,"price":267000000.00}
+  },
+  {
+    "clb_json": {"clubid":262,"nameclub":"FC Robinson","countryid":155,"leagueid":625,"foundationyear":1923,"price":339000000.00}
+  },
+  {
+    "clb_json": {"clubid":263,"nameclub":"FC Jimenez","countryid":181,"leagueid":412,"foundationyear":1885,"price":326000000.00}
+  },
+  {
+    "clb_json": {"clubid":264,"nameclub":"FC Shields","countryid":184,"leagueid":480,"foundationyear":2019,"price":559000000.00}
+  },
+  {
+    "clb_json": {"clubid":265,"nameclub":"FC Moore","countryid":80,"leagueid":9,"foundationyear":1897,"price":255000000.00}
+  },
+  {
+    "clb_json": {"clubid":266,"nameclub":"FC Garza","countryid":111,"leagueid":375,"foundationyear":2013,"price":816000000.00}
+  },
+  {
+    "clb_json": {"clubid":267,"nameclub":"FC Craig","countryid":148,"leagueid":667,"foundationyear":1964,"price":743000000.00}
+  },
+  {
+    "clb_json": {"clubid":268,"nameclub":"FC Jamie","countryid":164,"leagueid":504,"foundationyear":1868,"price":564000000.00}
+  },
+  {
+    "clb_json": {"clubid":269,"nameclub":"FC Sanchez","countryid":168,"leagueid":221,"foundationyear":2001,"price":787000000.00}
+  },
+  {
+    "clb_json": {"clubid":270,"nameclub":"FC Thomas","countryid":44,"leagueid":813,"foundationyear":1901,"price":841000000.00}
+  },
+  {
+    "clb_json": {"clubid":271,"nameclub":"FC Hall","countryid":192,"leagueid":776,"foundationyear":1853,"price":557000000.00}
+  },
+  {
+    "clb_json": {"clubid":272,"nameclub":"FC Patterson","countryid":10,"leagueid":817,"foundationyear":1869,"price":420000000.00}
+  },
+  {
+    "clb_json": {"clubid":273,"nameclub":"FC Gillespie","countryid":133,"leagueid":106,"foundationyear":1899,"price":199000000.00}
+  },
+  {
+    "clb_json": {"clubid":274,"nameclub":"FC Rivera","countryid":127,"leagueid":531,"foundationyear":1907,"price":294000000.00}
+  },
+  {
+    "clb_json": {"clubid":275,"nameclub":"FC Ellison","countryid":165,"leagueid":930,"foundationyear":1942,"price":739000000.00}
+  },
+  {
+    "clb_json": {"clubid":276,"nameclub":"FC Cunningham","countryid":21,"leagueid":995,"foundationyear":1959,"price":79000000.00}
+  },
+  {
+    "clb_json": {"clubid":277,"nameclub":"FC Martin","countryid":151,"leagueid":810,"foundationyear":1985,"price":639000000.00}
+  },
+  {
+    "clb_json": {"clubid":278,"nameclub":"FC Campbell","countryid":195,"leagueid":204,"foundationyear":1934,"price":503000000.00}
+  },
+  {
+    "clb_json": {"clubid":279,"nameclub":"FC Scott","countryid":125,"leagueid":920,"foundationyear":1866,"price":282000000.00}
+  },
+  {
+    "clb_json": {"clubid":280,"nameclub":"FC Evans","countryid":182,"leagueid":359,"foundationyear":1873,"price":37000000.00}
+  },
+  {
+    "clb_json": {"clubid":281,"nameclub":"FC Anderson","countryid":135,"leagueid":269,"foundationyear":1959,"price":607000000.00}
+  },
+  {
+    "clb_json": {"clubid":282,"nameclub":"FC Phillips","countryid":76,"leagueid":314,"foundationyear":2001,"price":157000000.00}
+  },
+  {
+    "clb_json": {"clubid":283,"nameclub":"FC Craig","countryid":128,"leagueid":423,"foundationyear":1895,"price":658000000.00}
+  },
+  {
+    "clb_json": {"clubid":284,"nameclub":"FC Mitchell","countryid":45,"leagueid":971,"foundationyear":1864,"price":766000000.00}
+  },
+  {
+    "clb_json": {"clubid":285,"nameclub":"FC Torres","countryid":139,"leagueid":642,"foundationyear":1942,"price":139000000.00}
+  },
+  {
+    "clb_json": {"clubid":286,"nameclub":"FC Chambers","countryid":150,"leagueid":473,"foundationyear":2012,"price":78000000.00}
+  },
+  {
+    "clb_json": {"clubid":287,"nameclub":"FC Moreno","countryid":178,"leagueid":541,"foundationyear":1944,"price":798000000.00}
+  },
+  {
+    "clb_json": {"clubid":288,"nameclub":"FC Stafford","countryid":62,"leagueid":381,"foundationyear":1908,"price":350000000.00}
+  },
+  {
+    "clb_json": {"clubid":289,"nameclub":"FC Bishop","countryid":195,"leagueid":464,"foundationyear":1987,"price":193000000.00}
+  },
+  {
+    "clb_json": {"clubid":290,"nameclub":"FC Martin","countryid":153,"leagueid":729,"foundationyear":2005,"price":927000000.00}
+  },
+  {
+    "clb_json": {"clubid":291,"nameclub":"FC Cochran","countryid":146,"leagueid":730,"foundationyear":2009,"price":802000000.00}
+  },
+  {
+    "clb_json": {"clubid":292,"nameclub":"FC Baker","countryid":135,"leagueid":379,"foundationyear":1861,"price":976000000.00}
+  },
+  {
+    "clb_json": {"clubid":293,"nameclub":"FC Medina","countryid":62,"leagueid":130,"foundationyear":1941,"price":474000000.00}
+  },
+  {
+    "clb_json": {"clubid":294,"nameclub":"FC Wright","countryid":65,"leagueid":681,"foundationyear":1861,"price":1000000000.00}
+  },
+  {
+    "clb_json": {"clubid":295,"nameclub":"FC Pollard","countryid":99,"leagueid":613,"foundationyear":1905,"price":263000000.00}
+  },
+  {
+    "clb_json": {"clubid":296,"nameclub":"FC Arroyo","countryid":107,"leagueid":464,"foundationyear":2009,"price":512000000.00}
+  },
+  {
+    "clb_json": {"clubid":297,"nameclub":"FC Hatfield","countryid":25,"leagueid":628,"foundationyear":2005,"price":853000000.00}
+  },
+  {
+    "clb_json": {"clubid":298,"nameclub":"FC Vincent","countryid":141,"leagueid":760,"foundationyear":1871,"price":901000000.00}
+  },
+  {
+    "clb_json": {"clubid":299,"nameclub":"FC Daugherty","countryid":182,"leagueid":661,"foundationyear":1991,"price":293000000.00}
+  },
+  {
+    "clb_json": {"clubid":300,"nameclub":"FC Dennis","countryid":107,"leagueid":7,"foundationyear":1891,"price":880000000.00}
+  },
+  {
+    "clb_json": {"clubid":301,"nameclub":"FC Jones","countryid":14,"leagueid":224,"foundationyear":1880,"price":173000000.00}
+  },
+  {
+    "clb_json": {"clubid":302,"nameclub":"FC Harris","countryid":32,"leagueid":18,"foundationyear":2012,"price":136000000.00}
+  },
+  {
+    "clb_json": {"clubid":303,"nameclub":"FC Williams","countryid":20,"leagueid":47,"foundationyear":1943,"price":329000000.00}
+  },
+  {
+    "clb_json": {"clubid":304,"nameclub":"FC Graham","countryid":191,"leagueid":485,"foundationyear":1969,"price":612000000.00}
+  },
+  {
+    "clb_json": {"clubid":305,"nameclub":"FC Combs","countryid":154,"leagueid":552,"foundationyear":1998,"price":650000000.00}
+  },
+  {
+    "clb_json": {"clubid":306,"nameclub":"FC Blake","countryid":103,"leagueid":27,"foundationyear":1921,"price":940000000.00}
+  },
+  {
+    "clb_json": {"clubid":307,"nameclub":"FC Hancock","countryid":82,"leagueid":997,"foundationyear":1989,"price":637000000.00}
+  },
+  {
+    "clb_json": {"clubid":308,"nameclub":"FC Parker","countryid":102,"leagueid":782,"foundationyear":1910,"price":823000000.00}
+  },
+  {
+    "clb_json": {"clubid":309,"nameclub":"FC Brown","countryid":149,"leagueid":475,"foundationyear":1946,"price":414000000.00}
+  },
+  {
+    "clb_json": {"clubid":310,"nameclub":"FC Clayton","countryid":95,"leagueid":474,"foundationyear":1979,"price":957000000.00}
+  },
+  {
+    "clb_json": {"clubid":311,"nameclub":"FC Santos","countryid":42,"leagueid":44,"foundationyear":1909,"price":745000000.00}
+  },
+  {
+    "clb_json": {"clubid":312,"nameclub":"FC Sharp","countryid":55,"leagueid":481,"foundationyear":1972,"price":540000000.00}
+  },
+  {
+    "clb_json": {"clubid":313,"nameclub":"FC White","countryid":99,"leagueid":419,"foundationyear":1876,"price":26000000.00}
+  },
+  {
+    "clb_json": {"clubid":314,"nameclub":"FC Castro","countryid":123,"leagueid":279,"foundationyear":1851,"price":515000000.00}
+  },
+  {
+    "clb_json": {"clubid":315,"nameclub":"FC Torres","countryid":27,"leagueid":741,"foundationyear":1997,"price":760000000.00}
+  },
+  {
+    "clb_json": {"clubid":316,"nameclub":"FC Gibbs","countryid":32,"leagueid":675,"foundationyear":1917,"price":815000000.00}
+  },
+  {
+    "clb_json": {"clubid":317,"nameclub":"FC Reeves","countryid":193,"leagueid":609,"foundationyear":1855,"price":917000000.00}
+  },
+  {
+    "clb_json": {"clubid":318,"nameclub":"FC Montes","countryid":84,"leagueid":281,"foundationyear":1855,"price":768000000.00}
+  },
+  {
+    "clb_json": {"clubid":319,"nameclub":"FC Eileen","countryid":17,"leagueid":8,"foundationyear":1911,"price":350000000.00}
+  },
+  {
+    "clb_json": {"clubid":320,"nameclub":"FC Berry","countryid":90,"leagueid":549,"foundationyear":1991,"price":924000000.00}
+  },
+  {
+    "clb_json": {"clubid":321,"nameclub":"FC Cross","countryid":22,"leagueid":783,"foundationyear":1879,"price":361000000.00}
+  },
+  {
+    "clb_json": {"clubid":322,"nameclub":"FC Pierce","countryid":68,"leagueid":325,"foundationyear":1955,"price":416000000.00}
+  },
+  {
+    "clb_json": {"clubid":323,"nameclub":"FC Allen","countryid":79,"leagueid":591,"foundationyear":1865,"price":420000000.00}
+  },
+  {
+    "clb_json": {"clubid":324,"nameclub":"FC Jenkins","countryid":150,"leagueid":208,"foundationyear":1865,"price":59000000.00}
+  },
+  {
+    "clb_json": {"clubid":325,"nameclub":"FC King","countryid":139,"leagueid":878,"foundationyear":1997,"price":718000000.00}
+  },
+  {
+    "clb_json": {"clubid":326,"nameclub":"FC Conner","countryid":88,"leagueid":836,"foundationyear":1931,"price":761000000.00}
+  },
+  {
+    "clb_json": {"clubid":327,"nameclub":"FC Elliott","countryid":102,"leagueid":506,"foundationyear":1860,"price":665000000.00}
+  },
+  {
+    "clb_json": {"clubid":328,"nameclub":"FC Davis","countryid":97,"leagueid":60,"foundationyear":1864,"price":624000000.00}
+  },
+  {
+    "clb_json": {"clubid":329,"nameclub":"FC Shannon","countryid":145,"leagueid":868,"foundationyear":1996,"price":653000000.00}
+  },
+  {
+    "clb_json": {"clubid":330,"nameclub":"FC Lewis","countryid":8,"leagueid":95,"foundationyear":1959,"price":875000000.00}
+  },
+  {
+    "clb_json": {"clubid":331,"nameclub":"FC George","countryid":146,"leagueid":49,"foundationyear":1873,"price":39000000.00}
+  },
+  {
+    "clb_json": {"clubid":332,"nameclub":"FC Wood","countryid":127,"leagueid":287,"foundationyear":1929,"price":88000000.00}
+  },
+  {
+    "clb_json": {"clubid":333,"nameclub":"FC Smith","countryid":198,"leagueid":412,"foundationyear":1938,"price":31000000.00}
+  },
+  {
+    "clb_json": {"clubid":334,"nameclub":"FC Jimenez","countryid":126,"leagueid":14,"foundationyear":1934,"price":782000000.00}
+  },
+  {
+    "clb_json": {"clubid":335,"nameclub":"FC Jones","countryid":97,"leagueid":626,"foundationyear":1965,"price":836000000.00}
+  },
+  {
+    "clb_json": {"clubid":336,"nameclub":"FC Martinez","countryid":190,"leagueid":267,"foundationyear":1946,"price":531000000.00}
+  },
+  {
+    "clb_json": {"clubid":337,"nameclub":"FC Sanchez","countryid":15,"leagueid":746,"foundationyear":2011,"price":132000000.00}
+  },
+  {
+    "clb_json": {"clubid":338,"nameclub":"FC Cobb","countryid":154,"leagueid":483,"foundationyear":1989,"price":991000000.00}
+  },
+  {
+    "clb_json": {"clubid":339,"nameclub":"FC Wood","countryid":46,"leagueid":715,"foundationyear":1924,"price":220000000.00}
+  },
+  {
+    "clb_json": {"clubid":340,"nameclub":"FC Simpson","countryid":169,"leagueid":285,"foundationyear":1862,"price":687000000.00}
+  },
+  {
+    "clb_json": {"clubid":341,"nameclub":"FC Cline","countryid":73,"leagueid":673,"foundationyear":1925,"price":954000000.00}
+  },
+  {
+    "clb_json": {"clubid":342,"nameclub":"FC Nguyen","countryid":167,"leagueid":159,"foundationyear":1919,"price":370000000.00}
+  },
+  {
+    "clb_json": {"clubid":343,"nameclub":"FC Montgomery","countryid":168,"leagueid":335,"foundationyear":1903,"price":901000000.00}
+  },
+  {
+    "clb_json": {"clubid":344,"nameclub":"FC Clark","countryid":185,"leagueid":140,"foundationyear":1981,"price":268000000.00}
+  },
+  {
+    "clb_json": {"clubid":345,"nameclub":"FC Green","countryid":49,"leagueid":625,"foundationyear":1891,"price":399000000.00}
+  },
+  {
+    "clb_json": {"clubid":346,"nameclub":"FC Spence","countryid":57,"leagueid":265,"foundationyear":1949,"price":833000000.00}
+  },
+  {
+    "clb_json": {"clubid":347,"nameclub":"FC Savage","countryid":95,"leagueid":491,"foundationyear":1922,"price":787000000.00}
+  },
+  {
+    "clb_json": {"clubid":348,"nameclub":"FC Barnett","countryid":76,"leagueid":829,"foundationyear":1967,"price":387000000.00}
+  },
+  {
+    "clb_json": {"clubid":349,"nameclub":"FC Mills","countryid":12,"leagueid":654,"foundationyear":1872,"price":316000000.00}
+  },
+  {
+    "clb_json": {"clubid":350,"nameclub":"FC Leon","countryid":30,"leagueid":785,"foundationyear":1878,"price":614000000.00}
+  },
+  {
+    "clb_json": {"clubid":351,"nameclub":"FC Steele","countryid":146,"leagueid":904,"foundationyear":1913,"price":591000000.00}
+  },
+  {
+    "clb_json": {"clubid":352,"nameclub":"FC Ochoa","countryid":53,"leagueid":241,"foundationyear":1995,"price":778000000.00}
+  },
+  {
+    "clb_json": {"clubid":353,"nameclub":"FC Adams","countryid":81,"leagueid":70,"foundationyear":1985,"price":422000000.00}
+  },
+  {
+    "clb_json": {"clubid":354,"nameclub":"FC Washington","countryid":44,"leagueid":272,"foundationyear":1911,"price":451000000.00}
+  },
+  {
+    "clb_json": {"clubid":355,"nameclub":"FC Brown","countryid":173,"leagueid":947,"foundationyear":1888,"price":710000000.00}
+  },
+  {
+    "clb_json": {"clubid":356,"nameclub":"FC Rogers","countryid":102,"leagueid":118,"foundationyear":1898,"price":761000000.00}
+  },
+  {
+    "clb_json": {"clubid":357,"nameclub":"FC Anderson","countryid":134,"leagueid":20,"foundationyear":1928,"price":899000000.00}
+  },
+  {
+    "clb_json": {"clubid":358,"nameclub":"FC Espinoza","countryid":93,"leagueid":256,"foundationyear":1971,"price":495000000.00}
+  },
+  {
+    "clb_json": {"clubid":359,"nameclub":"FC Harris","countryid":127,"leagueid":218,"foundationyear":1980,"price":251000000.00}
+  },
+  {
+    "clb_json": {"clubid":360,"nameclub":"FC Torres","countryid":125,"leagueid":324,"foundationyear":1890,"price":948000000.00}
+  },
+  {
+    "clb_json": {"clubid":361,"nameclub":"FC French","countryid":34,"leagueid":862,"foundationyear":1855,"price":523000000.00}
+  },
+  {
+    "clb_json": {"clubid":362,"nameclub":"FC Reynolds","countryid":86,"leagueid":795,"foundationyear":1889,"price":27000000.00}
+  },
+  {
+    "clb_json": {"clubid":363,"nameclub":"FC Ward","countryid":157,"leagueid":211,"foundationyear":1949,"price":392000000.00}
+  },
+  {
+    "clb_json": {"clubid":364,"nameclub":"FC Dawson","countryid":150,"leagueid":582,"foundationyear":1935,"price":617000000.00}
+  },
+  {
+    "clb_json": {"clubid":365,"nameclub":"FC Silva","countryid":82,"leagueid":243,"foundationyear":1890,"price":621000000.00}
+  },
+  {
+    "clb_json": {"clubid":366,"nameclub":"FC Mcdowell","countryid":175,"leagueid":344,"foundationyear":1998,"price":509000000.00}
+  },
+  {
+    "clb_json": {"clubid":367,"nameclub":"FC Vega","countryid":32,"leagueid":455,"foundationyear":2007,"price":249000000.00}
+  },
+  {
+    "clb_json": {"clubid":368,"nameclub":"FC Young","countryid":138,"leagueid":336,"foundationyear":1882,"price":331000000.00}
+  },
+  {
+    "clb_json": {"clubid":369,"nameclub":"FC Cline","countryid":196,"leagueid":183,"foundationyear":1871,"price":337000000.00}
+  },
+  {
+    "clb_json": {"clubid":370,"nameclub":"FC Pittman","countryid":102,"leagueid":527,"foundationyear":1954,"price":260000000.00}
+  },
+  {
+    "clb_json": {"clubid":371,"nameclub":"FC Mccullough","countryid":56,"leagueid":55,"foundationyear":1856,"price":865000000.00}
+  },
+  {
+    "clb_json": {"clubid":372,"nameclub":"FC Chandler","countryid":86,"leagueid":849,"foundationyear":1925,"price":831000000.00}
+  },
+  {
+    "clb_json": {"clubid":373,"nameclub":"FC Shaffer","countryid":160,"leagueid":113,"foundationyear":1900,"price":840000000.00}
+  },
+  {
+    "clb_json": {"clubid":374,"nameclub":"FC Clark","countryid":96,"leagueid":83,"foundationyear":2002,"price":386000000.00}
+  },
+  {
+    "clb_json": {"clubid":375,"nameclub":"FC Washington","countryid":161,"leagueid":759,"foundationyear":1871,"price":856000000.00}
+  },
+  {
+    "clb_json": {"clubid":376,"nameclub":"FC Miller","countryid":156,"leagueid":377,"foundationyear":1967,"price":294000000.00}
+  },
+  {
+    "clb_json": {"clubid":377,"nameclub":"FC Norman","countryid":196,"leagueid":730,"foundationyear":1956,"price":503000000.00}
+  },
+  {
+    "clb_json": {"clubid":378,"nameclub":"FC Smith","countryid":31,"leagueid":437,"foundationyear":1888,"price":397000000.00}
+  },
+  {
+    "clb_json": {"clubid":379,"nameclub":"FC Little","countryid":190,"leagueid":810,"foundationyear":1926,"price":980000000.00}
+  },
+  {
+    "clb_json": {"clubid":380,"nameclub":"FC Strickland","countryid":193,"leagueid":915,"foundationyear":1867,"price":736000000.00}
+  },
+  {
+    "clb_json": {"clubid":381,"nameclub":"FC Davis","countryid":21,"leagueid":654,"foundationyear":1994,"price":331000000.00}
+  },
+  {
+    "clb_json": {"clubid":382,"nameclub":"FC Doyle","countryid":119,"leagueid":244,"foundationyear":1952,"price":744000000.00}
+  },
+  {
+    "clb_json": {"clubid":383,"nameclub":"FC Ramirez","countryid":111,"leagueid":854,"foundationyear":1992,"price":229000000.00}
+  },
+  {
+    "clb_json": {"clubid":384,"nameclub":"FC Wilson","countryid":141,"leagueid":546,"foundationyear":1918,"price":546000000.00}
+  },
+  {
+    "clb_json": {"clubid":385,"nameclub":"FC Smith","countryid":18,"leagueid":448,"foundationyear":1961,"price":174000000.00}
+  },
+  {
+    "clb_json": {"clubid":386,"nameclub":"FC Tucker","countryid":28,"leagueid":234,"foundationyear":2019,"price":933000000.00}
+  },
+  {
+    "clb_json": {"clubid":387,"nameclub":"FC Oconnor","countryid":199,"leagueid":87,"foundationyear":1985,"price":968000000.00}
+  },
+  {
+    "clb_json": {"clubid":388,"nameclub":"FC Richardson","countryid":158,"leagueid":916,"foundationyear":1917,"price":742000000.00}
+  },
+  {
+    "clb_json": {"clubid":389,"nameclub":"FC Farrell","countryid":200,"leagueid":47,"foundationyear":1901,"price":120000000.00}
+  },
+  {
+    "clb_json": {"clubid":390,"nameclub":"FC Miranda","countryid":116,"leagueid":543,"foundationyear":2017,"price":920000000.00}
+  },
+  {
+    "clb_json": {"clubid":391,"nameclub":"FC Johnson","countryid":136,"leagueid":627,"foundationyear":1979,"price":744000000.00}
+  },
+  {
+    "clb_json": {"clubid":392,"nameclub":"FC Miller","countryid":114,"leagueid":780,"foundationyear":1933,"price":655000000.00}
+  },
+  {
+    "clb_json": {"clubid":393,"nameclub":"FC Brown","countryid":126,"leagueid":515,"foundationyear":1955,"price":297000000.00}
+  },
+  {
+    "clb_json": {"clubid":394,"nameclub":"FC Moran","countryid":37,"leagueid":682,"foundationyear":1919,"price":764000000.00}
+  },
+  {
+    "clb_json": {"clubid":395,"nameclub":"FC Sosa","countryid":28,"leagueid":713,"foundationyear":1852,"price":440000000.00}
+  },
+  {
+    "clb_json": {"clubid":396,"nameclub":"FC Jones","countryid":68,"leagueid":685,"foundationyear":1932,"price":871000000.00}
+  },
+  {
+    "clb_json": {"clubid":397,"nameclub":"FC Browning","countryid":107,"leagueid":813,"foundationyear":1940,"price":197000000.00}
+  },
+  {
+    "clb_json": {"clubid":398,"nameclub":"FC Russell","countryid":122,"leagueid":117,"foundationyear":1972,"price":558000000.00}
+  },
+  {
+    "clb_json": {"clubid":399,"nameclub":"FC Garcia","countryid":42,"leagueid":737,"foundationyear":2004,"price":230000000.00}
+  },
+  {
+    "clb_json": {"clubid":400,"nameclub":"FC Miles","countryid":30,"leagueid":65,"foundationyear":1854,"price":29000000.00}
+  },
+  {
+    "clb_json": {"clubid":401,"nameclub":"FC Mitchell","countryid":46,"leagueid":948,"foundationyear":1883,"price":767000000.00}
+  },
+  {
+    "clb_json": {"clubid":402,"nameclub":"FC Taylor","countryid":33,"leagueid":473,"foundationyear":1901,"price":810000000.00}
+  },
+  {
+    "clb_json": {"clubid":403,"nameclub":"FC Johnson","countryid":113,"leagueid":369,"foundationyear":1993,"price":815000000.00}
+  },
+  {
+    "clb_json": {"clubid":404,"nameclub":"FC Jefferson","countryid":20,"leagueid":205,"foundationyear":2021,"price":103000000.00}
+  },
+  {
+    "clb_json": {"clubid":405,"nameclub":"FC Williams","countryid":25,"leagueid":945,"foundationyear":1979,"price":574000000.00}
+  },
+  {
+    "clb_json": {"clubid":406,"nameclub":"FC Carter","countryid":157,"leagueid":444,"foundationyear":1950,"price":994000000.00}
+  },
+  {
+    "clb_json": {"clubid":407,"nameclub":"FC Schwartz","countryid":69,"leagueid":674,"foundationyear":1999,"price":359000000.00}
+  },
+  {
+    "clb_json": {"clubid":408,"nameclub":"FC Pearson","countryid":160,"leagueid":692,"foundationyear":1908,"price":956000000.00}
+  },
+  {
+    "clb_json": {"clubid":409,"nameclub":"FC Blair","countryid":104,"leagueid":92,"foundationyear":1881,"price":724000000.00}
+  },
+  {
+    "clb_json": {"clubid":410,"nameclub":"FC Macdonald","countryid":33,"leagueid":500,"foundationyear":1917,"price":422000000.00}
+  },
+  {
+    "clb_json": {"clubid":411,"nameclub":"FC Roberts","countryid":168,"leagueid":614,"foundationyear":1989,"price":971000000.00}
+  },
+  {
+    "clb_json": {"clubid":412,"nameclub":"FC Schmidt","countryid":123,"leagueid":955,"foundationyear":1925,"price":977000000.00}
+  },
+  {
+    "clb_json": {"clubid":413,"nameclub":"FC Carney","countryid":39,"leagueid":821,"foundationyear":1979,"price":302000000.00}
+  },
+  {
+    "clb_json": {"clubid":414,"nameclub":"FC Hill","countryid":185,"leagueid":957,"foundationyear":1936,"price":547000000.00}
+  },
+  {
+    "clb_json": {"clubid":415,"nameclub":"FC Swanson","countryid":82,"leagueid":503,"foundationyear":1984,"price":745000000.00}
+  },
+  {
+    "clb_json": {"clubid":416,"nameclub":"FC Figueroa","countryid":65,"leagueid":225,"foundationyear":1892,"price":616000000.00}
+  },
+  {
+    "clb_json": {"clubid":417,"nameclub":"FC Andrews","countryid":123,"leagueid":544,"foundationyear":1982,"price":844000000.00}
+  },
+  {
+    "clb_json": {"clubid":418,"nameclub":"FC Crawford","countryid":192,"leagueid":73,"foundationyear":1967,"price":152000000.00}
+  },
+  {
+    "clb_json": {"clubid":419,"nameclub":"FC Johnson","countryid":102,"leagueid":839,"foundationyear":1855,"price":697000000.00}
+  },
+  {
+    "clb_json": {"clubid":420,"nameclub":"FC Soto","countryid":194,"leagueid":653,"foundationyear":1995,"price":492000000.00}
+  },
+  {
+    "clb_json": {"clubid":421,"nameclub":"FC Jones","countryid":154,"leagueid":714,"foundationyear":2012,"price":927000000.00}
+  },
+  {
+    "clb_json": {"clubid":422,"nameclub":"FC Cain","countryid":150,"leagueid":839,"foundationyear":1856,"price":404000000.00}
+  },
+  {
+    "clb_json": {"clubid":423,"nameclub":"FC Lewis","countryid":16,"leagueid":196,"foundationyear":1909,"price":742000000.00}
+  },
+  {
+    "clb_json": {"clubid":424,"nameclub":"FC Mora","countryid":46,"leagueid":169,"foundationyear":2003,"price":547000000.00}
+  },
+  {
+    "clb_json": {"clubid":425,"nameclub":"FC Bennett","countryid":46,"leagueid":673,"foundationyear":1900,"price":396000000.00}
+  },
+  {
+    "clb_json": {"clubid":426,"nameclub":"FC Lee","countryid":19,"leagueid":972,"foundationyear":1984,"price":49000000.00}
+  },
+  {
+    "clb_json": {"clubid":427,"nameclub":"FC Elizabeth","countryid":111,"leagueid":314,"foundationyear":1858,"price":734000000.00}
+  },
+  {
+    "clb_json": {"clubid":428,"nameclub":"FC Chase","countryid":188,"leagueid":978,"foundationyear":1997,"price":306000000.00}
+  },
+  {
+    "clb_json": {"clubid":429,"nameclub":"FC Lopez","countryid":180,"leagueid":682,"foundationyear":1949,"price":672000000.00}
+  },
+  {
+    "clb_json": {"clubid":430,"nameclub":"FC Ross","countryid":176,"leagueid":969,"foundationyear":1934,"price":892000000.00}
+  },
+  {
+    "clb_json": {"clubid":431,"nameclub":"FC Cortez","countryid":190,"leagueid":209,"foundationyear":1904,"price":43000000.00}
+  },
+  {
+    "clb_json": {"clubid":432,"nameclub":"FC Davis","countryid":188,"leagueid":893,"foundationyear":1976,"price":604000000.00}
+  },
+  {
+    "clb_json": {"clubid":433,"nameclub":"FC Chaney","countryid":119,"leagueid":301,"foundationyear":1933,"price":427000000.00}
+  },
+  {
+    "clb_json": {"clubid":434,"nameclub":"FC Sanchez","countryid":185,"leagueid":781,"foundationyear":1871,"price":839000000.00}
+  },
+  {
+    "clb_json": {"clubid":435,"nameclub":"FC Rebecca","countryid":72,"leagueid":600,"foundationyear":1888,"price":358000000.00}
+  },
+  {
+    "clb_json": {"clubid":436,"nameclub":"FC Prince","countryid":154,"leagueid":237,"foundationyear":1941,"price":416000000.00}
+  },
+  {
+    "clb_json": {"clubid":437,"nameclub":"FC Jordan","countryid":143,"leagueid":779,"foundationyear":1915,"price":863000000.00}
+  },
+  {
+    "clb_json": {"clubid":438,"nameclub":"FC Allison","countryid":150,"leagueid":455,"foundationyear":1989,"price":688000000.00}
+  },
+  {
+    "clb_json": {"clubid":439,"nameclub":"FC Murphy","countryid":177,"leagueid":700,"foundationyear":1926,"price":401000000.00}
+  },
+  {
+    "clb_json": {"clubid":440,"nameclub":"FC Reed","countryid":167,"leagueid":925,"foundationyear":1923,"price":790000000.00}
+  },
+  {
+    "clb_json": {"clubid":441,"nameclub":"FC Jones","countryid":118,"leagueid":375,"foundationyear":1866,"price":494000000.00}
+  },
+  {
+    "clb_json": {"clubid":442,"nameclub":"FC Flowers","countryid":60,"leagueid":578,"foundationyear":1908,"price":845000000.00}
+  },
+  {
+    "clb_json": {"clubid":443,"nameclub":"FC Bernard","countryid":195,"leagueid":233,"foundationyear":2018,"price":816000000.00}
+  },
+  {
+    "clb_json": {"clubid":444,"nameclub":"FC Butler","countryid":83,"leagueid":252,"foundationyear":1975,"price":157000000.00}
+  },
+  {
+    "clb_json": {"clubid":445,"nameclub":"FC Curtis","countryid":122,"leagueid":126,"foundationyear":2009,"price":225000000.00}
+  },
+  {
+    "clb_json": {"clubid":446,"nameclub":"FC Potter","countryid":13,"leagueid":44,"foundationyear":1983,"price":986000000.00}
+  },
+  {
+    "clb_json": {"clubid":447,"nameclub":"FC Moses","countryid":173,"leagueid":167,"foundationyear":1921,"price":270000000.00}
+  },
+  {
+    "clb_json": {"clubid":448,"nameclub":"FC Wilson","countryid":136,"leagueid":239,"foundationyear":2022,"price":163000000.00}
+  },
+  {
+    "clb_json": {"clubid":449,"nameclub":"FC Pineda","countryid":79,"leagueid":212,"foundationyear":1976,"price":749000000.00}
+  },
+  {
+    "clb_json": {"clubid":450,"nameclub":"FC Callahan","countryid":131,"leagueid":662,"foundationyear":1990,"price":185000000.00}
+  },
+  {
+    "clb_json": {"clubid":451,"nameclub":"FC Duarte","countryid":52,"leagueid":795,"foundationyear":1976,"price":377000000.00}
+  },
+  {
+    "clb_json": {"clubid":452,"nameclub":"FC Brian","countryid":141,"leagueid":987,"foundationyear":1931,"price":356000000.00}
+  },
+  {
+    "clb_json": {"clubid":453,"nameclub":"FC Zamora","countryid":61,"leagueid":643,"foundationyear":1878,"price":549000000.00}
+  },
+  {
+    "clb_json": {"clubid":454,"nameclub":"FC Davis","countryid":26,"leagueid":926,"foundationyear":1911,"price":96000000.00}
+  },
+  {
+    "clb_json": {"clubid":455,"nameclub":"FC Ayala","countryid":144,"leagueid":38,"foundationyear":1872,"price":15000000.00}
+  },
+  {
+    "clb_json": {"clubid":456,"nameclub":"FC Cooper","countryid":83,"leagueid":360,"foundationyear":1860,"price":863000000.00}
+  },
+  {
+    "clb_json": {"clubid":457,"nameclub":"FC Barry","countryid":153,"leagueid":455,"foundationyear":1859,"price":806000000.00}
+  },
+  {
+    "clb_json": {"clubid":458,"nameclub":"FC Adams","countryid":125,"leagueid":91,"foundationyear":1978,"price":413000000.00}
+  },
+  {
+    "clb_json": {"clubid":459,"nameclub":"FC Jackson","countryid":120,"leagueid":209,"foundationyear":1866,"price":317000000.00}
+  },
+  {
+    "clb_json": {"clubid":460,"nameclub":"FC Smith","countryid":160,"leagueid":709,"foundationyear":1893,"price":638000000.00}
+  },
+  {
+    "clb_json": {"clubid":461,"nameclub":"FC Wilcox","countryid":119,"leagueid":828,"foundationyear":1927,"price":115000000.00}
+  },
+  {
+    "clb_json": {"clubid":462,"nameclub":"FC Dawson","countryid":7,"leagueid":207,"foundationyear":1937,"price":254000000.00}
+  },
+  {
+    "clb_json": {"clubid":463,"nameclub":"FC Mitchell","countryid":30,"leagueid":998,"foundationyear":1920,"price":111000000.00}
+  },
+  {
+    "clb_json": {"clubid":464,"nameclub":"FC Bean","countryid":30,"leagueid":296,"foundationyear":1884,"price":748000000.00}
+  },
+  {
+    "clb_json": {"clubid":465,"nameclub":"FC Baker","countryid":5,"leagueid":974,"foundationyear":1903,"price":333000000.00}
+  },
+  {
+    "clb_json": {"clubid":466,"nameclub":"FC Lee","countryid":55,"leagueid":16,"foundationyear":1930,"price":498000000.00}
+  },
+  {
+    "clb_json": {"clubid":467,"nameclub":"FC Gardner","countryid":195,"leagueid":363,"foundationyear":2018,"price":986000000.00}
+  },
+  {
+    "clb_json": {"clubid":468,"nameclub":"FC Jimenez","countryid":199,"leagueid":167,"foundationyear":1970,"price":347000000.00}
+  },
+  {
+    "clb_json": {"clubid":469,"nameclub":"FC Stanton","countryid":39,"leagueid":845,"foundationyear":2013,"price":162000000.00}
+  },
+  {
+    "clb_json": {"clubid":470,"nameclub":"FC Davidson","countryid":62,"leagueid":799,"foundationyear":1954,"price":535000000.00}
+  },
+  {
+    "clb_json": {"clubid":471,"nameclub":"FC Ortiz","countryid":9,"leagueid":346,"foundationyear":1888,"price":664000000.00}
+  },
+  {
+    "clb_json": {"clubid":472,"nameclub":"FC Robbins","countryid":175,"leagueid":458,"foundationyear":1970,"price":315000000.00}
+  },
+  {
+    "clb_json": {"clubid":473,"nameclub":"FC Palmer","countryid":89,"leagueid":295,"foundationyear":1862,"price":565000000.00}
+  },
+  {
+    "clb_json": {"clubid":474,"nameclub":"FC Lee","countryid":101,"leagueid":45,"foundationyear":1894,"price":334000000.00}
+  },
+  {
+    "clb_json": {"clubid":475,"nameclub":"FC Gutierrez","countryid":171,"leagueid":66,"foundationyear":1902,"price":547000000.00}
+  },
+  {
+    "clb_json": {"clubid":476,"nameclub":"FC Jones","countryid":48,"leagueid":412,"foundationyear":1919,"price":90000000.00}
+  },
+  {
+    "clb_json": {"clubid":477,"nameclub":"FC Perez","countryid":90,"leagueid":153,"foundationyear":1852,"price":234000000.00}
+  },
+  {
+    "clb_json": {"clubid":478,"nameclub":"FC Odom","countryid":14,"leagueid":916,"foundationyear":1994,"price":884000000.00}
+  },
+  {
+    "clb_json": {"clubid":479,"nameclub":"FC Williams","countryid":135,"leagueid":162,"foundationyear":1979,"price":372000000.00}
+  },
+  {
+    "clb_json": {"clubid":480,"nameclub":"FC Ayala","countryid":39,"leagueid":839,"foundationyear":1962,"price":972000000.00}
+  },
+  {
+    "clb_json": {"clubid":481,"nameclub":"FC Young","countryid":52,"leagueid":727,"foundationyear":1868,"price":791000000.00}
+  },
+  {
+    "clb_json": {"clubid":482,"nameclub":"FC Pugh","countryid":146,"leagueid":384,"foundationyear":1902,"price":195000000.00}
+  },
+  {
+    "clb_json": {"clubid":483,"nameclub":"FC Saunders","countryid":80,"leagueid":107,"foundationyear":1888,"price":809000000.00}
+  },
+  {
+    "clb_json": {"clubid":484,"nameclub":"FC Rich","countryid":46,"leagueid":344,"foundationyear":1951,"price":942000000.00}
+  },
+  {
+    "clb_json": {"clubid":485,"nameclub":"FC Snyder","countryid":71,"leagueid":392,"foundationyear":1954,"price":41000000.00}
+  },
+  {
+    "clb_json": {"clubid":486,"nameclub":"FC Ballard","countryid":52,"leagueid":56,"foundationyear":1940,"price":631000000.00}
+  },
+  {
+    "clb_json": {"clubid":487,"nameclub":"FC Buchanan","countryid":16,"leagueid":623,"foundationyear":1870,"price":628000000.00}
+  },
+  {
+    "clb_json": {"clubid":488,"nameclub":"FC Thomas","countryid":98,"leagueid":874,"foundationyear":1939,"price":30000000.00}
+  },
+  {
+    "clb_json": {"clubid":489,"nameclub":"FC Meyers","countryid":196,"leagueid":119,"foundationyear":1928,"price":569000000.00}
+  },
+  {
+    "clb_json": {"clubid":490,"nameclub":"FC Allen","countryid":194,"leagueid":134,"foundationyear":1865,"price":526000000.00}
+  },
+  {
+    "clb_json": {"clubid":491,"nameclub":"FC Perry","countryid":195,"leagueid":837,"foundationyear":2013,"price":911000000.00}
+  },
+  {
+    "clb_json": {"clubid":492,"nameclub":"FC Mckinney","countryid":189,"leagueid":753,"foundationyear":1960,"price":510000000.00}
+  },
+  {
+    "clb_json": {"clubid":493,"nameclub":"FC Sanchez","countryid":155,"leagueid":191,"foundationyear":1962,"price":606000000.00}
+  },
+  {
+    "clb_json": {"clubid":494,"nameclub":"FC Hamilton","countryid":179,"leagueid":671,"foundationyear":1934,"price":242000000.00}
+  },
+  {
+    "clb_json": {"clubid":495,"nameclub":"FC Cantu","countryid":128,"leagueid":507,"foundationyear":1898,"price":209000000.00}
+  },
+  {
+    "clb_json": {"clubid":496,"nameclub":"FC Martinez","countryid":121,"leagueid":946,"foundationyear":1973,"price":609000000.00}
+  },
+  {
+    "clb_json": {"clubid":497,"nameclub":"FC Mcneil","countryid":37,"leagueid":416,"foundationyear":1972,"price":466000000.00}
+  },
+  {
+    "clb_json": {"clubid":498,"nameclub":"FC Williams","countryid":156,"leagueid":930,"foundationyear":1912,"price":6000000.00}
+  },
+  {
+    "clb_json": {"clubid":499,"nameclub":"FC Washington","countryid":141,"leagueid":688,"foundationyear":2002,"price":114000000.00}
+  },
+  {
+    "clb_json": {"clubid":500,"nameclub":"FC Levy","countryid":141,"leagueid":28,"foundationyear":2004,"price":905000000.00}
+  },
+  {
+    "clb_json": {"clubid":501,"nameclub":"FC Hodges","countryid":30,"leagueid":1000,"foundationyear":1910,"price":103000000.00}
+  },
+  {
+    "clb_json": {"clubid":502,"nameclub":"FC Goodwin","countryid":194,"leagueid":558,"foundationyear":1990,"price":702000000.00}
+  },
+  {
+    "clb_json": {"clubid":503,"nameclub":"FC Hill","countryid":64,"leagueid":327,"foundationyear":1913,"price":210000000.00}
+  },
+  {
+    "clb_json": {"clubid":504,"nameclub":"FC Harrington","countryid":141,"leagueid":245,"foundationyear":2021,"price":129000000.00}
+  },
+  {
+    "clb_json": {"clubid":505,"nameclub":"FC Marquez","countryid":131,"leagueid":879,"foundationyear":2016,"price":960000000.00}
+  },
+  {
+    "clb_json": {"clubid":506,"nameclub":"FC Hickman","countryid":99,"leagueid":245,"foundationyear":1962,"price":882000000.00}
+  },
+  {
+    "clb_json": {"clubid":507,"nameclub":"FC Anderson","countryid":93,"leagueid":119,"foundationyear":1959,"price":387000000.00}
+  },
+  {
+    "clb_json": {"clubid":508,"nameclub":"FC Sanchez","countryid":200,"leagueid":198,"foundationyear":1992,"price":119000000.00}
+  },
+  {
+    "clb_json": {"clubid":509,"nameclub":"FC Hicks","countryid":112,"leagueid":539,"foundationyear":1860,"price":759000000.00}
+  },
+  {
+    "clb_json": {"clubid":510,"nameclub":"FC Campbell","countryid":72,"leagueid":451,"foundationyear":1972,"price":555000000.00}
+  },
+  {
+    "clb_json": {"clubid":511,"nameclub":"FC Rodriguez","countryid":128,"leagueid":543,"foundationyear":2005,"price":993000000.00}
+  },
+  {
+    "clb_json": {"clubid":512,"nameclub":"FC Obrien","countryid":200,"leagueid":333,"foundationyear":1974,"price":375000000.00}
+  },
+  {
+    "clb_json": {"clubid":513,"nameclub":"FC Hendrix","countryid":179,"leagueid":619,"foundationyear":1977,"price":62000000.00}
+  },
+  {
+    "clb_json": {"clubid":514,"nameclub":"FC Hall","countryid":192,"leagueid":172,"foundationyear":1954,"price":934000000.00}
+  },
+  {
+    "clb_json": {"clubid":515,"nameclub":"FC Atkins","countryid":160,"leagueid":463,"foundationyear":1973,"price":448000000.00}
+  },
+  {
+    "clb_json": {"clubid":516,"nameclub":"FC Hunter","countryid":110,"leagueid":586,"foundationyear":2020,"price":609000000.00}
+  },
+  {
+    "clb_json": {"clubid":517,"nameclub":"FC Becker","countryid":40,"leagueid":937,"foundationyear":1947,"price":364000000.00}
+  },
+  {
+    "clb_json": {"clubid":518,"nameclub":"FC Emily","countryid":12,"leagueid":382,"foundationyear":1993,"price":90000000.00}
+  },
+  {
+    "clb_json": {"clubid":519,"nameclub":"FC Klein","countryid":96,"leagueid":398,"foundationyear":1951,"price":820000000.00}
+  },
+  {
+    "clb_json": {"clubid":520,"nameclub":"FC Gilbert","countryid":72,"leagueid":619,"foundationyear":1938,"price":632000000.00}
+  },
+  {
+    "clb_json": {"clubid":521,"nameclub":"FC Martin","countryid":50,"leagueid":220,"foundationyear":1983,"price":43000000.00}
+  },
+  {
+    "clb_json": {"clubid":522,"nameclub":"FC Nash","countryid":127,"leagueid":812,"foundationyear":1870,"price":75000000.00}
+  },
+  {
+    "clb_json": {"clubid":523,"nameclub":"FC Mason","countryid":186,"leagueid":400,"foundationyear":1906,"price":896000000.00}
+  },
+  {
+    "clb_json": {"clubid":524,"nameclub":"FC Garrison","countryid":178,"leagueid":822,"foundationyear":1881,"price":666000000.00}
+  },
+  {
+    "clb_json": {"clubid":525,"nameclub":"FC Martinez","countryid":136,"leagueid":664,"foundationyear":2015,"price":888000000.00}
+  },
+  {
+    "clb_json": {"clubid":526,"nameclub":"FC Lynch","countryid":140,"leagueid":178,"foundationyear":1892,"price":181000000.00}
+  },
+  {
+    "clb_json": {"clubid":527,"nameclub":"FC Ponce","countryid":177,"leagueid":887,"foundationyear":2014,"price":495000000.00}
+  },
+  {
+    "clb_json": {"clubid":528,"nameclub":"FC Ortega","countryid":104,"leagueid":507,"foundationyear":1972,"price":382000000.00}
+  },
+  {
+    "clb_json": {"clubid":529,"nameclub":"FC Kline","countryid":137,"leagueid":986,"foundationyear":2005,"price":481000000.00}
+  },
+  {
+    "clb_json": {"clubid":530,"nameclub":"FC Erickson","countryid":15,"leagueid":576,"foundationyear":1852,"price":160000000.00}
+  },
+  {
+    "clb_json": {"clubid":531,"nameclub":"FC Smith","countryid":124,"leagueid":705,"foundationyear":2002,"price":618000000.00}
+  },
+  {
+    "clb_json": {"clubid":532,"nameclub":"FC Mcintosh","countryid":188,"leagueid":485,"foundationyear":2003,"price":897000000.00}
+  },
+  {
+    "clb_json": {"clubid":533,"nameclub":"FC Fox","countryid":3,"leagueid":595,"foundationyear":1851,"price":197000000.00}
+  },
+  {
+    "clb_json": {"clubid":534,"nameclub":"FC Maldonado","countryid":14,"leagueid":316,"foundationyear":1901,"price":468000000.00}
+  },
+  {
+    "clb_json": {"clubid":535,"nameclub":"FC Ross","countryid":196,"leagueid":848,"foundationyear":1992,"price":252000000.00}
+  },
+  {
+    "clb_json": {"clubid":536,"nameclub":"FC Marshall","countryid":73,"leagueid":258,"foundationyear":1904,"price":959000000.00}
+  },
+  {
+    "clb_json": {"clubid":537,"nameclub":"FC Reed","countryid":50,"leagueid":161,"foundationyear":1913,"price":291000000.00}
+  },
+  {
+    "clb_json": {"clubid":538,"nameclub":"FC Sheppard","countryid":196,"leagueid":404,"foundationyear":1863,"price":651000000.00}
+  },
+  {
+    "clb_json": {"clubid":539,"nameclub":"FC Johnson","countryid":60,"leagueid":70,"foundationyear":2011,"price":231000000.00}
+  },
+  {
+    "clb_json": {"clubid":540,"nameclub":"FC Kerr","countryid":24,"leagueid":980,"foundationyear":1895,"price":184000000.00}
+  },
+  {
+    "clb_json": {"clubid":541,"nameclub":"FC Gibson","countryid":106,"leagueid":274,"foundationyear":1888,"price":902000000.00}
+  },
+  {
+    "clb_json": {"clubid":542,"nameclub":"FC Cruz","countryid":5,"leagueid":476,"foundationyear":1885,"price":184000000.00}
+  },
+  {
+    "clb_json": {"clubid":543,"nameclub":"FC Howard","countryid":199,"leagueid":148,"foundationyear":1863,"price":862000000.00}
+  },
+  {
+    "clb_json": {"clubid":544,"nameclub":"FC West","countryid":200,"leagueid":656,"foundationyear":1969,"price":88000000.00}
+  },
+  {
+    "clb_json": {"clubid":545,"nameclub":"FC Thompson","countryid":93,"leagueid":853,"foundationyear":1889,"price":324000000.00}
+  },
+  {
+    "clb_json": {"clubid":546,"nameclub":"FC Martin","countryid":10,"leagueid":852,"foundationyear":1965,"price":385000000.00}
+  },
+  {
+    "clb_json": {"clubid":547,"nameclub":"FC Mathis","countryid":105,"leagueid":139,"foundationyear":1936,"price":329000000.00}
+  },
+  {
+    "clb_json": {"clubid":548,"nameclub":"FC Armstrong","countryid":185,"leagueid":952,"foundationyear":1906,"price":157000000.00}
+  },
+  {
+    "clb_json": {"clubid":549,"nameclub":"FC Owens","countryid":126,"leagueid":749,"foundationyear":1861,"price":188000000.00}
+  },
+  {
+    "clb_json": {"clubid":550,"nameclub":"FC Flynn","countryid":92,"leagueid":182,"foundationyear":1914,"price":964000000.00}
+  },
+  {
+    "clb_json": {"clubid":551,"nameclub":"FC Carlson","countryid":152,"leagueid":620,"foundationyear":1988,"price":691000000.00}
+  },
+  {
+    "clb_json": {"clubid":552,"nameclub":"FC Robinson","countryid":76,"leagueid":353,"foundationyear":1982,"price":383000000.00}
+  },
+  {
+    "clb_json": {"clubid":553,"nameclub":"FC Fitzgerald","countryid":8,"leagueid":954,"foundationyear":1942,"price":97000000.00}
+  },
+  {
+    "clb_json": {"clubid":554,"nameclub":"FC Cox","countryid":73,"leagueid":222,"foundationyear":1905,"price":656000000.00}
+  },
+  {
+    "clb_json": {"clubid":555,"nameclub":"FC Dunn","countryid":47,"leagueid":503,"foundationyear":1890,"price":967000000.00}
+  },
+  {
+    "clb_json": {"clubid":556,"nameclub":"FC Olsen","countryid":4,"leagueid":617,"foundationyear":1996,"price":902000000.00}
+  },
+  {
+    "clb_json": {"clubid":557,"nameclub":"FC Curtis","countryid":108,"leagueid":127,"foundationyear":1995,"price":123000000.00}
+  },
+  {
+    "clb_json": {"clubid":558,"nameclub":"FC Solomon","countryid":174,"leagueid":883,"foundationyear":1969,"price":193000000.00}
+  },
+  {
+    "clb_json": {"clubid":559,"nameclub":"FC Ellis","countryid":137,"leagueid":328,"foundationyear":2011,"price":740000000.00}
+  },
+  {
+    "clb_json": {"clubid":560,"nameclub":"FC Love","countryid":58,"leagueid":529,"foundationyear":1859,"price":969000000.00}
+  },
+  {
+    "clb_json": {"clubid":561,"nameclub":"FC Williams","countryid":138,"leagueid":472,"foundationyear":1894,"price":184000000.00}
+  },
+  {
+    "clb_json": {"clubid":562,"nameclub":"FC Hayes","countryid":77,"leagueid":833,"foundationyear":1880,"price":999000000.00}
+  },
+  {
+    "clb_json": {"clubid":563,"nameclub":"FC Hart","countryid":166,"leagueid":159,"foundationyear":1855,"price":454000000.00}
+  },
+  {
+    "clb_json": {"clubid":564,"nameclub":"FC Anderson","countryid":193,"leagueid":34,"foundationyear":1910,"price":990000000.00}
+  },
+  {
+    "clb_json": {"clubid":565,"nameclub":"FC Lynch","countryid":96,"leagueid":984,"foundationyear":1854,"price":429000000.00}
+  },
+  {
+    "clb_json": {"clubid":566,"nameclub":"FC Smith","countryid":24,"leagueid":711,"foundationyear":1883,"price":94000000.00}
+  },
+  {
+    "clb_json": {"clubid":567,"nameclub":"FC Williams","countryid":132,"leagueid":400,"foundationyear":1955,"price":272000000.00}
+  },
+  {
+    "clb_json": {"clubid":568,"nameclub":"FC Brown","countryid":183,"leagueid":311,"foundationyear":1980,"price":29000000.00}
+  },
+  {
+    "clb_json": {"clubid":569,"nameclub":"FC Chavez","countryid":150,"leagueid":817,"foundationyear":1898,"price":470000000.00}
+  },
+  {
+    "clb_json": {"clubid":570,"nameclub":"FC Sims","countryid":192,"leagueid":789,"foundationyear":2005,"price":986000000.00}
+  },
+  {
+    "clb_json": {"clubid":571,"nameclub":"FC Kelly","countryid":90,"leagueid":621,"foundationyear":1870,"price":20000000.00}
+  },
+  {
+    "clb_json": {"clubid":572,"nameclub":"FC Johnson","countryid":167,"leagueid":431,"foundationyear":2021,"price":112000000.00}
+  },
+  {
+    "clb_json": {"clubid":573,"nameclub":"FC White","countryid":13,"leagueid":448,"foundationyear":1910,"price":988000000.00}
+  },
+  {
+    "clb_json": {"clubid":574,"nameclub":"FC Reed","countryid":112,"leagueid":865,"foundationyear":1978,"price":66000000.00}
+  },
+  {
+    "clb_json": {"clubid":575,"nameclub":"FC Humphrey","countryid":88,"leagueid":634,"foundationyear":2017,"price":384000000.00}
+  },
+  {
+    "clb_json": {"clubid":576,"nameclub":"FC Wallace","countryid":154,"leagueid":438,"foundationyear":1989,"price":727000000.00}
+  },
+  {
+    "clb_json": {"clubid":577,"nameclub":"FC Becker","countryid":33,"leagueid":788,"foundationyear":1856,"price":197000000.00}
+  },
+  {
+    "clb_json": {"clubid":578,"nameclub":"FC Carpenter","countryid":42,"leagueid":328,"foundationyear":1995,"price":182000000.00}
+  },
+  {
+    "clb_json": {"clubid":579,"nameclub":"FC Solomon","countryid":167,"leagueid":102,"foundationyear":1988,"price":213000000.00}
+  },
+  {
+    "clb_json": {"clubid":580,"nameclub":"FC Terry","countryid":98,"leagueid":73,"foundationyear":2012,"price":582000000.00}
+  },
+  {
+    "clb_json": {"clubid":581,"nameclub":"FC Carlson","countryid":124,"leagueid":115,"foundationyear":1997,"price":995000000.00}
+  },
+  {
+    "clb_json": {"clubid":582,"nameclub":"FC Ellis","countryid":117,"leagueid":590,"foundationyear":1905,"price":222000000.00}
+  },
+  {
+    "clb_json": {"clubid":583,"nameclub":"FC Stewart","countryid":94,"leagueid":717,"foundationyear":1961,"price":303000000.00}
+  },
+  {
+    "clb_json": {"clubid":584,"nameclub":"FC Mccormick","countryid":142,"leagueid":920,"foundationyear":1875,"price":825000000.00}
+  },
+  {
+    "clb_json": {"clubid":585,"nameclub":"FC Howell","countryid":135,"leagueid":62,"foundationyear":1966,"price":830000000.00}
+  },
+  {
+    "clb_json": {"clubid":586,"nameclub":"FC Morgan","countryid":191,"leagueid":251,"foundationyear":2016,"price":165000000.00}
+  },
+  {
+    "clb_json": {"clubid":587,"nameclub":"FC Davis","countryid":185,"leagueid":901,"foundationyear":2020,"price":18000000.00}
+  },
+  {
+    "clb_json": {"clubid":588,"nameclub":"FC Bauer","countryid":187,"leagueid":153,"foundationyear":1905,"price":200000000.00}
+  },
+  {
+    "clb_json": {"clubid":589,"nameclub":"FC Jones","countryid":30,"leagueid":849,"foundationyear":1946,"price":845000000.00}
+  },
+  {
+    "clb_json": {"clubid":590,"nameclub":"FC Gilbert","countryid":1,"leagueid":344,"foundationyear":1928,"price":968000000.00}
+  },
+  {
+    "clb_json": {"clubid":591,"nameclub":"FC Webb","countryid":43,"leagueid":843,"foundationyear":1968,"price":187000000.00}
+  },
+  {
+    "clb_json": {"clubid":592,"nameclub":"FC Johnson","countryid":143,"leagueid":751,"foundationyear":2003,"price":37000000.00}
+  },
+  {
+    "clb_json": {"clubid":593,"nameclub":"FC Stephens","countryid":183,"leagueid":798,"foundationyear":1889,"price":866000000.00}
+  },
+  {
+    "clb_json": {"clubid":594,"nameclub":"FC Kirby","countryid":37,"leagueid":409,"foundationyear":1863,"price":742000000.00}
+  },
+  {
+    "clb_json": {"clubid":595,"nameclub":"FC Bishop","countryid":106,"leagueid":60,"foundationyear":1865,"price":681000000.00}
+  },
+  {
+    "clb_json": {"clubid":596,"nameclub":"FC Cross","countryid":11,"leagueid":586,"foundationyear":2018,"price":689000000.00}
+  },
+  {
+    "clb_json": {"clubid":597,"nameclub":"FC Smith","countryid":54,"leagueid":220,"foundationyear":1944,"price":428000000.00}
+  },
+  {
+    "clb_json": {"clubid":598,"nameclub":"FC Woods","countryid":160,"leagueid":1,"foundationyear":2006,"price":690000000.00}
+  },
+  {
+    "clb_json": {"clubid":599,"nameclub":"FC Campbell","countryid":152,"leagueid":809,"foundationyear":1869,"price":846000000.00}
+  },
+  {
+    "clb_json": {"clubid":600,"nameclub":"FC Dunn","countryid":63,"leagueid":408,"foundationyear":1941,"price":820000000.00}
+  },
+  {
+    "clb_json": {"clubid":601,"nameclub":"FC Chandler","countryid":103,"leagueid":739,"foundationyear":1892,"price":493000000.00}
+  },
+  {
+    "clb_json": {"clubid":602,"nameclub":"FC Russell","countryid":61,"leagueid":605,"foundationyear":2018,"price":765000000.00}
+  },
+  {
+    "clb_json": {"clubid":603,"nameclub":"FC Jordan","countryid":149,"leagueid":909,"foundationyear":2013,"price":978000000.00}
+  },
+  {
+    "clb_json": {"clubid":604,"nameclub":"FC Garcia","countryid":43,"leagueid":569,"foundationyear":1921,"price":776000000.00}
+  },
+  {
+    "clb_json": {"clubid":605,"nameclub":"FC Foley","countryid":57,"leagueid":743,"foundationyear":1900,"price":273000000.00}
+  },
+  {
+    "clb_json": {"clubid":606,"nameclub":"FC Stewart","countryid":28,"leagueid":680,"foundationyear":1969,"price":518000000.00}
+  },
+  {
+    "clb_json": {"clubid":607,"nameclub":"FC Brandt","countryid":166,"leagueid":169,"foundationyear":1969,"price":847000000.00}
+  },
+  {
+    "clb_json": {"clubid":608,"nameclub":"FC White","countryid":39,"leagueid":611,"foundationyear":1995,"price":31000000.00}
+  },
+  {
+    "clb_json": {"clubid":609,"nameclub":"FC Barnett","countryid":144,"leagueid":938,"foundationyear":1853,"price":645000000.00}
+  },
+  {
+    "clb_json": {"clubid":610,"nameclub":"FC Carter","countryid":115,"leagueid":746,"foundationyear":1999,"price":355000000.00}
+  },
+  {
+    "clb_json": {"clubid":611,"nameclub":"FC Bryant","countryid":103,"leagueid":263,"foundationyear":1906,"price":337000000.00}
+  },
+  {
+    "clb_json": {"clubid":612,"nameclub":"FC Chapman","countryid":110,"leagueid":969,"foundationyear":1984,"price":292000000.00}
+  },
+  {
+    "clb_json": {"clubid":613,"nameclub":"FC Smith","countryid":5,"leagueid":956,"foundationyear":1994,"price":730000000.00}
+  },
+  {
+    "clb_json": {"clubid":614,"nameclub":"FC Robinson","countryid":91,"leagueid":346,"foundationyear":2005,"price":693000000.00}
+  },
+  {
+    "clb_json": {"clubid":615,"nameclub":"FC Henderson","countryid":106,"leagueid":952,"foundationyear":2008,"price":959000000.00}
+  },
+  {
+    "clb_json": {"clubid":616,"nameclub":"FC Ferguson","countryid":194,"leagueid":5,"foundationyear":1877,"price":373000000.00}
+  },
+  {
+    "clb_json": {"clubid":617,"nameclub":"FC Ray","countryid":161,"leagueid":196,"foundationyear":1975,"price":603000000.00}
+  },
+  {
+    "clb_json": {"clubid":618,"nameclub":"FC Collier","countryid":132,"leagueid":796,"foundationyear":1951,"price":793000000.00}
+  },
+  {
+    "clb_json": {"clubid":619,"nameclub":"FC Jones","countryid":143,"leagueid":123,"foundationyear":1935,"price":206000000.00}
+  },
+  {
+    "clb_json": {"clubid":620,"nameclub":"FC Johnson","countryid":112,"leagueid":957,"foundationyear":1997,"price":729000000.00}
+  },
+  {
+    "clb_json": {"clubid":621,"nameclub":"FC Garrison","countryid":145,"leagueid":920,"foundationyear":2000,"price":495000000.00}
+  },
+  {
+    "clb_json": {"clubid":622,"nameclub":"FC Hunt","countryid":67,"leagueid":81,"foundationyear":1868,"price":427000000.00}
+  },
+  {
+    "clb_json": {"clubid":623,"nameclub":"FC Miller","countryid":1,"leagueid":905,"foundationyear":2015,"price":242000000.00}
+  },
+  {
+    "clb_json": {"clubid":624,"nameclub":"FC Winters","countryid":17,"leagueid":842,"foundationyear":2006,"price":24000000.00}
+  },
+  {
+    "clb_json": {"clubid":625,"nameclub":"FC Foster","countryid":163,"leagueid":786,"foundationyear":1982,"price":737000000.00}
+  },
+  {
+    "clb_json": {"clubid":626,"nameclub":"FC Griffin","countryid":32,"leagueid":640,"foundationyear":2007,"price":701000000.00}
+  },
+  {
+    "clb_json": {"clubid":627,"nameclub":"FC Stewart","countryid":72,"leagueid":505,"foundationyear":1939,"price":762000000.00}
+  },
+  {
+    "clb_json": {"clubid":628,"nameclub":"FC Carter","countryid":123,"leagueid":765,"foundationyear":1962,"price":335000000.00}
+  },
+  {
+    "clb_json": {"clubid":629,"nameclub":"FC Morris","countryid":7,"leagueid":142,"foundationyear":1890,"price":882000000.00}
+  },
+  {
+    "clb_json": {"clubid":630,"nameclub":"FC Proctor","countryid":114,"leagueid":624,"foundationyear":1948,"price":715000000.00}
+  },
+  {
+    "clb_json": {"clubid":631,"nameclub":"FC Schultz","countryid":105,"leagueid":551,"foundationyear":1999,"price":802000000.00}
+  },
+  {
+    "clb_json": {"clubid":632,"nameclub":"FC Freeman","countryid":148,"leagueid":225,"foundationyear":1868,"price":818000000.00}
+  },
+  {
+    "clb_json": {"clubid":633,"nameclub":"FC Le","countryid":122,"leagueid":150,"foundationyear":1969,"price":582000000.00}
+  },
+  {
+    "clb_json": {"clubid":634,"nameclub":"FC Potter","countryid":13,"leagueid":929,"foundationyear":1874,"price":721000000.00}
+  },
+  {
+    "clb_json": {"clubid":635,"nameclub":"FC Rose","countryid":79,"leagueid":647,"foundationyear":1907,"price":929000000.00}
+  },
+  {
+    "clb_json": {"clubid":636,"nameclub":"FC Gomez","countryid":90,"leagueid":122,"foundationyear":1920,"price":760000000.00}
+  },
+  {
+    "clb_json": {"clubid":637,"nameclub":"FC Roberts","countryid":188,"leagueid":194,"foundationyear":1891,"price":14000000.00}
+  },
+  {
+    "clb_json": {"clubid":638,"nameclub":"FC Walker","countryid":120,"leagueid":231,"foundationyear":2000,"price":137000000.00}
+  },
+  {
+    "clb_json": {"clubid":639,"nameclub":"FC Vasquez","countryid":117,"leagueid":322,"foundationyear":1916,"price":151000000.00}
+  },
+  {
+    "clb_json": {"clubid":640,"nameclub":"FC Rivera","countryid":181,"leagueid":779,"foundationyear":1891,"price":452000000.00}
+  },
+  {
+    "clb_json": {"clubid":641,"nameclub":"FC Michelle","countryid":184,"leagueid":392,"foundationyear":1851,"price":482000000.00}
+  },
+  {
+    "clb_json": {"clubid":642,"nameclub":"FC Vargas","countryid":135,"leagueid":610,"foundationyear":1872,"price":76000000.00}
+  },
+  {
+    "clb_json": {"clubid":643,"nameclub":"FC Shaw","countryid":82,"leagueid":512,"foundationyear":1939,"price":645000000.00}
+  },
+  {
+    "clb_json": {"clubid":644,"nameclub":"FC Reeves","countryid":167,"leagueid":716,"foundationyear":1885,"price":106000000.00}
+  },
+  {
+    "clb_json": {"clubid":645,"nameclub":"FC Gilbert","countryid":2,"leagueid":530,"foundationyear":1928,"price":871000000.00}
+  },
+  {
+    "clb_json": {"clubid":646,"nameclub":"FC Morris","countryid":184,"leagueid":285,"foundationyear":1990,"price":689000000.00}
+  },
+  {
+    "clb_json": {"clubid":647,"nameclub":"FC Martinez","countryid":167,"leagueid":105,"foundationyear":2020,"price":960000000.00}
+  },
+  {
+    "clb_json": {"clubid":648,"nameclub":"FC Frank","countryid":120,"leagueid":507,"foundationyear":1850,"price":504000000.00}
+  },
+  {
+    "clb_json": {"clubid":649,"nameclub":"FC Johnson","countryid":82,"leagueid":868,"foundationyear":1895,"price":750000000.00}
+  },
+  {
+    "clb_json": {"clubid":650,"nameclub":"FC Michelle","countryid":145,"leagueid":323,"foundationyear":1927,"price":406000000.00}
+  },
+  {
+    "clb_json": {"clubid":651,"nameclub":"FC Lambert","countryid":120,"leagueid":838,"foundationyear":2012,"price":122000000.00}
+  },
+  {
+    "clb_json": {"clubid":652,"nameclub":"FC Valencia","countryid":41,"leagueid":245,"foundationyear":1971,"price":243000000.00}
+  },
+  {
+    "clb_json": {"clubid":653,"nameclub":"FC Douglas","countryid":133,"leagueid":211,"foundationyear":1970,"price":310000000.00}
+  },
+  {
+    "clb_json": {"clubid":654,"nameclub":"FC Brown","countryid":39,"leagueid":467,"foundationyear":1904,"price":67000000.00}
+  },
+  {
+    "clb_json": {"clubid":655,"nameclub":"FC Cameron","countryid":121,"leagueid":388,"foundationyear":2004,"price":82000000.00}
+  },
+  {
+    "clb_json": {"clubid":656,"nameclub":"FC Carter","countryid":194,"leagueid":344,"foundationyear":1949,"price":941000000.00}
+  },
+  {
+    "clb_json": {"clubid":657,"nameclub":"FC Harper","countryid":162,"leagueid":106,"foundationyear":1852,"price":583000000.00}
+  },
+  {
+    "clb_json": {"clubid":658,"nameclub":"FC Hernandez","countryid":96,"leagueid":555,"foundationyear":1925,"price":298000000.00}
+  },
+  {
+    "clb_json": {"clubid":659,"nameclub":"FC Ross","countryid":199,"leagueid":748,"foundationyear":1889,"price":429000000.00}
+  },
+  {
+    "clb_json": {"clubid":660,"nameclub":"FC Davidson","countryid":32,"leagueid":794,"foundationyear":1894,"price":293000000.00}
+  },
+  {
+    "clb_json": {"clubid":661,"nameclub":"FC Patel","countryid":53,"leagueid":837,"foundationyear":1948,"price":965000000.00}
+  },
+  {
+    "clb_json": {"clubid":662,"nameclub":"FC Mitchell","countryid":189,"leagueid":454,"foundationyear":1860,"price":836000000.00}
+  },
+  {
+    "clb_json": {"clubid":663,"nameclub":"FC Stephen","countryid":163,"leagueid":797,"foundationyear":1882,"price":639000000.00}
+  },
+  {
+    "clb_json": {"clubid":664,"nameclub":"FC Ingram","countryid":199,"leagueid":833,"foundationyear":1933,"price":558000000.00}
+  },
+  {
+    "clb_json": {"clubid":665,"nameclub":"FC Sullivan","countryid":89,"leagueid":47,"foundationyear":2005,"price":58000000.00}
+  },
+  {
+    "clb_json": {"clubid":666,"nameclub":"FC White","countryid":80,"leagueid":288,"foundationyear":1877,"price":13000000.00}
+  },
+  {
+    "clb_json": {"clubid":667,"nameclub":"FC Schneider","countryid":183,"leagueid":850,"foundationyear":1919,"price":133000000.00}
+  },
+  {
+    "clb_json": {"clubid":668,"nameclub":"FC Marks","countryid":81,"leagueid":914,"foundationyear":1871,"price":40000000.00}
+  },
+  {
+    "clb_json": {"clubid":669,"nameclub":"FC Barrett","countryid":136,"leagueid":926,"foundationyear":1901,"price":268000000.00}
+  },
+  {
+    "clb_json": {"clubid":670,"nameclub":"FC Reyes","countryid":52,"leagueid":769,"foundationyear":1961,"price":460000000.00}
+  },
+  {
+    "clb_json": {"clubid":671,"nameclub":"FC Carey","countryid":147,"leagueid":193,"foundationyear":1956,"price":378000000.00}
+  },
+  {
+    "clb_json": {"clubid":672,"nameclub":"FC Bush","countryid":175,"leagueid":6,"foundationyear":2000,"price":399000000.00}
+  },
+  {
+    "clb_json": {"clubid":673,"nameclub":"FC Leslie","countryid":47,"leagueid":188,"foundationyear":1924,"price":709000000.00}
+  },
+  {
+    "clb_json": {"clubid":674,"nameclub":"FC Walker","countryid":11,"leagueid":801,"foundationyear":1883,"price":547000000.00}
+  },
+  {
+    "clb_json": {"clubid":675,"nameclub":"FC Williams","countryid":11,"leagueid":680,"foundationyear":1853,"price":609000000.00}
+  },
+  {
+    "clb_json": {"clubid":676,"nameclub":"FC Gutierrez","countryid":185,"leagueid":96,"foundationyear":1987,"price":297000000.00}
+  },
+  {
+    "clb_json": {"clubid":677,"nameclub":"FC Hart","countryid":20,"leagueid":292,"foundationyear":1907,"price":339000000.00}
+  },
+  {
+    "clb_json": {"clubid":678,"nameclub":"FC Krause","countryid":13,"leagueid":336,"foundationyear":1877,"price":441000000.00}
+  },
+  {
+    "clb_json": {"clubid":679,"nameclub":"FC Wood","countryid":197,"leagueid":378,"foundationyear":1973,"price":918000000.00}
+  },
+  {
+    "clb_json": {"clubid":680,"nameclub":"FC Kline","countryid":194,"leagueid":853,"foundationyear":1952,"price":787000000.00}
+  },
+  {
+    "clb_json": {"clubid":681,"nameclub":"FC Davis","countryid":19,"leagueid":709,"foundationyear":1973,"price":142000000.00}
+  },
+  {
+    "clb_json": {"clubid":682,"nameclub":"FC Gloria","countryid":183,"leagueid":767,"foundationyear":1863,"price":701000000.00}
+  },
+  {
+    "clb_json": {"clubid":683,"nameclub":"FC Petty","countryid":154,"leagueid":425,"foundationyear":1859,"price":641000000.00}
+  },
+  {
+    "clb_json": {"clubid":684,"nameclub":"FC Rivers","countryid":197,"leagueid":42,"foundationyear":1891,"price":62000000.00}
+  },
+  {
+    "clb_json": {"clubid":685,"nameclub":"FC Medina","countryid":131,"leagueid":65,"foundationyear":1911,"price":845000000.00}
+  },
+  {
+    "clb_json": {"clubid":686,"nameclub":"FC Dixon","countryid":120,"leagueid":276,"foundationyear":1972,"price":171000000.00}
+  },
+  {
+    "clb_json": {"clubid":687,"nameclub":"FC Li","countryid":57,"leagueid":303,"foundationyear":1972,"price":371000000.00}
+  },
+  {
+    "clb_json": {"clubid":688,"nameclub":"FC Ramos","countryid":151,"leagueid":224,"foundationyear":1926,"price":78000000.00}
+  },
+  {
+    "clb_json": {"clubid":689,"nameclub":"FC Foster","countryid":193,"leagueid":982,"foundationyear":1885,"price":298000000.00}
+  },
+  {
+    "clb_json": {"clubid":690,"nameclub":"FC Phillips","countryid":23,"leagueid":287,"foundationyear":2009,"price":15000000.00}
+  },
+  {
+    "clb_json": {"clubid":691,"nameclub":"FC Ryan","countryid":159,"leagueid":387,"foundationyear":1996,"price":346000000.00}
+  },
+  {
+    "clb_json": {"clubid":692,"nameclub":"FC Johnston","countryid":24,"leagueid":194,"foundationyear":1951,"price":937000000.00}
+  },
+  {
+    "clb_json": {"clubid":693,"nameclub":"FC Williams","countryid":166,"leagueid":868,"foundationyear":1869,"price":607000000.00}
+  },
+  {
+    "clb_json": {"clubid":694,"nameclub":"FC Patterson","countryid":116,"leagueid":224,"foundationyear":1980,"price":456000000.00}
+  },
+  {
+    "clb_json": {"clubid":695,"nameclub":"FC Keller","countryid":133,"leagueid":830,"foundationyear":2003,"price":38000000.00}
+  },
+  {
+    "clb_json": {"clubid":696,"nameclub":"FC Blackburn","countryid":12,"leagueid":997,"foundationyear":1854,"price":609000000.00}
+  },
+  {
+    "clb_json": {"clubid":697,"nameclub":"FC Gordon","countryid":116,"leagueid":297,"foundationyear":2005,"price":852000000.00}
+  },
+  {
+    "clb_json": {"clubid":698,"nameclub":"FC Barker","countryid":130,"leagueid":725,"foundationyear":1854,"price":717000000.00}
+  },
+  {
+    "clb_json": {"clubid":699,"nameclub":"FC Bowen","countryid":173,"leagueid":649,"foundationyear":1885,"price":157000000.00}
+  },
+  {
+    "clb_json": {"clubid":700,"nameclub":"FC Phillips","countryid":83,"leagueid":856,"foundationyear":1902,"price":258000000.00}
+  },
+  {
+    "clb_json": {"clubid":701,"nameclub":"FC Mcbride","countryid":184,"leagueid":958,"foundationyear":1857,"price":81000000.00}
+  },
+  {
+    "clb_json": {"clubid":702,"nameclub":"FC White","countryid":46,"leagueid":904,"foundationyear":1882,"price":637000000.00}
+  },
+  {
+    "clb_json": {"clubid":703,"nameclub":"FC Morgan","countryid":181,"leagueid":2,"foundationyear":1995,"price":18000000.00}
+  },
+  {
+    "clb_json": {"clubid":704,"nameclub":"FC Gonzalez","countryid":179,"leagueid":483,"foundationyear":1867,"price":228000000.00}
+  },
+  {
+    "clb_json": {"clubid":705,"nameclub":"FC Murillo","countryid":180,"leagueid":489,"foundationyear":1928,"price":402000000.00}
+  },
+  {
+    "clb_json": {"clubid":706,"nameclub":"FC Moore","countryid":86,"leagueid":590,"foundationyear":2000,"price":92000000.00}
+  },
+  {
+    "clb_json": {"clubid":707,"nameclub":"FC Martin","countryid":117,"leagueid":809,"foundationyear":1855,"price":911000000.00}
+  },
+  {
+    "clb_json": {"clubid":708,"nameclub":"FC Mendez","countryid":119,"leagueid":56,"foundationyear":1909,"price":132000000.00}
+  },
+  {
+    "clb_json": {"clubid":709,"nameclub":"FC Roberts","countryid":67,"leagueid":684,"foundationyear":1953,"price":386000000.00}
+  },
+  {
+    "clb_json": {"clubid":710,"nameclub":"FC Bullock","countryid":191,"leagueid":569,"foundationyear":1890,"price":806000000.00}
+  },
+  {
+    "clb_json": {"clubid":711,"nameclub":"FC Marks","countryid":18,"leagueid":823,"foundationyear":1889,"price":455000000.00}
+  },
+  {
+    "clb_json": {"clubid":712,"nameclub":"FC Daugherty","countryid":7,"leagueid":152,"foundationyear":1939,"price":293000000.00}
+  },
+  {
+    "clb_json": {"clubid":713,"nameclub":"FC Jones","countryid":135,"leagueid":356,"foundationyear":1944,"price":847000000.00}
+  },
+  {
+    "clb_json": {"clubid":714,"nameclub":"FC Mcguire","countryid":136,"leagueid":202,"foundationyear":1947,"price":105000000.00}
+  },
+  {
+    "clb_json": {"clubid":715,"nameclub":"FC Brown","countryid":91,"leagueid":542,"foundationyear":1863,"price":107000000.00}
+  },
+  {
+    "clb_json": {"clubid":716,"nameclub":"FC Cole","countryid":58,"leagueid":665,"foundationyear":1962,"price":717000000.00}
+  },
+  {
+    "clb_json": {"clubid":717,"nameclub":"FC Martinez","countryid":36,"leagueid":719,"foundationyear":1889,"price":702000000.00}
+  },
+  {
+    "clb_json": {"clubid":718,"nameclub":"FC Jenkins","countryid":9,"leagueid":214,"foundationyear":1964,"price":909000000.00}
+  },
+  {
+    "clb_json": {"clubid":719,"nameclub":"FC Gutierrez","countryid":135,"leagueid":418,"foundationyear":1869,"price":240000000.00}
+  },
+  {
+    "clb_json": {"clubid":720,"nameclub":"FC Cisneros","countryid":163,"leagueid":606,"foundationyear":2009,"price":433000000.00}
+  },
+  {
+    "clb_json": {"clubid":721,"nameclub":"FC Sanchez","countryid":161,"leagueid":562,"foundationyear":1873,"price":710000000.00}
+  },
+  {
+    "clb_json": {"clubid":722,"nameclub":"FC Norman","countryid":185,"leagueid":649,"foundationyear":1921,"price":840000000.00}
+  },
+  {
+    "clb_json": {"clubid":723,"nameclub":"FC Quinn","countryid":180,"leagueid":966,"foundationyear":1969,"price":225000000.00}
+  },
+  {
+    "clb_json": {"clubid":724,"nameclub":"FC Cummings","countryid":126,"leagueid":191,"foundationyear":2005,"price":630000000.00}
+  },
+  {
+    "clb_json": {"clubid":725,"nameclub":"FC Yates","countryid":109,"leagueid":905,"foundationyear":1914,"price":993000000.00}
+  },
+  {
+    "clb_json": {"clubid":726,"nameclub":"FC Moyer","countryid":123,"leagueid":951,"foundationyear":1914,"price":91000000.00}
+  },
+  {
+    "clb_json": {"clubid":727,"nameclub":"FC Hayes","countryid":157,"leagueid":421,"foundationyear":1880,"price":683000000.00}
+  },
+  {
+    "clb_json": {"clubid":728,"nameclub":"FC Wright","countryid":98,"leagueid":423,"foundationyear":1893,"price":590000000.00}
+  },
+  {
+    "clb_json": {"clubid":729,"nameclub":"FC Adams","countryid":158,"leagueid":208,"foundationyear":1931,"price":43000000.00}
+  },
+  {
+    "clb_json": {"clubid":730,"nameclub":"FC Jimmy","countryid":45,"leagueid":477,"foundationyear":1998,"price":732000000.00}
+  },
+  {
+    "clb_json": {"clubid":731,"nameclub":"FC Jackson","countryid":23,"leagueid":565,"foundationyear":1932,"price":190000000.00}
+  },
+  {
+    "clb_json": {"clubid":732,"nameclub":"FC Moore","countryid":27,"leagueid":6,"foundationyear":1976,"price":607000000.00}
+  },
+  {
+    "clb_json": {"clubid":733,"nameclub":"FC Wright","countryid":58,"leagueid":522,"foundationyear":1865,"price":15000000.00}
+  },
+  {
+    "clb_json": {"clubid":734,"nameclub":"FC Savage","countryid":174,"leagueid":641,"foundationyear":2002,"price":132000000.00}
+  },
+  {
+    "clb_json": {"clubid":735,"nameclub":"FC Wright","countryid":125,"leagueid":460,"foundationyear":1897,"price":646000000.00}
+  },
+  {
+    "clb_json": {"clubid":736,"nameclub":"FC Jenkins","countryid":80,"leagueid":855,"foundationyear":1871,"price":311000000.00}
+  },
+  {
+    "clb_json": {"clubid":737,"nameclub":"FC Flores","countryid":28,"leagueid":841,"foundationyear":1905,"price":868000000.00}
+  },
+  {
+    "clb_json": {"clubid":738,"nameclub":"FC Juarez","countryid":57,"leagueid":549,"foundationyear":1946,"price":392000000.00}
+  },
+  {
+    "clb_json": {"clubid":739,"nameclub":"FC Mccarty","countryid":58,"leagueid":311,"foundationyear":1902,"price":538000000.00}
+  },
+  {
+    "clb_json": {"clubid":740,"nameclub":"FC Barajas","countryid":44,"leagueid":257,"foundationyear":1870,"price":422000000.00}
+  },
+  {
+    "clb_json": {"clubid":741,"nameclub":"FC Hernandez","countryid":125,"leagueid":269,"foundationyear":1988,"price":934000000.00}
+  },
+  {
+    "clb_json": {"clubid":742,"nameclub":"FC Cruz","countryid":191,"leagueid":603,"foundationyear":2005,"price":855000000.00}
+  },
+  {
+    "clb_json": {"clubid":743,"nameclub":"FC Thomas","countryid":31,"leagueid":553,"foundationyear":1922,"price":490000000.00}
+  },
+  {
+    "clb_json": {"clubid":744,"nameclub":"FC Smith","countryid":103,"leagueid":178,"foundationyear":1909,"price":15000000.00}
+  },
+  {
+    "clb_json": {"clubid":745,"nameclub":"FC Carter","countryid":24,"leagueid":767,"foundationyear":2004,"price":642000000.00}
+  },
+  {
+    "clb_json": {"clubid":746,"nameclub":"FC Novak","countryid":188,"leagueid":539,"foundationyear":1980,"price":912000000.00}
+  },
+  {
+    "clb_json": {"clubid":747,"nameclub":"FC Stewart","countryid":39,"leagueid":957,"foundationyear":1946,"price":386000000.00}
+  },
+  {
+    "clb_json": {"clubid":748,"nameclub":"FC Larson","countryid":108,"leagueid":334,"foundationyear":1859,"price":967000000.00}
+  },
+  {
+    "clb_json": {"clubid":749,"nameclub":"FC Harper","countryid":183,"leagueid":487,"foundationyear":1965,"price":119000000.00}
+  },
+  {
+    "clb_json": {"clubid":750,"nameclub":"FC Fox","countryid":170,"leagueid":548,"foundationyear":1958,"price":302000000.00}
+  },
+  {
+    "clb_json": {"clubid":751,"nameclub":"FC Rivera","countryid":176,"leagueid":981,"foundationyear":1949,"price":240000000.00}
+  },
+  {
+    "clb_json": {"clubid":752,"nameclub":"FC Gentry","countryid":17,"leagueid":458,"foundationyear":1891,"price":242000000.00}
+  },
+  {
+    "clb_json": {"clubid":753,"nameclub":"FC Davis","countryid":130,"leagueid":183,"foundationyear":2004,"price":193000000.00}
+  },
+  {
+    "clb_json": {"clubid":754,"nameclub":"FC Garrison","countryid":117,"leagueid":83,"foundationyear":1999,"price":472000000.00}
+  },
+  {
+    "clb_json": {"clubid":755,"nameclub":"FC Ramirez","countryid":23,"leagueid":231,"foundationyear":1889,"price":507000000.00}
+  },
+  {
+    "clb_json": {"clubid":756,"nameclub":"FC Lewis","countryid":18,"leagueid":645,"foundationyear":1896,"price":445000000.00}
+  },
+  {
+    "clb_json": {"clubid":757,"nameclub":"FC Moore","countryid":3,"leagueid":249,"foundationyear":1905,"price":846000000.00}
+  },
+  {
+    "clb_json": {"clubid":758,"nameclub":"FC Torres","countryid":108,"leagueid":88,"foundationyear":1899,"price":776000000.00}
+  },
+  {
+    "clb_json": {"clubid":759,"nameclub":"FC Savage","countryid":52,"leagueid":316,"foundationyear":1870,"price":328000000.00}
+  },
+  {
+    "clb_json": {"clubid":760,"nameclub":"FC Lowe","countryid":196,"leagueid":693,"foundationyear":1949,"price":261000000.00}
+  },
+  {
+    "clb_json": {"clubid":761,"nameclub":"FC Sparks","countryid":22,"leagueid":805,"foundationyear":1854,"price":719000000.00}
+  },
+  {
+    "clb_json": {"clubid":762,"nameclub":"FC Villa","countryid":121,"leagueid":464,"foundationyear":1976,"price":375000000.00}
+  },
+  {
+    "clb_json": {"clubid":763,"nameclub":"FC Brooks","countryid":61,"leagueid":800,"foundationyear":1930,"price":13000000.00}
+  },
+  {
+    "clb_json": {"clubid":764,"nameclub":"FC Grant","countryid":100,"leagueid":13,"foundationyear":1978,"price":721000000.00}
+  },
+  {
+    "clb_json": {"clubid":765,"nameclub":"FC Lopez","countryid":129,"leagueid":513,"foundationyear":1892,"price":116000000.00}
+  },
+  {
+    "clb_json": {"clubid":766,"nameclub":"FC Smith","countryid":119,"leagueid":51,"foundationyear":1876,"price":156000000.00}
+  },
+  {
+    "clb_json": {"clubid":767,"nameclub":"FC Clayton","countryid":20,"leagueid":191,"foundationyear":1934,"price":971000000.00}
+  },
+  {
+    "clb_json": {"clubid":768,"nameclub":"FC Lawrence","countryid":149,"leagueid":90,"foundationyear":1965,"price":888000000.00}
+  },
+  {
+    "clb_json": {"clubid":769,"nameclub":"FC Myers","countryid":121,"leagueid":452,"foundationyear":1939,"price":202000000.00}
+  },
+  {
+    "clb_json": {"clubid":770,"nameclub":"FC Gibson","countryid":148,"leagueid":854,"foundationyear":1951,"price":260000000.00}
+  },
+  {
+    "clb_json": {"clubid":771,"nameclub":"FC Willis","countryid":160,"leagueid":857,"foundationyear":1862,"price":516000000.00}
+  },
+  {
+    "clb_json": {"clubid":772,"nameclub":"FC Short","countryid":8,"leagueid":616,"foundationyear":1948,"price":897000000.00}
+  },
+  {
+    "clb_json": {"clubid":773,"nameclub":"FC Pearson","countryid":47,"leagueid":918,"foundationyear":1981,"price":974000000.00}
+  },
+  {
+    "clb_json": {"clubid":774,"nameclub":"FC Mcconnell","countryid":182,"leagueid":620,"foundationyear":1883,"price":883000000.00}
+  },
+  {
+    "clb_json": {"clubid":775,"nameclub":"FC Duncan","countryid":5,"leagueid":779,"foundationyear":1874,"price":512000000.00}
+  },
+  {
+    "clb_json": {"clubid":776,"nameclub":"FC Goodwin","countryid":33,"leagueid":439,"foundationyear":1945,"price":370000000.00}
+  },
+  {
+    "clb_json": {"clubid":777,"nameclub":"FC Miller","countryid":145,"leagueid":80,"foundationyear":1952,"price":366000000.00}
+  },
+  {
+    "clb_json": {"clubid":778,"nameclub":"FC King","countryid":117,"leagueid":586,"foundationyear":1984,"price":761000000.00}
+  },
+  {
+    "clb_json": {"clubid":779,"nameclub":"FC Ramsey","countryid":69,"leagueid":703,"foundationyear":1977,"price":371000000.00}
+  },
+  {
+    "clb_json": {"clubid":780,"nameclub":"FC Noble","countryid":129,"leagueid":942,"foundationyear":1912,"price":44000000.00}
+  },
+  {
+    "clb_json": {"clubid":781,"nameclub":"FC Jackson","countryid":184,"leagueid":780,"foundationyear":1853,"price":787000000.00}
+  },
+  {
+    "clb_json": {"clubid":782,"nameclub":"FC Waller","countryid":140,"leagueid":107,"foundationyear":1983,"price":330000000.00}
+  },
+  {
+    "clb_json": {"clubid":783,"nameclub":"FC Schmidt","countryid":159,"leagueid":231,"foundationyear":2020,"price":832000000.00}
+  },
+  {
+    "clb_json": {"clubid":784,"nameclub":"FC Murphy","countryid":152,"leagueid":725,"foundationyear":1894,"price":355000000.00}
+  },
+  {
+    "clb_json": {"clubid":785,"nameclub":"FC Cabrera","countryid":142,"leagueid":835,"foundationyear":1878,"price":99000000.00}
+  },
+  {
+    "clb_json": {"clubid":786,"nameclub":"FC Martinez","countryid":114,"leagueid":330,"foundationyear":1884,"price":258000000.00}
+  },
+  {
+    "clb_json": {"clubid":787,"nameclub":"FC Simmons","countryid":138,"leagueid":95,"foundationyear":1993,"price":539000000.00}
+  },
+  {
+    "clb_json": {"clubid":788,"nameclub":"FC Cross","countryid":57,"leagueid":762,"foundationyear":2004,"price":992000000.00}
+  },
+  {
+    "clb_json": {"clubid":789,"nameclub":"FC Rivers","countryid":114,"leagueid":747,"foundationyear":2008,"price":574000000.00}
+  },
+  {
+    "clb_json": {"clubid":790,"nameclub":"FC Harrison","countryid":63,"leagueid":252,"foundationyear":1881,"price":993000000.00}
+  },
+  {
+    "clb_json": {"clubid":791,"nameclub":"FC Malone","countryid":135,"leagueid":863,"foundationyear":1966,"price":287000000.00}
+  },
+  {
+    "clb_json": {"clubid":792,"nameclub":"FC Hoffman","countryid":101,"leagueid":660,"foundationyear":1984,"price":793000000.00}
+  },
+  {
+    "clb_json": {"clubid":793,"nameclub":"FC Rogers","countryid":87,"leagueid":181,"foundationyear":1883,"price":247000000.00}
+  },
+  {
+    "clb_json": {"clubid":794,"nameclub":"FC Shelton","countryid":37,"leagueid":23,"foundationyear":1885,"price":211000000.00}
+  },
+  {
+    "clb_json": {"clubid":795,"nameclub":"FC Wiggins","countryid":129,"leagueid":438,"foundationyear":2004,"price":656000000.00}
+  },
+  {
+    "clb_json": {"clubid":796,"nameclub":"FC Allen","countryid":154,"leagueid":610,"foundationyear":1884,"price":736000000.00}
+  },
+  {
+    "clb_json": {"clubid":797,"nameclub":"FC Munoz","countryid":78,"leagueid":169,"foundationyear":1962,"price":753000000.00}
+  },
+  {
+    "clb_json": {"clubid":798,"nameclub":"FC Wilson","countryid":144,"leagueid":182,"foundationyear":1876,"price":840000000.00}
+  },
+  {
+    "clb_json": {"clubid":799,"nameclub":"FC Carlson","countryid":91,"leagueid":849,"foundationyear":2003,"price":201000000.00}
+  },
+  {
+    "clb_json": {"clubid":800,"nameclub":"FC Whitney","countryid":66,"leagueid":155,"foundationyear":1950,"price":389000000.00}
+  },
+  {
+    "clb_json": {"clubid":801,"nameclub":"FC Kaufman","countryid":143,"leagueid":987,"foundationyear":1936,"price":136000000.00}
+  },
+  {
+    "clb_json": {"clubid":802,"nameclub":"FC Lee","countryid":99,"leagueid":492,"foundationyear":1860,"price":848000000.00}
+  },
+  {
+    "clb_json": {"clubid":803,"nameclub":"FC Marquez","countryid":37,"leagueid":32,"foundationyear":1970,"price":3000000.00}
+  },
+  {
+    "clb_json": {"clubid":804,"nameclub":"FC Thomas","countryid":36,"leagueid":133,"foundationyear":2004,"price":675000000.00}
+  },
+  {
+    "clb_json": {"clubid":805,"nameclub":"FC Johnson","countryid":98,"leagueid":518,"foundationyear":1900,"price":254000000.00}
+  },
+  {
+    "clb_json": {"clubid":806,"nameclub":"FC Clay","countryid":188,"leagueid":41,"foundationyear":1901,"price":501000000.00}
+  },
+  {
+    "clb_json": {"clubid":807,"nameclub":"FC Robinson","countryid":110,"leagueid":371,"foundationyear":1995,"price":757000000.00}
+  },
+  {
+    "clb_json": {"clubid":808,"nameclub":"FC Wells","countryid":199,"leagueid":708,"foundationyear":1904,"price":541000000.00}
+  },
+  {
+    "clb_json": {"clubid":809,"nameclub":"FC Ellis","countryid":188,"leagueid":716,"foundationyear":1875,"price":590000000.00}
+  },
+  {
+    "clb_json": {"clubid":810,"nameclub":"FC Mooney","countryid":45,"leagueid":14,"foundationyear":1936,"price":863000000.00}
+  },
+  {
+    "clb_json": {"clubid":811,"nameclub":"FC Sanders","countryid":113,"leagueid":366,"foundationyear":1876,"price":448000000.00}
+  },
+  {
+    "clb_json": {"clubid":812,"nameclub":"FC Munoz","countryid":134,"leagueid":42,"foundationyear":2013,"price":476000000.00}
+  },
+  {
+    "clb_json": {"clubid":813,"nameclub":"FC Cooper","countryid":27,"leagueid":528,"foundationyear":1871,"price":845000000.00}
+  },
+  {
+    "clb_json": {"clubid":814,"nameclub":"FC Ford","countryid":95,"leagueid":161,"foundationyear":2013,"price":521000000.00}
+  },
+  {
+    "clb_json": {"clubid":815,"nameclub":"FC Sanchez","countryid":125,"leagueid":487,"foundationyear":2020,"price":784000000.00}
+  },
+  {
+    "clb_json": {"clubid":816,"nameclub":"FC Gomez","countryid":126,"leagueid":467,"foundationyear":1883,"price":796000000.00}
+  },
+  {
+    "clb_json": {"clubid":817,"nameclub":"FC Gray","countryid":167,"leagueid":145,"foundationyear":1853,"price":745000000.00}
+  },
+  {
+    "clb_json": {"clubid":818,"nameclub":"FC Harris","countryid":196,"leagueid":167,"foundationyear":1892,"price":438000000.00}
+  },
+  {
+    "clb_json": {"clubid":819,"nameclub":"FC Bailey","countryid":143,"leagueid":712,"foundationyear":1865,"price":154000000.00}
+  },
+  {
+    "clb_json": {"clubid":820,"nameclub":"FC Cook","countryid":47,"leagueid":2,"foundationyear":1887,"price":378000000.00}
+  },
+  {
+    "clb_json": {"clubid":821,"nameclub":"FC Silva","countryid":34,"leagueid":32,"foundationyear":1928,"price":707000000.00}
+  },
+  {
+    "clb_json": {"clubid":822,"nameclub":"FC Mcdonald","countryid":116,"leagueid":716,"foundationyear":1909,"price":478000000.00}
+  },
+  {
+    "clb_json": {"clubid":823,"nameclub":"FC Lee","countryid":77,"leagueid":713,"foundationyear":1931,"price":937000000.00}
+  },
+  {
+    "clb_json": {"clubid":824,"nameclub":"FC Johns","countryid":106,"leagueid":645,"foundationyear":1881,"price":337000000.00}
+  },
+  {
+    "clb_json": {"clubid":825,"nameclub":"FC Faulkner","countryid":38,"leagueid":92,"foundationyear":1965,"price":819000000.00}
+  },
+  {
+    "clb_json": {"clubid":826,"nameclub":"FC Maldonado","countryid":184,"leagueid":266,"foundationyear":1913,"price":152000000.00}
+  },
+  {
+    "clb_json": {"clubid":827,"nameclub":"FC Cortez","countryid":31,"leagueid":611,"foundationyear":1985,"price":644000000.00}
+  },
+  {
+    "clb_json": {"clubid":828,"nameclub":"FC Thomas","countryid":170,"leagueid":466,"foundationyear":1929,"price":480000000.00}
+  },
+  {
+    "clb_json": {"clubid":829,"nameclub":"FC Thompson","countryid":18,"leagueid":982,"foundationyear":1927,"price":63000000.00}
+  },
+  {
+    "clb_json": {"clubid":830,"nameclub":"FC Russell","countryid":122,"leagueid":99,"foundationyear":1940,"price":525000000.00}
+  },
+  {
+    "clb_json": {"clubid":831,"nameclub":"FC Kerr","countryid":81,"leagueid":265,"foundationyear":1942,"price":133000000.00}
+  },
+  {
+    "clb_json": {"clubid":832,"nameclub":"FC Mitchell","countryid":53,"leagueid":505,"foundationyear":1858,"price":981000000.00}
+  },
+  {
+    "clb_json": {"clubid":833,"nameclub":"FC Nash","countryid":81,"leagueid":989,"foundationyear":1972,"price":450000000.00}
+  },
+  {
+    "clb_json": {"clubid":834,"nameclub":"FC Castillo","countryid":4,"leagueid":494,"foundationyear":1971,"price":816000000.00}
+  },
+  {
+    "clb_json": {"clubid":835,"nameclub":"FC Aguirre","countryid":22,"leagueid":499,"foundationyear":1994,"price":241000000.00}
+  },
+  {
+    "clb_json": {"clubid":836,"nameclub":"FC Obrien","countryid":129,"leagueid":527,"foundationyear":1909,"price":72000000.00}
+  },
+  {
+    "clb_json": {"clubid":837,"nameclub":"FC Bennett","countryid":176,"leagueid":720,"foundationyear":1890,"price":547000000.00}
+  },
+  {
+    "clb_json": {"clubid":838,"nameclub":"FC Fletcher","countryid":135,"leagueid":55,"foundationyear":1931,"price":661000000.00}
+  },
+  {
+    "clb_json": {"clubid":839,"nameclub":"FC Juan","countryid":82,"leagueid":821,"foundationyear":1937,"price":565000000.00}
+  },
+  {
+    "clb_json": {"clubid":840,"nameclub":"FC Kirby","countryid":16,"leagueid":756,"foundationyear":1850,"price":974000000.00}
+  },
+  {
+    "clb_json": {"clubid":841,"nameclub":"FC Hicks","countryid":169,"leagueid":640,"foundationyear":1957,"price":210000000.00}
+  },
+  {
+    "clb_json": {"clubid":842,"nameclub":"FC Thomas","countryid":107,"leagueid":156,"foundationyear":1900,"price":155000000.00}
+  },
+  {
+    "clb_json": {"clubid":843,"nameclub":"FC Roman","countryid":134,"leagueid":36,"foundationyear":1973,"price":497000000.00}
+  },
+  {
+    "clb_json": {"clubid":844,"nameclub":"FC Ward","countryid":183,"leagueid":394,"foundationyear":1894,"price":331000000.00}
+  },
+  {
+    "clb_json": {"clubid":845,"nameclub":"FC Schwartz","countryid":181,"leagueid":993,"foundationyear":1878,"price":4000000.00}
+  },
+  {
+    "clb_json": {"clubid":846,"nameclub":"FC Robinson","countryid":141,"leagueid":865,"foundationyear":1864,"price":458000000.00}
+  },
+  {
+    "clb_json": {"clubid":847,"nameclub":"FC Russell","countryid":193,"leagueid":764,"foundationyear":1946,"price":234000000.00}
+  },
+  {
+    "clb_json": {"clubid":848,"nameclub":"FC Conrad","countryid":28,"leagueid":494,"foundationyear":1969,"price":586000000.00}
+  },
+  {
+    "clb_json": {"clubid":849,"nameclub":"FC Casey","countryid":117,"leagueid":918,"foundationyear":1883,"price":142000000.00}
+  },
+  {
+    "clb_json": {"clubid":850,"nameclub":"FC Bennett","countryid":21,"leagueid":402,"foundationyear":2001,"price":135000000.00}
+  },
+  {
+    "clb_json": {"clubid":851,"nameclub":"FC Peck","countryid":154,"leagueid":502,"foundationyear":1915,"price":739000000.00}
+  },
+  {
+    "clb_json": {"clubid":852,"nameclub":"FC Ellis","countryid":26,"leagueid":260,"foundationyear":1943,"price":523000000.00}
+  },
+  {
+    "clb_json": {"clubid":853,"nameclub":"FC Smith","countryid":41,"leagueid":689,"foundationyear":2006,"price":399000000.00}
+  },
+  {
+    "clb_json": {"clubid":854,"nameclub":"FC Patterson","countryid":70,"leagueid":810,"foundationyear":1977,"price":871000000.00}
+  },
+  {
+    "clb_json": {"clubid":855,"nameclub":"FC Holmes","countryid":124,"leagueid":184,"foundationyear":1919,"price":860000000.00}
+  },
+  {
+    "clb_json": {"clubid":856,"nameclub":"FC Becker","countryid":22,"leagueid":831,"foundationyear":1935,"price":34000000.00}
+  },
+  {
+    "clb_json": {"clubid":857,"nameclub":"FC Gardner","countryid":66,"leagueid":661,"foundationyear":2002,"price":15000000.00}
+  },
+  {
+    "clb_json": {"clubid":858,"nameclub":"FC Jones","countryid":181,"leagueid":369,"foundationyear":2020,"price":631000000.00}
+  },
+  {
+    "clb_json": {"clubid":859,"nameclub":"FC Moore","countryid":56,"leagueid":234,"foundationyear":1912,"price":186000000.00}
+  },
+  {
+    "clb_json": {"clubid":860,"nameclub":"FC Marsh","countryid":36,"leagueid":733,"foundationyear":1909,"price":588000000.00}
+  },
+  {
+    "clb_json": {"clubid":861,"nameclub":"FC Rose","countryid":19,"leagueid":58,"foundationyear":1918,"price":613000000.00}
+  },
+  {
+    "clb_json": {"clubid":862,"nameclub":"FC Bentley","countryid":9,"leagueid":859,"foundationyear":1938,"price":929000000.00}
+  },
+  {
+    "clb_json": {"clubid":863,"nameclub":"FC Ray","countryid":63,"leagueid":934,"foundationyear":2014,"price":698000000.00}
+  },
+  {
+    "clb_json": {"clubid":864,"nameclub":"FC Bryant","countryid":82,"leagueid":736,"foundationyear":1890,"price":330000000.00}
+  },
+  {
+    "clb_json": {"clubid":865,"nameclub":"FC Pratt","countryid":35,"leagueid":313,"foundationyear":1957,"price":938000000.00}
+  },
+  {
+    "clb_json": {"clubid":866,"nameclub":"FC Davis","countryid":29,"leagueid":516,"foundationyear":2010,"price":459000000.00}
+  },
+  {
+    "clb_json": {"clubid":867,"nameclub":"FC Rojas","countryid":145,"leagueid":430,"foundationyear":1959,"price":143000000.00}
+  },
+  {
+    "clb_json": {"clubid":868,"nameclub":"FC Friedman","countryid":24,"leagueid":692,"foundationyear":1975,"price":76000000.00}
+  },
+  {
+    "clb_json": {"clubid":869,"nameclub":"FC Williams","countryid":65,"leagueid":519,"foundationyear":1917,"price":26000000.00}
+  },
+  {
+    "clb_json": {"clubid":870,"nameclub":"FC Gutierrez","countryid":23,"leagueid":781,"foundationyear":1996,"price":284000000.00}
+  },
+  {
+    "clb_json": {"clubid":871,"nameclub":"FC Sanchez","countryid":36,"leagueid":443,"foundationyear":2018,"price":203000000.00}
+  },
+  {
+    "clb_json": {"clubid":872,"nameclub":"FC Peterson","countryid":116,"leagueid":550,"foundationyear":1925,"price":399000000.00}
+  },
+  {
+    "clb_json": {"clubid":873,"nameclub":"FC Holt","countryid":197,"leagueid":27,"foundationyear":1965,"price":593000000.00}
+  },
+  {
+    "clb_json": {"clubid":874,"nameclub":"FC Briggs","countryid":45,"leagueid":132,"foundationyear":2001,"price":422000000.00}
+  },
+  {
+    "clb_json": {"clubid":875,"nameclub":"FC Nelson","countryid":195,"leagueid":615,"foundationyear":1931,"price":653000000.00}
+  },
+  {
+    "clb_json": {"clubid":876,"nameclub":"FC Bryan","countryid":25,"leagueid":360,"foundationyear":1917,"price":735000000.00}
+  },
+  {
+    "clb_json": {"clubid":877,"nameclub":"FC Gonzalez","countryid":144,"leagueid":247,"foundationyear":1889,"price":56000000.00}
+  },
+  {
+    "clb_json": {"clubid":878,"nameclub":"FC Morton","countryid":143,"leagueid":297,"foundationyear":2003,"price":465000000.00}
+  },
+  {
+    "clb_json": {"clubid":879,"nameclub":"FC Reyes","countryid":34,"leagueid":480,"foundationyear":1902,"price":876000000.00}
+  },
+  {
+    "clb_json": {"clubid":880,"nameclub":"FC Ward","countryid":102,"leagueid":467,"foundationyear":1928,"price":633000000.00}
+  },
+  {
+    "clb_json": {"clubid":881,"nameclub":"FC Hunt","countryid":44,"leagueid":191,"foundationyear":1974,"price":54000000.00}
+  },
+  {
+    "clb_json": {"clubid":882,"nameclub":"FC Underwood","countryid":135,"leagueid":373,"foundationyear":2008,"price":477000000.00}
+  },
+  {
+    "clb_json": {"clubid":883,"nameclub":"FC Mcdaniel","countryid":119,"leagueid":984,"foundationyear":1942,"price":905000000.00}
+  },
+  {
+    "clb_json": {"clubid":884,"nameclub":"FC Edwards","countryid":131,"leagueid":88,"foundationyear":1876,"price":704000000.00}
+  },
+  {
+    "clb_json": {"clubid":885,"nameclub":"FC Blackwell","countryid":111,"leagueid":382,"foundationyear":1975,"price":17000000.00}
+  },
+  {
+    "clb_json": {"clubid":886,"nameclub":"FC Ferguson","countryid":8,"leagueid":128,"foundationyear":1864,"price":362000000.00}
+  },
+  {
+    "clb_json": {"clubid":887,"nameclub":"FC Brown","countryid":199,"leagueid":547,"foundationyear":1863,"price":846000000.00}
+  },
+  {
+    "clb_json": {"clubid":888,"nameclub":"FC Lewis","countryid":192,"leagueid":86,"foundationyear":2010,"price":38000000.00}
+  },
+  {
+    "clb_json": {"clubid":889,"nameclub":"FC Gonzalez","countryid":122,"leagueid":594,"foundationyear":1926,"price":500000000.00}
+  },
+  {
+    "clb_json": {"clubid":890,"nameclub":"FC Weaver","countryid":6,"leagueid":520,"foundationyear":1893,"price":291000000.00}
+  },
+  {
+    "clb_json": {"clubid":891,"nameclub":"FC Parsons","countryid":128,"leagueid":930,"foundationyear":2022,"price":58000000.00}
+  },
+  {
+    "clb_json": {"clubid":892,"nameclub":"FC Gibson","countryid":42,"leagueid":580,"foundationyear":1864,"price":487000000.00}
+  },
+  {
+    "clb_json": {"clubid":893,"nameclub":"FC Cook","countryid":62,"leagueid":539,"foundationyear":1875,"price":530000000.00}
+  },
+  {
+    "clb_json": {"clubid":894,"nameclub":"FC Donovan","countryid":180,"leagueid":35,"foundationyear":1908,"price":425000000.00}
+  },
+  {
+    "clb_json": {"clubid":895,"nameclub":"FC Henderson","countryid":73,"leagueid":887,"foundationyear":2014,"price":327000000.00}
+  },
+  {
+    "clb_json": {"clubid":896,"nameclub":"FC Bender","countryid":156,"leagueid":785,"foundationyear":2009,"price":506000000.00}
+  },
+  {
+    "clb_json": {"clubid":897,"nameclub":"FC Baxter","countryid":185,"leagueid":428,"foundationyear":1852,"price":344000000.00}
+  },
+  {
+    "clb_json": {"clubid":898,"nameclub":"FC Smith","countryid":95,"leagueid":134,"foundationyear":1866,"price":753000000.00}
+  },
+  {
+    "clb_json": {"clubid":899,"nameclub":"FC Madden","countryid":146,"leagueid":806,"foundationyear":1961,"price":332000000.00}
+  },
+  {
+    "clb_json": {"clubid":900,"nameclub":"FC Wright","countryid":30,"leagueid":526,"foundationyear":1957,"price":136000000.00}
+  },
+  {
+    "clb_json": {"clubid":901,"nameclub":"FC Jackson","countryid":75,"leagueid":815,"foundationyear":1952,"price":343000000.00}
+  },
+  {
+    "clb_json": {"clubid":902,"nameclub":"FC Montes","countryid":175,"leagueid":193,"foundationyear":1997,"price":332000000.00}
+  },
+  {
+    "clb_json": {"clubid":903,"nameclub":"FC Choi","countryid":55,"leagueid":333,"foundationyear":1888,"price":73000000.00}
+  },
+  {
+    "clb_json": {"clubid":904,"nameclub":"FC Watkins","countryid":141,"leagueid":924,"foundationyear":2000,"price":919000000.00}
+  },
+  {
+    "clb_json": {"clubid":905,"nameclub":"FC Fuller","countryid":143,"leagueid":764,"foundationyear":1994,"price":381000000.00}
+  },
+  {
+    "clb_json": {"clubid":906,"nameclub":"FC Butler","countryid":148,"leagueid":701,"foundationyear":1971,"price":94000000.00}
+  },
+  {
+    "clb_json": {"clubid":907,"nameclub":"FC Davis","countryid":53,"leagueid":7,"foundationyear":1972,"price":50000000.00}
+  },
+  {
+    "clb_json": {"clubid":908,"nameclub":"FC Craig","countryid":197,"leagueid":870,"foundationyear":1911,"price":239000000.00}
+  },
+  {
+    "clb_json": {"clubid":909,"nameclub":"FC Jordan","countryid":159,"leagueid":208,"foundationyear":1858,"price":381000000.00}
+  },
+  {
+    "clb_json": {"clubid":910,"nameclub":"FC Ho","countryid":76,"leagueid":281,"foundationyear":1959,"price":928000000.00}
+  },
+  {
+    "clb_json": {"clubid":911,"nameclub":"FC Johnson","countryid":160,"leagueid":680,"foundationyear":1972,"price":836000000.00}
+  },
+  {
+    "clb_json": {"clubid":912,"nameclub":"FC Olsen","countryid":116,"leagueid":827,"foundationyear":1869,"price":358000000.00}
+  },
+  {
+    "clb_json": {"clubid":913,"nameclub":"FC Hill","countryid":89,"leagueid":327,"foundationyear":1862,"price":507000000.00}
+  },
+  {
+    "clb_json": {"clubid":914,"nameclub":"FC Herman","countryid":194,"leagueid":135,"foundationyear":1897,"price":992000000.00}
+  },
+  {
+    "clb_json": {"clubid":915,"nameclub":"FC Johnson","countryid":115,"leagueid":294,"foundationyear":1949,"price":685000000.00}
+  },
+  {
+    "clb_json": {"clubid":916,"nameclub":"FC Murray","countryid":24,"leagueid":366,"foundationyear":2003,"price":728000000.00}
+  },
+  {
+    "clb_json": {"clubid":917,"nameclub":"FC Leach","countryid":178,"leagueid":725,"foundationyear":1890,"price":378000000.00}
+  },
+  {
+    "clb_json": {"clubid":918,"nameclub":"FC Pearson","countryid":73,"leagueid":711,"foundationyear":1919,"price":602000000.00}
+  },
+  {
+    "clb_json": {"clubid":919,"nameclub":"FC Eaton","countryid":81,"leagueid":186,"foundationyear":1897,"price":363000000.00}
+  },
+  {
+    "clb_json": {"clubid":920,"nameclub":"FC Richmond","countryid":184,"leagueid":754,"foundationyear":1915,"price":990000000.00}
+  },
+  {
+    "clb_json": {"clubid":921,"nameclub":"FC Wood","countryid":159,"leagueid":639,"foundationyear":1986,"price":44000000.00}
+  },
+  {
+    "clb_json": {"clubid":922,"nameclub":"FC Davis","countryid":77,"leagueid":383,"foundationyear":2020,"price":149000000.00}
+  },
+  {
+    "clb_json": {"clubid":923,"nameclub":"FC Green","countryid":177,"leagueid":581,"foundationyear":1935,"price":525000000.00}
+  },
+  {
+    "clb_json": {"clubid":924,"nameclub":"FC Fletcher","countryid":46,"leagueid":553,"foundationyear":1945,"price":221000000.00}
+  },
+  {
+    "clb_json": {"clubid":925,"nameclub":"FC James","countryid":77,"leagueid":647,"foundationyear":1928,"price":911000000.00}
+  },
+  {
+    "clb_json": {"clubid":926,"nameclub":"FC Frost","countryid":138,"leagueid":36,"foundationyear":1983,"price":605000000.00}
+  },
+  {
+    "clb_json": {"clubid":927,"nameclub":"FC Ward","countryid":108,"leagueid":68,"foundationyear":1856,"price":735000000.00}
+  },
+  {
+    "clb_json": {"clubid":928,"nameclub":"FC Young","countryid":119,"leagueid":901,"foundationyear":1910,"price":157000000.00}
+  },
+  {
+    "clb_json": {"clubid":929,"nameclub":"FC Riddle","countryid":93,"leagueid":479,"foundationyear":1984,"price":41000000.00}
+  },
+  {
+    "clb_json": {"clubid":930,"nameclub":"FC Lamb","countryid":1,"leagueid":999,"foundationyear":2012,"price":794000000.00}
+  },
+  {
+    "clb_json": {"clubid":931,"nameclub":"FC Maddox","countryid":17,"leagueid":567,"foundationyear":1894,"price":7000000.00}
+  },
+  {
+    "clb_json": {"clubid":932,"nameclub":"FC Larsen","countryid":169,"leagueid":133,"foundationyear":1999,"price":329000000.00}
+  },
+  {
+    "clb_json": {"clubid":933,"nameclub":"FC Nelson","countryid":46,"leagueid":800,"foundationyear":1887,"price":954000000.00}
+  },
+  {
+    "clb_json": {"clubid":934,"nameclub":"FC Smith","countryid":83,"leagueid":681,"foundationyear":1981,"price":962000000.00}
+  },
+  {
+    "clb_json": {"clubid":935,"nameclub":"FC Miller","countryid":49,"leagueid":739,"foundationyear":1924,"price":639000000.00}
+  },
+  {
+    "clb_json": {"clubid":936,"nameclub":"FC Macdonald","countryid":179,"leagueid":246,"foundationyear":1866,"price":586000000.00}
+  },
+  {
+    "clb_json": {"clubid":937,"nameclub":"FC Nguyen","countryid":149,"leagueid":721,"foundationyear":1980,"price":222000000.00}
+  },
+  {
+    "clb_json": {"clubid":938,"nameclub":"FC Mercer","countryid":192,"leagueid":278,"foundationyear":2015,"price":642000000.00}
+  },
+  {
+    "clb_json": {"clubid":939,"nameclub":"FC Martin","countryid":189,"leagueid":600,"foundationyear":1878,"price":420000000.00}
+  },
+  {
+    "clb_json": {"clubid":940,"nameclub":"FC Martin","countryid":37,"leagueid":678,"foundationyear":1994,"price":270000000.00}
+  },
+  {
+    "clb_json": {"clubid":941,"nameclub":"FC Watson","countryid":72,"leagueid":194,"foundationyear":1945,"price":187000000.00}
+  },
+  {
+    "clb_json": {"clubid":942,"nameclub":"FC Castaneda","countryid":84,"leagueid":728,"foundationyear":1967,"price":587000000.00}
+  },
+  {
+    "clb_json": {"clubid":943,"nameclub":"FC Page","countryid":110,"leagueid":761,"foundationyear":2015,"price":11000000.00}
+  },
+  {
+    "clb_json": {"clubid":944,"nameclub":"FC Estrada","countryid":185,"leagueid":680,"foundationyear":1986,"price":274000000.00}
+  },
+  {
+    "clb_json": {"clubid":945,"nameclub":"FC Blair","countryid":139,"leagueid":994,"foundationyear":1927,"price":834000000.00}
+  },
+  {
+    "clb_json": {"clubid":946,"nameclub":"FC Christensen","countryid":151,"leagueid":751,"foundationyear":2008,"price":637000000.00}
+  },
+  {
+    "clb_json": {"clubid":947,"nameclub":"FC Lee","countryid":23,"leagueid":599,"foundationyear":1905,"price":345000000.00}
+  },
+  {
+    "clb_json": {"clubid":948,"nameclub":"FC Carr","countryid":89,"leagueid":894,"foundationyear":1979,"price":364000000.00}
+  },
+  {
+    "clb_json": {"clubid":949,"nameclub":"FC Johnson","countryid":22,"leagueid":82,"foundationyear":1886,"price":775000000.00}
+  },
+  {
+    "clb_json": {"clubid":950,"nameclub":"FC Robles","countryid":109,"leagueid":151,"foundationyear":1967,"price":52000000.00}
+  },
+  {
+    "clb_json": {"clubid":951,"nameclub":"FC Brown","countryid":24,"leagueid":879,"foundationyear":1971,"price":564000000.00}
+  },
+  {
+    "clb_json": {"clubid":952,"nameclub":"FC Dennis","countryid":117,"leagueid":840,"foundationyear":1992,"price":852000000.00}
+  },
+  {
+    "clb_json": {"clubid":953,"nameclub":"FC Torres","countryid":142,"leagueid":172,"foundationyear":1909,"price":84000000.00}
+  },
+  {
+    "clb_json": {"clubid":954,"nameclub":"FC Foster","countryid":84,"leagueid":194,"foundationyear":1989,"price":243000000.00}
+  },
+  {
+    "clb_json": {"clubid":955,"nameclub":"FC Cooley","countryid":88,"leagueid":274,"foundationyear":2020,"price":115000000.00}
+  },
+  {
+    "clb_json": {"clubid":956,"nameclub":"FC Lee","countryid":180,"leagueid":28,"foundationyear":1877,"price":346000000.00}
+  },
+  {
+    "clb_json": {"clubid":957,"nameclub":"FC Andrews","countryid":166,"leagueid":371,"foundationyear":1999,"price":640000000.00}
+  },
+  {
+    "clb_json": {"clubid":958,"nameclub":"FC Patterson","countryid":195,"leagueid":567,"foundationyear":1892,"price":939000000.00}
+  },
+  {
+    "clb_json": {"clubid":959,"nameclub":"FC Conway","countryid":3,"leagueid":38,"foundationyear":1986,"price":450000000.00}
+  },
+  {
+    "clb_json": {"clubid":960,"nameclub":"FC Herman","countryid":130,"leagueid":941,"foundationyear":1939,"price":326000000.00}
+  },
+  {
+    "clb_json": {"clubid":961,"nameclub":"FC Miller","countryid":115,"leagueid":654,"foundationyear":1963,"price":871000000.00}
+  },
+  {
+    "clb_json": {"clubid":962,"nameclub":"FC Cooper","countryid":102,"leagueid":351,"foundationyear":2020,"price":665000000.00}
+  },
+  {
+    "clb_json": {"clubid":963,"nameclub":"FC Snyder","countryid":80,"leagueid":890,"foundationyear":1887,"price":447000000.00}
+  },
+  {
+    "clb_json": {"clubid":964,"nameclub":"FC Wilson","countryid":135,"leagueid":370,"foundationyear":1932,"price":292000000.00}
+  },
+  {
+    "clb_json": {"clubid":965,"nameclub":"FC Young","countryid":20,"leagueid":14,"foundationyear":1944,"price":208000000.00}
+  },
+  {
+    "clb_json": {"clubid":966,"nameclub":"FC Guerrero","countryid":119,"leagueid":101,"foundationyear":1857,"price":558000000.00}
+  },
+  {
+    "clb_json": {"clubid":967,"nameclub":"FC Perez","countryid":64,"leagueid":346,"foundationyear":2020,"price":768000000.00}
+  },
+  {
+    "clb_json": {"clubid":968,"nameclub":"FC French","countryid":90,"leagueid":495,"foundationyear":1954,"price":614000000.00}
+  },
+  {
+    "clb_json": {"clubid":969,"nameclub":"FC Peterson","countryid":148,"leagueid":337,"foundationyear":1899,"price":161000000.00}
+  },
+  {
+    "clb_json": {"clubid":970,"nameclub":"FC Torres","countryid":46,"leagueid":538,"foundationyear":1851,"price":181000000.00}
+  },
+  {
+    "clb_json": {"clubid":971,"nameclub":"FC Thompson","countryid":187,"leagueid":497,"foundationyear":2022,"price":76000000.00}
+  },
+  {
+    "clb_json": {"clubid":972,"nameclub":"FC Brown","countryid":85,"leagueid":223,"foundationyear":1971,"price":316000000.00}
+  },
+  {
+    "clb_json": {"clubid":973,"nameclub":"FC Yates","countryid":100,"leagueid":157,"foundationyear":1930,"price":334000000.00}
+  },
+  {
+    "clb_json": {"clubid":974,"nameclub":"FC Young","countryid":4,"leagueid":828,"foundationyear":1961,"price":100000000.00}
+  },
+  {
+    "clb_json": {"clubid":975,"nameclub":"FC Young","countryid":119,"leagueid":127,"foundationyear":1908,"price":702000000.00}
+  },
+  {
+    "clb_json": {"clubid":976,"nameclub":"FC Levy","countryid":186,"leagueid":539,"foundationyear":1933,"price":916000000.00}
+  },
+  {
+    "clb_json": {"clubid":977,"nameclub":"FC Mcfarland","countryid":94,"leagueid":789,"foundationyear":1978,"price":808000000.00}
+  },
+  {
+    "clb_json": {"clubid":978,"nameclub":"FC Marshall","countryid":162,"leagueid":723,"foundationyear":1992,"price":284000000.00}
+  },
+  {
+    "clb_json": {"clubid":979,"nameclub":"FC Fisher","countryid":88,"leagueid":505,"foundationyear":1947,"price":355000000.00}
+  },
+  {
+    "clb_json": {"clubid":980,"nameclub":"FC Carter","countryid":141,"leagueid":992,"foundationyear":1872,"price":185000000.00}
+  },
+  {
+    "clb_json": {"clubid":981,"nameclub":"FC Ortiz","countryid":112,"leagueid":965,"foundationyear":1898,"price":110000000.00}
+  },
+  {
+    "clb_json": {"clubid":982,"nameclub":"FC Duncan","countryid":185,"leagueid":33,"foundationyear":1917,"price":415000000.00}
+  },
+  {
+    "clb_json": {"clubid":983,"nameclub":"FC Vanessa","countryid":77,"leagueid":235,"foundationyear":2005,"price":879000000.00}
+  },
+  {
+    "clb_json": {"clubid":984,"nameclub":"FC Elliott","countryid":181,"leagueid":574,"foundationyear":1978,"price":223000000.00}
+  },
+  {
+    "clb_json": {"clubid":985,"nameclub":"FC Cox","countryid":166,"leagueid":227,"foundationyear":1990,"price":800000000.00}
+  },
+  {
+    "clb_json": {"clubid":986,"nameclub":"FC Jensen","countryid":62,"leagueid":62,"foundationyear":1911,"price":687000000.00}
+  },
+  {
+    "clb_json": {"clubid":987,"nameclub":"FC Barnes","countryid":70,"leagueid":714,"foundationyear":1885,"price":112000000.00}
+  },
+  {
+    "clb_json": {"clubid":988,"nameclub":"FC Gonzalez","countryid":151,"leagueid":949,"foundationyear":1905,"price":643000000.00}
+  },
+  {
+    "clb_json": {"clubid":989,"nameclub":"FC Cordova","countryid":68,"leagueid":184,"foundationyear":1884,"price":489000000.00}
+  },
+  {
+    "clb_json": {"clubid":990,"nameclub":"FC Douglas","countryid":124,"leagueid":281,"foundationyear":1865,"price":733000000.00}
+  },
+  {
+    "clb_json": {"clubid":991,"nameclub":"FC Gibson","countryid":170,"leagueid":763,"foundationyear":1938,"price":123000000.00}
+  },
+  {
+    "clb_json": {"clubid":992,"nameclub":"FC Leonard","countryid":46,"leagueid":776,"foundationyear":2009,"price":652000000.00}
+  },
+  {
+    "clb_json": {"clubid":993,"nameclub":"FC Jimenez","countryid":196,"leagueid":746,"foundationyear":1889,"price":201000000.00}
+  },
+  {
+    "clb_json": {"clubid":994,"nameclub":"FC Jordan","countryid":2,"leagueid":610,"foundationyear":2007,"price":861000000.00}
+  },
+  {
+    "clb_json": {"clubid":995,"nameclub":"FC Dennis","countryid":131,"leagueid":84,"foundationyear":1929,"price":385000000.00}
+  },
+  {
+    "clb_json": {"clubid":996,"nameclub":"FC Martinez","countryid":134,"leagueid":659,"foundationyear":1930,"price":281000000.00}
+  },
+  {
+    "clb_json": {"clubid":997,"nameclub":"FC Proctor","countryid":65,"leagueid":768,"foundationyear":1881,"price":180000000.00}
+  },
+  {
+    "clb_json": {"clubid":998,"nameclub":"FC Schmitt","countryid":5,"leagueid":213,"foundationyear":1863,"price":963000000.00}
+  },
+  {
+    "clb_json": {"clubid":999,"nameclub":"FC Zamora","countryid":1,"leagueid":905,"foundationyear":1985,"price":808000000.00}
+  },
+  {
+    "clb_json": {"clubid":1000,"nameclub":"FC Wolf","countryid":37,"leagueid":63,"foundationyear":1883,"price":723000000.00}
+  }
+]
