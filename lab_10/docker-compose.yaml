@@ -1,0 +1,42 @@
+version: '3.7'
+
+volumes:
+  postgres:
+
+services:
+  postgres:
+    container_name: postgres_container
+    image: postgres
+    environment:
+      POSTGRES_USER: root
+      POSTGRES_PASSWORD: postgres
+      PGDATA: /data/postgres
+    volumes:
+        - postgres:/var/lib/postgresql/data
+    ports:
+        - 5432:5432
+    networks:
+        - my_persistent_network
+          
+  # bi grafana
+  grafana:
+      image: grafana/grafana:latest
+      container_name: grafana_container
+      restart: always
+      ports:
+        - "3000:3000"
+      environment:
+        GF_SECURITY_ADMIN_USER: admin
+        GF_SECURITY_ADMIN_PASSWORD: password
+        GF_SERVER_ROOT_URL: http://localhost:3000/grafana/
+        GF_SERVER_SERVE_FROM_SUB_PATH: "true"
+      volumes:
+        - postgres:/var/lib/grafana:rw
+      depends_on:
+        - postgres
+      networks:
+        - my_persistent_network
+
+networks:
+  my_persistent_network:
+    driver: bridge
